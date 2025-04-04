@@ -18,4 +18,5 @@ Time measurements for each response
 
 Similarity and overlap calculations
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text]([https://github.com/minhasir/RAG-IR-/blob/main/nq_processor.py]) ![alt text]([https://github.com/minhasir/RAG-IR-/blob/main/per_question_similarity.png]) ![alt text]([https://github.com/minhasir/RAG-IR-/blob/main/similarity_comparison.png]) ![alt text]([https://github.com/minhasir/RAG-IR-/blob/main/similarity_improvement_distribution.png])
+
