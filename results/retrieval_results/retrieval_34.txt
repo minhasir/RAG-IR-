@@ -1,0 +1,54 @@
+Question: where does jinx you owe me a coke come from
+
+Reference Answer: Jinx is a children 's game with varying rules and penalties that occur when two people unintentionally speak the same word or phrase simultaneously .
+
+Retrieved Documents: 5ee9458c63378e5c30b5ad8c017539d5.txt, 5ee9458c63378e5c30b5ad8c017539d5.txt, 2627ef3ac344ce28ac95d00935d36411.txt
+
+Raw Retrieved Content:
+An alternative penalty is the individual who initiates the jinx begins counting , and the individual who was jinxed is required to provide a coke for every additional number added to the count , prior to the jinx ending .
+
+In America , if there are two people that say something at the same time , then one person can say `` Jinx , you owe me a coke '' The person who says it first gets a free coke from the other person .
+
+Jinx is a children 's game with varying rules and penalties that occur when two people unintentionally speak the same word or phrase simultaneously .
+
+A jinx can be initiated when at least two people say any same word or phrase at the same time . One of them then calls `` jinx '' on the other .
+
+The game ends when someone speaks the jinxee 's name or the jinxee speaks . In the latter case , the jinxee loses the game , and often a penalty is exacted , typically a punch on the arm .
+
+The origin and meaning of the lyrics are subject to debate . Historically the `` Black Betty '' of the title may refer to the nickname given to a number of objects : a musket , a bottle of whiskey , a whip , or a penitentiary transfer wagon .
+
+Processed Retrieved Content:
+An alternative penalty is the individual who initiates the jinx begins counting, and the individual who was jinxed is required to provide a coke for every additional number added to the count, prior to the jinx ending. In America, if there are two people that say something at the same time, then one person can say `` Jinx, you owe me a coke '' The person who says it first gets a free coke from the other person. Jinx is a children 's game with varying rules and penalties that occur when two people unintentionally speak the same word or phrase simultaneously. A jinx can be initiated when at least two people say any same word or phrase at the same time. One of them then calls `` jinx '' on the other. The game ends when someone speaks the jinxee 's name or the jinxee speaks. In the latter case, the jinxee loses the game, and often a penalty is exacted, typically a punch on the arm. The origin and meaning of the lyrics are subject to debate. Historically the `` Black Betty '' of the title may refer to the nickname given to a number of objects: a musket, a bottle of whiskey, a whip, or a penitentiary transfer wagon.
+
+RAG Answer:
+In America, if there are two people that say something at the same time, then one person can say “Jinx, you owe me a coke.”
+
+Standard LLM Answer:
+Okay, let's break down this wonderfully convoluted question! It's a layered play on words and pop culture references. Here's the breakdown and the answer:
+
+**The Layers:**
+
+1.  **"Jinx"**: This refers to the character Jinx from the video game *League of Legends* and, more prominently, the animated series *Arcane*, which is based on *League of Legends*. Jinx is known for her chaotic personality and love of explosions.
+2.  **"You owe me a Coke"**: This is a common phrase used playfully when someone feels they're owed a favor.
+3.  **"Where does Jinx you owe me a Coke come from?"**: This is the core of the puzzle, combining the character's name, the phrase, and asking for the origin of the combined phrase.
+
+**The Answer:**
+
+The phrase "Jinx you owe me a Coke" is a **meme** that originated on **TikTok** in late 2023/early 2024.
+
+**How it Started:**
+
+*   The meme's popularity exploded due to a specific scene from the *Arcane* series. In the scene, Jinx is shown drinking a Coca-Cola.
+*   Users began using the phrase "Jinx you owe me a Coke" as a humorous way to request a Coke from someone, often referencing the character's personality and the scene.
+*   The phrase's nonsensical nature and connection to a popular character made it highly shareable and quickly spread across TikTok and other social media platforms.
+
+**In short, it's a modern internet meme born from a popular video game/show and fueled by TikTok's viral nature.**
+
+
+
+Hopefully, that clears up the origin of this quirky phrase!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6622
+Standard LLM vs Reference Similarity: 0.5478
+Similarity Improvement: 0.1145

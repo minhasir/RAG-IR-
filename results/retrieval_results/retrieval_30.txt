@@ -1,0 +1,35 @@
+Question: inheritance of the a b o blood groups is an example of
+
+Reference Answer: Blood group inheritance Blood type O AB Genotype ii ( OO ) I i ( AO ) I I ( AA ) I i ( BO ) I I ( BB ) I I ( AB ) O ii ( OO ) O OO OO OO OO O or A AO OO AO OO AO AO AO AO O or B BO OO BO OO BO BO BO BO A or B AO BO AO BO I i ( AO ) O or A AO AO OO OO O or A AA AO AO OO AA AA AO AO O , A , B or AB AB AO BO OO B or AB AB AB BO BO A , B or AB AA AB AO BO I I ( AA ) AO AO AO AO AA AO AA AO AA AA AA AA A or AB AB AO AB AO AB AB AB AB AB A or AB AA AB AA AB I i ( BO ) O or B BO BO OO OO O , A , B or AB AB BO AO OO A or AB AB AB AO AO O or B BB BO BO OO BB BB BO BO A , B or AB AB BB AO BO I I ( BB ) BO BO BO BO B or AB AB BO AB BO AB AB AB AB AB BB BO BB BO BB BB BB BB B or AB AB BB AB BB AB I I ( AB ) A or B AO AO BO BO A , B or AB AA AO AB BO A or AB AA AA AB AB A , B or AB AB AO BB BO B or AB AB AB BB BB A , B , or AB AA AB AB BB
+
+Retrieved Documents: a9eea72e063849fb9c44de0163474a9a.txt, a9eea72e063849fb9c44de0163474a9a.txt, a9eea72e063849fb9c44de0163474a9a.txt
+
+Raw Retrieved Content:
+The table above summarizes the various blood groups that children may inherit from their parents . Genotypes are shown in the second column and in small print for the offspring : AO and AA both test as type A ; BO and BB test as type B . The four possibilities represent the combinations obtained when one allele is taken from each parent ; each has a 25 % chance , but some occur more than once .
+
+. A couple with type A and type B can also have a type O child if they are both heterozygous ( I i , I i ) The cis - AB phenotype has a single enzyme that creates both A and B antigens . The resulting red blood cells do not usually express A or B antigen at the same level that would be expected on common group A or B red blood cells , which can help solve the problem of an apparently genetically impossible blood group .
+
+Ludwik Hirszfeld and E. von Dungern discovered the heritability of ABO blood groups in 1910 -- 11 . Felix Bernstein demonstrated the correct blood group inheritance pattern of multiple alleles at one locus in 1924 . Watkins and Morgan , in England , discovered that the ABO epitopes were conferred by sugars , to be specific , N - acetylgalactosamine for the A-type and galactose for the B - type
+
+Processed Retrieved Content:
+The table above summarizes the various blood groups that children may inherit from their parents. Genotypes are shown in the second column and in small print for the offspring: AO and AA both test as type A; BO and BB test as type B. The four possibilities represent the combinations obtained when one allele is taken from each parent; each has a 25 % chance, but some occur more than once.. A couple with type A and type B can also have a type O child if they are both heterozygous ( I i, I i ) The cis - AB phenotype has a single enzyme that creates both A and B antigens. The resulting red blood cells do not usually express A or B antigen at the same level that would be expected on common group A or B red blood cells, which can help solve the problem of an apparently genetically impossible blood group. Ludwik Hirszfeld and E. von Dungern discovered the heritability of ABO blood groups in 1910 -- 11. Felix Bernstein demonstrated the correct blood group inheritance pattern of multiple alleles at one locus in 1924. Watkins and Morgan, in England, discovered that the ABO epitopes were conferred by sugars, to be specific, N - acetylgalactosamine for the A-type and galactose for the B - type
+
+RAG Answer:
+inheritance of the a b o blood groups is an example of multiple alleles at one locus.
+
+Standard LLM Answer:
+Inheritance of the A, B, O blood groups is an example of **multiple alleles**.
+
+Here's why:
+
+*   **Multiple Alleles:** This refers to a gene having more than two possible alleles (versions). The ABO blood group system is controlled by a single gene (the *IA* gene), but it has three common alleles: *IA*, *IB*, and *i*.
+*   **Single Gene, Multiple Alleles:** While the ABO blood type is determined by one gene, the different alleles (*IA*, *IB*, and *i*) result in different phenotypes (blood types A, B, AB, and O).
+
+
+
+Let me know if you'd like a more detailed explanation of how the inheritance works!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6492
+Standard LLM vs Reference Similarity: 0.7091
+Similarity Improvement: -0.0599

@@ -1,0 +1,35 @@
+Question: how many beverly hills cops movies are there
+
+Reference Answer: Beverly Hills Cop is a series of American action comedy films and an unaired television pilot based on characters created by Daniel Petrie , Jr. and Danilo Bach . The films star Eddie Murphy as Axel Foley , a street - smart Detroit cop who travels to Beverly Hills , California to investigate crimes , even though it is out of his jurisdiction . There , he meets Detective Billy Rosewood ( Judge Reinhold ) , Sergeant John Taggart ( John Ashton ) , and Lieutenant Andrew Bogomil ( Ronny Cox ) . Ashton and Cox do not appear in Beverly Hills Cop III . Murphy , Reinhold , and Gil Hill , who plays Axel 's boss , Inspector Todd , are the only actors who appear in all three films . Harold Faltermeyer produced the now famous `` Axel F '' theme song heard throughout the series . The series as a whole have been distributed by Paramount Pictures . The films have made a total of $ 735,534,503 at the worldwide box office .
+
+Retrieved Documents: 261b066414af4c2ae79683fa0063b191.txt, 261b066414af4c2ae79683fa0063b191.txt, 261b066414af4c2ae79683fa0063b191.txt
+
+Raw Retrieved Content:
+Beverly Hills Cop is a series of American action comedy films and an unaired television pilot based on characters created by Daniel Petrie , Jr. and Danilo Bach . The films star Eddie Murphy as Axel Foley , a street - smart Detroit cop who travels to Beverly Hills , California to investigate crimes , even though it is out of his jurisdiction . There , he meets Detective Billy Rosewood ( Judge Reinhold ) , Sergeant John Taggart ( John Ashton ) , and Lieutenant Andrew Bogomil ( Ronny Cox )
+
+. Ashton and Cox do not appear in Beverly Hills Cop III . Murphy , Reinhold , and Gil Hill , who plays Axel 's boss , Inspector Todd , are the only actors who appear in all three films . Harold Faltermeyer produced the now famous `` Axel F '' theme song heard throughout the series . The series as a whole have been distributed by Paramount Pictures . The films have made a total of $ 735,534,503 at the worldwide box office .
+
+. The film was originally scheduled for a March 25 , 2016 release , but on May 6 , 2015 , Paramount Pictures pulled Beverly Hills Cop IV from its release schedule , due to script concerns . On June 14 , 2016 , Deadline.com reported that Adil El Arbi and Bilall Fallah , directors of the Belgian drama Black , would direct the film .
+
+Processed Retrieved Content:
+Beverly Hills Cop is a series of American action comedy films and an unaired television pilot based on characters created by Daniel Petrie, Jr. and Danilo Bach. The films star Eddie Murphy as Axel Foley, a street - smart Detroit cop who travels to Beverly Hills, California to investigate crimes, even though it is out of his jurisdiction. There, he meets Detective Billy Rosewood ( Judge Reinhold ), Sergeant John Taggart ( John Ashton ), and Lieutenant Andrew Bogomil ( Ronny Cox ). Ashton and Cox do not appear in Beverly Hills Cop III. Murphy, Reinhold, and Gil Hill, who plays Axel 's boss, Inspector Todd, are the only actors who appear in all three films. Harold Faltermeyer produced the now famous `` Axel F '' theme song heard throughout the series. The series as a whole have been distributed by Paramount Pictures. The films have made a total of $ 735,534,503 at the worldwide box office.. The film was originally scheduled for a March 25, 2016 release, but on May 6, 2015, Paramount Pictures pulled Beverly Hills Cop IV from its release schedule, due to script concerns. On June 14, 2016, Deadline.com reported that Adil El Arbi and Bilall Fallah, directors of the Belgian drama Black, would direct the film.
+
+RAG Answer:
+There are three Beverly Hills Cop movies.
+
+Standard LLM Answer:
+There are four "Beverly Hills Cop" movies:
+
+1.  **Beverly Hills Cop (1984)**
+2.  **Beverly Hills Cop II (1987)**
+3.  **Beverly Hills Cop III (1994)**
+4.  **Beverly Hills Cop: Axel F (2024)**
+
+
+
+So the answer is **four**.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6332
+Standard LLM vs Reference Similarity: 0.5986
+Similarity Improvement: 0.0346

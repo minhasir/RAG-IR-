@@ -1,0 +1,27 @@
+Question: where was donovan mitchell picked in the draft
+
+Reference Answer: Mitchell was drafted by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft only to be traded to the Utah Jazz for the 24th pick ( Tyler Lydon ) and Trey Lyles . On July 5 , 2017 , Mitchell signed a four - year rookie scale contract with the Jazz . On July 11 , 2017 , Mitchell signed a multi-year shoe deal with Adidas . Later that day , Mitchell scored 37 points against the Memphis Grizzlies in the 2017 NBA Summer League in Las Vegas , the most by any player during the 2017 NBA Summer League . In his NBA debut on October 18 , 2017 , Mitchell registered 10 points and 4 assists against the Denver Nuggets . On December 1 , 2017 , he scored a career - high 41 points in a 114 -- 108 win over the New Orleans Pelicans . He set the Jazz scoring record for a rookie and became the first NBA rookie to score 40 points in a game since Blake Griffin in 2011 . He surpassed Darrell Griffith 's team - record 38 in 1981 . Mitchell also became the seventh rookie in franchise history to ha
+
+Retrieved Documents: 56421e3f67c62aeb718ecbb3d57fb81b.txt, 56421e3f67c62aeb718ecbb3d57fb81b.txt, 56421e3f67c62aeb718ecbb3d57fb81b.txt
+
+Raw Retrieved Content:
+Donovan Corey Mitchell Jr. ( born September 7 , 1996 ) is an American professional basketball player for the Utah Jazz of the National Basketball Association ( NBA ) . He played college basketball for the Louisville Cardinals . He was selected by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft and was later traded on draft night to the Utah Jazz . During his rookie season , Mitchell was named to the NBA All - Rookie First Team and won the Slam Dunk Contest .
+
+Mitchell was drafted by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft only to be traded to the Utah Jazz for the 24th pick ( Tyler Lydon ) and Trey Lyles . On July 5 , 2017 , Mitchell signed a four - year rookie scale contract with the Jazz . On July 11 , 2017 , Mitchell signed a multi-year shoe deal with Adidas
+
+Donovan Mitchell was born on September 7 , 1996 to parents Donovan Mitchell Sr. and Nicole Mitchell . His father Donovan Sr. serves as director of players relations for the New York Mets . He has a younger sister named Jordan . Mitchell was born and raised in Elmsford , New York and attended Greenwich Country Day School in Greenwich , Connecticut . Mitchell played his AAU basketball for The City and Riverside Hawks programs based out of New York City .
+
+Processed Retrieved Content:
+Donovan Corey Mitchell Jr. ( born September 7, 1996 ) is an American professional basketball player for the Utah Jazz of the National Basketball Association ( NBA ). He played college basketball for the Louisville Cardinals. He was selected by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft and was later traded on draft night to the Utah Jazz. During his rookie season, Mitchell was named to the NBA All - Rookie First Team and won the Slam Dunk Contest. Mitchell was drafted by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft only to be traded to the Utah Jazz for the 24th pick ( Tyler Lydon ) and Trey Lyles. On July 5, 2017, Mitchell signed a four - year rookie scale contract with the Jazz. On July 11, 2017, Mitchell signed a multi-year shoe deal with Adidas Donovan Mitchell was born on September 7, 1996 to parents Donovan Mitchell Sr. and Nicole Mitchell. His father Donovan Sr. serves as director of players relations for the New York Mets. He has a younger sister named Jordan. Mitchell was born and raised in Elmsford, New York and attended Greenwich Country Day School in Greenwich, Connecticut. Mitchell played his AAU basketball for The City and Riverside Hawks programs based out of New York City.
+
+RAG Answer:
+Donovan Mitchell was selected by the Denver Nuggets with the 13th overall pick in the 2017 NBA draft.
+
+Standard LLM Answer:
+Donovan Mitchell was drafted 3rd overall by the Cleveland Cavaliers in the 2017 NBA draft.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6494
+Standard LLM vs Reference Similarity: 0.6521
+Similarity Improvement: -0.0027

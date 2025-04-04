@@ -1,0 +1,38 @@
+Question: when does maggie come on grey's anatomy
+
+Reference Answer: When Maggie identifies Meredith Grey , her half - sister , she attempts to bond with her . However , Meredith attempts to take charge and conflicts with her on a case . After several arguments , Maggie tells Meredith that she is her half - sister . Meredith , in disbelief , points out that she would know that her mother would be pregnant when she was five years old , as Maggie is five years younger than her . Meredith works with Alex Karev ( Justin Chambers ) to decide whether Maggie is lying or if she is wrong . They discover she is correct . Meredith gets flashes back to the time of her mother 's crisis at five years old , and remembers being at a hospital and hearing a screaming baby . After several weeks , Webber admits to Maggie that he is her father . Maggie is angry at him . Later , when he comes to apologize for not being there as a father , Maggie corrects him and says he is not her father , as she has adoptive parents she loves , and that she is only angry because of his dish
+
+Retrieved Documents: 494f42b2a40962fa3a6dfeb4db5e76d4.txt, 494f42b2a40962fa3a6dfeb4db5e76d4.txt, 494f42b2a40962fa3a6dfeb4db5e76d4.txt
+
+Raw Retrieved Content:
+Maggie is first introduced in the penultimate episode of the tenth season . Cristina Yang ( Sandra Oh ) interviews various different candidates to replace her as the head of her department in Cardiothoracic surgery . Maggie , having finished high school and medical school early , becomes head of her department at 31 years old . It is revealed in the season 10 finale `` Fear ( of the Unknown ) '' , Maggie 's biological mother was Ellis Grey
+
+For the thirteenth season , Vulture writer , Maggie Fremont spoke positively about the character : `` It 's never easy for a long - running series to introduce a new character , especially when that character is meant to immediately fit in with the rest of the ensemble . But when Maggie Pierce arrived in season ten , that 's exactly what Grey 's Anatomy did
+
+Margaret `` Maggie '' Pierce , M.D. is a fictional character from the American television medical drama Grey 's Anatomy , which airs on the American Broadcasting Company ( ABC ) in the United States . The character was created by series producer Shonda Rhimes and is portrayed by actress Kelly McCreary from the tenth season 's penultimate episode onwards . It is revealed in the `` season ten finale '' , Maggie 's biological parents are Richard Webber ( James Pickens Jr
+
+Processed Retrieved Content:
+Maggie is first introduced in the penultimate episode of the tenth season. Cristina Yang ( Sandra Oh ) interviews various different candidates to replace her as the head of her department in Cardiothoracic surgery. Maggie, having finished high school and medical school early, becomes head of her department at 31 years old. It is revealed in the season 10 finale `` Fear ( of the Unknown ) '', Maggie 's biological mother was Ellis Grey For the thirteenth season, Vulture writer, Maggie Fremont spoke positively about the character: `` It 's never easy for a long - running series to introduce a new character, especially when that character is meant to immediately fit in with the rest of the ensemble. But when Maggie Pierce arrived in season ten, that 's exactly what Grey 's Anatomy did Margaret `` Maggie '' Pierce, M.D. is a fictional character from the American television medical drama Grey 's Anatomy, which airs on the American Broadcasting Company ( ABC ) in the United States. The character was created by series producer Shonda Rhimes and is portrayed by actress Kelly McCreary from the tenth season 's penultimate episode onwards. It is revealed in the `` season ten finale '', Maggie 's biological parents are Richard Webber ( James Pickens Jr
+
+RAG Answer:
+Maggie comes on Grey's Anatomy in the tenth season's penultimate episode.
+
+Standard LLM Answer:
+Okay, let's break down the timeline of Maggie's arrival on Grey's Anatomy.
+
+**Maggie first appeared in a recurring role in Season 10, Episode 14, "Don't You Forget About Me," which aired on February 27, 2014.**
+
+Here's a more detailed breakdown:
+
+*   **Initial Appearance:** She was introduced as a brilliant, but somewhat aloof, surgical resident.
+*   **Her Identity Revealed:** It was later revealed (in the season finale of Season 10) that Maggie is Richard Webber's previously unknown daughter.
+*   **Becoming a Regular:** She became a full-time, series regular in **Season 11**.
+
+
+
+So, to answer your question directly: Maggie first appeared on Grey's Anatomy in **Season 10, Episode 14**.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6034
+Standard LLM vs Reference Similarity: 0.6330
+Similarity Improvement: -0.0296

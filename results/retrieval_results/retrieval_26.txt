@@ -1,0 +1,32 @@
+Question: where did the beatles final live performance take place
+
+Reference Answer: The Beatles ' rooftop concert was the final public performance of the English rock band the Beatles . On 30 January 1969 , the band , with keyboardist Billy Preston , surprised a central London office and fashion district with an impromptu concert from the roof of the headquarters of the band 's multimedia corporation Apple Corps at 3 Savile Row . In a 42 - minute set , the Beatles were heard playing nine takes of five songs before the Metropolitan Police Service asked them to reduce the volume . Footage from the performance was later used in the 1970 documentary film Let It Be .
+
+Retrieved Documents: dcfaaf8af8fcc2a92b30681c3e963719.txt, dcfaaf8af8fcc2a92b30681c3e963719.txt, dcfaaf8af8fcc2a92b30681c3e963719.txt
+
+Raw Retrieved Content:
+The Beatles ' rooftop concert was the final public performance of the English rock band the Beatles . On 30 January 1969 , the band , with keyboardist Billy Preston , surprised a central London office and fashion district with an impromptu concert from the roof of the headquarters of the band 's multimedia corporation Apple Corps at 3 Savile Row . In a 42 - minute set , the Beatles were heard playing nine takes of five songs before the Metropolitan Police Service asked them to reduce the volume
+
+McCartney played a surprise mini-concert in midtown Manhattan on 15 July 2009 from the top of the marquee of the Ed Sullivan Theater , where he was recording a performance for Late Show with David Letterman . News of the event spread via Twitter and word of mouth , and nearby street corners were closed off to accommodate fans for the set , which duplicated the original Beatles gig .
+
+Although the concert was unannounced , the Beatles had planned on performing live during their Get Back sessions earlier in January . It is uncertain who had the idea for a rooftop concert , but the suggestion was conceived just days before the actual event . George Harrison brought in keyboardist Billy Preston as an additional musician , in the hope that a talented outside observer would encourage the band to be tight and focused . Ringo Starr remembered :
+
+Processed Retrieved Content:
+The Beatles ' rooftop concert was the final public performance of the English rock band the Beatles. On 30 January 1969, the band, with keyboardist Billy Preston, surprised a central London office and fashion district with an impromptu concert from the roof of the headquarters of the band 's multimedia corporation Apple Corps at 3 Savile Row. In a 42 - minute set, the Beatles were heard playing nine takes of five songs before the Metropolitan Police Service asked them to reduce the volume McCartney played a surprise mini-concert in midtown Manhattan on 15 July 2009 from the top of the marquee of the Ed Sullivan Theater, where he was recording a performance for Late Show with David Letterman. News of the event spread via Twitter and word of mouth, and nearby street corners were closed off to accommodate fans for the set, which duplicated the original Beatles gig. Although the concert was unannounced, the Beatles had planned on performing live during their Get Back sessions earlier in January. It is uncertain who had the idea for a rooftop concert, but the suggestion was conceived just days before the actual event. George Harrison brought in keyboardist Billy Preston as an additional musician, in the hope that a talented outside observer would encourage the band to be tight and focused. Ringo Starr remembered:
+
+RAG Answer:
+The Beatles' final public performance took place on the roof of the headquarters of Apple Corps at 3 Savile Row in central London.
+
+Standard LLM Answer:
+Okay, let's break down those questions and get to the answers!
+
+**Where did the Beatles' final live performance take place?**
+
+The Beatles' final public performance was on **August 29, 1966, on the rooftop of Apple Corps headquarters at 30 Savile Row, London.** It was an unannounced concert that was initially intended to be a recording session, but they played for about 42 minutes, attracting a large crowd and police attention.
+
+Let me know if you'd like more details about that historic performance!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7526
+Standard LLM vs Reference Similarity: 0.7000
+Similarity Improvement: 0.0526

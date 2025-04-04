@@ -1,0 +1,39 @@
+Question: where is the greatest royal rumble taking place
+
+Reference Answer: Greatest Royal Rumble was a professional wrestling pay - per - view event and WWE Network event promoted by WWE for their Raw and SmackDown brands . The event was held on April 27 , 2018 at the King Abdullah Sports City 's King Abdullah International Stadium in Jeddah , Saudi Arabia . The event was scheduled for 7 : 00 p.m. local time . It aired live in the United States at noon EDT , with a pre-show starting at 11 a.m. EDT . At the event , all men 's main roster championships were defended , in addition to a 50 - man Royal Rumble match .
+
+Retrieved Documents: 55cef87c2176d14a703bfd3806de02e5.txt, 55cef87c2176d14a703bfd3806de02e5.txt, 55cef87c2176d14a703bfd3806de02e5.txt
+
+Raw Retrieved Content:
+On March 5 , 2018 , WWE and the Saudi General Sports Authority advertised the Greatest Royal Rumble , a live event to be held on April 27 , 2018 , at King Abdullah International Stadium , part of the King Abdullah Sports City , in Jeddah , Saudi Arabia . The event was part of a 10 - year strategic multi-platform partnership between WWE and the Saudi General Sports Authority in support of Saudi Vision 2030 , Saudi Arabia 's social and economic reform program
+
+On March 5 , 2018 , WWE and the Saudi General Sports Authority advertised the Greatest Royal Rumble , a live event to be held on April 27 , 2018 , at King Abdullah International Stadium , part of the King Abdullah Sports City , in Jeddah , Saudi Arabia . The event is a part of a 10 - year strategic multi-platform partnership between WWE and the Saudi General Sports Authority in support of Saudi Vision 2030 , Saudi Arabia 's social and economic reform program .
+
+Greatest Royal Rumble was a professional wrestling pay - per - view event and WWE Network event promoted by WWE for their Raw and SmackDown brands . The event was held on April 27 , 2018 at the King Abdullah Sports City 's King Abdullah International Stadium in Jeddah , Saudi Arabia . The event was scheduled for 7 : 00 p.m. local time . It aired live in the United States at noon EDT , with a pre-show starting at 11 a.m. EDT
+
+Processed Retrieved Content:
+On March 5, 2018, WWE and the Saudi General Sports Authority advertised the Greatest Royal Rumble, a live event to be held on April 27, 2018, at King Abdullah International Stadium, part of the King Abdullah Sports City, in Jeddah, Saudi Arabia. The event was part of a 10 - year strategic multi-platform partnership between WWE and the Saudi General Sports Authority in support of Saudi Vision 2030, Saudi Arabia 's social and economic reform program On March 5, 2018, WWE and the Saudi General Sports Authority advertised the Greatest Royal Rumble, a live event to be held on April 27, 2018, at King Abdullah International Stadium, part of the King Abdullah Sports City, in Jeddah, Saudi Arabia. The event is a part of a 10 - year strategic multi-platform partnership between WWE and the Saudi General Sports Authority in support of Saudi Vision 2030, Saudi Arabia 's social and economic reform program. Greatest Royal Rumble was a professional wrestling pay - per - view event and WWE Network event promoted by WWE for their Raw and SmackDown brands. The event was held on April 27, 2018 at the King Abdullah Sports City 's King Abdullah International Stadium in Jeddah, Saudi Arabia. The event was scheduled for 7: 00 p.m. local time. It aired live in the United States at noon EDT, with a pre-show starting at 11 a.m. EDT
+
+RAG Answer:
+The Greatest Royal Rumble is taking place at King Abdullah International Stadium, part of the King Abdullah Sports City, in Jeddah, Saudi Arabia.
+
+Standard LLM Answer:
+This is a wonderfully playful and layered question! Let's break it down and answer it with the spirit of the question itself.
+
+The question is essentially a riddle, playing on words and phrases. Here's the breakdown and the answer:
+
+*   **"Greatest Royal Rumble"**: This refers to the famous wrestling event, the Royal Rumble.
+*   **"Taking place"**: This is the key to the riddle. It's not a literal location.
+
+**Therefore, the answer is: In the Imagination!**
+
+It's a playful, nonsensical answer that fits the whimsical nature of the question. The Royal Rumble, in its most spectacular form, exists in the imagination of fans and performers.
+
+
+
+Do you want to play another riddle?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8431
+Standard LLM vs Reference Similarity: 0.6469
+Similarity Improvement: 0.1962

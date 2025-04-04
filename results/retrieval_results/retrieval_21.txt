@@ -1,0 +1,46 @@
+Question: who has won a calendar grand slam in tennis
+
+Reference Answer: Player Grand Slams Singles Doubles Mixed Total Margaret Court Rod Laver Esther Vergeer ( wheelchair tennis ) Don Budge Ken McGregor Frank Sedgman Maureen Connolly Maria Bueno Ken Fletcher Owen Davidson Stefan Edberg ( junior tennis ) Martina Navratilova Pam Shriver Steffi Graf Martina Hingis Korie Homan ( wheelchair tennis ) Sharon Walraven ( wheelchair tennis ) Aniek van Koot ( wheelchair tennis ) Jiske Griffioen ( wheelchair tennis ) Stéphane Houdet ( wheelchair tennis ) Yui Kamiji ( wheelchair tennis ) Jordanne Whiley ( wheelchair tennis )
+
+Retrieved Documents: 51564088b3b27dfc6bffb64a15477434.txt, 51564088b3b27dfc6bffb64a15477434.txt, 51564088b3b27dfc6bffb64a15477434.txt
+
+Raw Retrieved Content:
+The Grand Slam tournaments , also called majors , are the four most important annual tennis events . They offer the most ranking points , prize money , public and media attention , the greatest strength and size of field , and greater number of `` best of '' sets for men . The Grand Slam itinerary consists of the Australian Open in mid January , the French Open in May and June , Wimbledon in July , and the US Open in August and September . Each tournament is played over a period of two weeks
+
+. '' Although the ITF recognizes what is now unofficially known as the `` non-calendar year Grand Slam '' on its Roll of Honour , no subsequent player to win four or more majors in a row -- Steffi Graf , Serena Williams , or Novak Djokovic -- has received bonus prize money .
+
+Eight men and ten women have won Career Grand Slams in singles play ( rows one and two ) ; among them two men and five women have at least two Career Grand Slams in singles ( column three ) . Since the beginning of the open era , five men and six women have achieved this ( Rod Laver , Andre Agassi , Roger Federer , Rafael Nadal , Novak Djokovic ; Margaret Court , Chris Evert , Martina Navratilova , Steffi Graf , Serena Williams and Maria Sharapova ) .
+
+Processed Retrieved Content:
+The Grand Slam tournaments, also called majors, are the four most important annual tennis events. They offer the most ranking points, prize money, public and media attention, the greatest strength and size of field, and greater number of `` best of '' sets for men. The Grand Slam itinerary consists of the Australian Open in mid January, the French Open in May and June, Wimbledon in July, and the US Open in August and September. Each tournament is played over a period of two weeks. '' Although the ITF recognizes what is now unofficially known as the `` non-calendar year Grand Slam '' on its Roll of Honour, no subsequent player to win four or more majors in a row -- Steffi Graf, Serena Williams, or Novak Djokovic -- has received bonus prize money. Eight men and ten women have won Career Grand Slams in singles play ( rows one and two ); among them two men and five women have at least two Career Grand Slams in singles ( column three ). Since the beginning of the open era, five men and six women have achieved this ( Rod Laver, Andre Agassi, Roger Federer, Rafael Nadal, Novak Djokovic; Margaret Court, Chris Evert, Martina Navratilova, Steffi Graf, Serena Williams and Maria Sharapova ).
+
+RAG Answer:
+Based on the provided information, Rod Laver, Andre Agassi, Roger Federer, Rafael Nadal, and Novak Djokovic have achieved this.
+
+Standard LLM Answer:
+Okay, let's break down the question of who has won a calendar-year Grand Slam in tennis. This is a *very* exclusive club.
+
+**What is a Calendar-Year Grand Slam?**
+
+It means winning the Australian Open, French Open (Roland Garros), Wimbledon, and the US Open *all in the same calendar year*.
+
+**Who has achieved it?**
+
+Only **seven** players in history have achieved this feat:
+
+1.  **Don Budge (1938):** The first ever!
+2.  **Rod Laver (1962):**  A true legend.
+3.  **Rod Laver (1969):** Yes, he did it twice!
+4.  **Margaret Court (1970):**  A dominant force in women's tennis.
+5.  **Steffi Graf (1988):**  A remarkable achievement, part of her incredible "Golden Slam" (winning all four Grand Slams *and* the Olympic gold medal that year).
+6.  **Novak Djokovic (2023):** The most recent to achieve the feat.
+7.  **Iga Świątek (2024):** The most recent to achieve the feat.
+
+
+
+So, the answer is a short list of truly exceptional athletes!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5956
+Standard LLM vs Reference Similarity: 0.6492
+Similarity Improvement: -0.0536

@@ -1,0 +1,37 @@
+Question: who holds the most women's wimbledon titles
+
+Reference Answer: Wimbledon Ladies ' Singles Champions Location London United Kingdom Venue AELTC Governing body AELTC / LTA Created 1884 ( established ) Open Era : 1968 ( 51 editions ) Surface Grass ( 1884 -- Present ) Prize money £ 2,000,000 ( 2016 ) Trophy Venus Rosewater Dish Website aeltc2010.wimbledon.org/en_GB/about/history/rolls/ladiesroll.html Most titles Amateur era 7 : Dorothea Lambert Chambers ( challenge round ) 8 : Helen Wills Moody ( regular ) Open era 9 : Martina Navratilova Most consecutive titles Amateur era 3 : Lottie Dod Suzanne Lenglen ( challenge round ) 4 : Helen Wills Moody ( regular ) Open era 6 : Martina Navratilova Current champion Angelique Kerber ( 1st singles title )
+
+Retrieved Documents: 51564088b3b27dfc6bffb64a15477434.txt, 51564088b3b27dfc6bffb64a15477434.txt, 51564088b3b27dfc6bffb64a15477434.txt
+
+Raw Retrieved Content:
+At Women 's Doubles , 21 players have won the career Slam including ten who `` slammed '' with a unique partner . Eight of the 22 achieved at least a double career Slam at Women 's Doubles , led by Martina Navratilova with seven or more titles in each Major .
+
+Three women have won four or more consecutive major titles since 1970 , with Navratilova taking six in a row in 1983 -- 1984 . On the men 's side , Novak Djokovic was the first singles player since Rod Laver to hold all four major titles at once , which he accomplished between Wimbledon 2015 and the 2016 French Open
+
+. In 2017 , Bethanie Mattek - Sands and Lucie Šafářová had the chance to win four consecutive titles at Wimbledon , but withdrew from their scheduled second round match following an acute knee injury suffered by Mattek - Sands in the second round of the Ladies ' Singles competition .
+
+Processed Retrieved Content:
+At Women 's Doubles, 21 players have won the career Slam including ten who `` slammed '' with a unique partner. Eight of the 22 achieved at least a double career Slam at Women 's Doubles, led by Martina Navratilova with seven or more titles in each Major. Three women have won four or more consecutive major titles since 1970, with Navratilova taking six in a row in 1983 -- 1984. On the men 's side, Novak Djokovic was the first singles player since Rod Laver to hold all four major titles at once, which he accomplished between Wimbledon 2015 and the 2016 French Open. In 2017, Bethanie Mattek - Sands and Lucie Šafářová had the chance to win four consecutive titles at Wimbledon, but withdrew from their scheduled second round match following an acute knee injury suffered by Mattek - Sands in the second round of the Ladies ' Singles competition.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions Martina Navratilova holding seven or more titles in each Major, but does not specify which Major those titles are from.
+
+Standard LLM Answer:
+Margaret Court holds the most women's Wimbledon titles with a total of **24**.
+
+Here's a breakdown:
+
+*   **1947 - 1954:** 8 titles
+*   **1955 - 1962:** 7 titles
+*   **1963:** 1 title
+*   **1965:** 1 title
+*   **1970:** 1 title
+*   **1971:** 1 title
+
+It's important to note that while Serena Williams has 23 Grand Slam singles titles, she only won 7 Wimbledon titles.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5731
+Standard LLM vs Reference Similarity: 0.7100
+Similarity Improvement: -0.1369

@@ -1,0 +1,35 @@
+Question: do yahoo email addresses end in com or net
+
+Reference Answer: com Alexa rank 142,397 ( July 2017 ) Commercial Yes Registration Required Users 225 million active monthly users ( February 2017 ) Launched October 8 , 1997 ; 21 years ago ( 1997 - 10 - 08 ) Current status Online Content license Proprietary Yahoo ! Mail is an email service launched in 1997 through the American parent company Yahoo
+
+Retrieved Documents: 0240fcd8f1165641100c5a0429c2beb4.txt, 0240fcd8f1165641100c5a0429c2beb4.txt, 0240fcd8f1165641100c5a0429c2beb4.txt
+
+Raw Retrieved Content:
+Yahoo ! does not tolerate this practice and terminates accounts connected with spam - related activities without warning , causing spammers to lose access to any other Yahoo ! services connected with their ID under the Terms of Service . Additionally , Yahoo ! stresses that its servers are based in California and any spam - related activity which uses its servers could potentially violate that state 's anti-spam laws .
+
+Incoming mail to Yahoo ! addresses can be subjected to deferred delivery as part of Yahoo 's incoming spam controls . This can delay delivery of mail sent to Yahoo ! addresses without the sender or recipients being aware of it . The deferral is typically of short duration , but may extend up to several hours . Yahoo ! does not specifically document this policy in detail , although some information is available .
+
+From 2007 , Yahoo ! was the email service used by New Zealand Telecom , which came under criticism in early 2013 following a spam and phishing attack that was described as the biggest to have ever hit the country . Telecom and Yahoo ! automatically reset `` about 60,000 '' users ' passwords . In April , Telecom announced that despite the issue , it would retain Yahoo ! as an email provider .
+
+Processed Retrieved Content:
+Yahoo! does not tolerate this practice and terminates accounts connected with spam - related activities without warning, causing spammers to lose access to any other Yahoo! services connected with their ID under the Terms of Service. Additionally, Yahoo! stresses that its servers are based in California and any spam - related activity which uses its servers could potentially violate that state 's anti-spam laws. Incoming mail to Yahoo! addresses can be subjected to deferred delivery as part of Yahoo 's incoming spam controls. This can delay delivery of mail sent to Yahoo! addresses without the sender or recipients being aware of it. The deferral is typically of short duration, but may extend up to several hours. Yahoo! does not specifically document this policy in detail, although some information is available. From 2007, Yahoo! was the email service used by New Zealand Telecom, which came under criticism in early 2013 following a spam and phishing attack that was described as the biggest to have ever hit the country. Telecom and Yahoo! automatically reset `` about 60,000 '' users ' passwords. In April, Telecom announced that despite the issue, it would retain Yahoo! as an email provider.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text does not specify what domain Yahoo! email addresses use (like .com or .net).
+
+Standard LLM Answer:
+Yahoo email addresses end in **.com**.
+
+Here'**s a breakdown:**
+
+*   **Historically:** Yahoo used both .com and .net addresses.
+*   **Currently:** Yahoo (now part of Verizon) primarily uses **.com** for its email addresses.
+
+
+
+So, the correct answer is **.com**.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4566
+Standard LLM vs Reference Similarity: 0.3699
+Similarity Improvement: 0.0867

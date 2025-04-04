@@ -1,0 +1,30 @@
+Question: when did power rangers tv show come out
+
+Reference Answer: Power Rangers is an American entertainment and merchandising franchise built around a live action superhero television series . Produced first by Saban Entertainment , later by BVS Entertainment , and today by SCG Power Rangers , the television series takes much of its footage from the Japanese tokusatsu Super Sentai , produced by Toei Company . The first Power Rangers entry , Mighty Morphin Power Rangers , debuted on August 28 , 1993 , and helped launch the Fox Kids programming block of the 1990s , during which it catapulted into popular culture along with a line of action figures and other toys by Bandai . As of 2001 , the media franchise has generated over $6 billion in retail sales worldwide .
+
+Retrieved Documents: 11d8d0afe2b16c187c5b72bf1716ae6e.txt, 11d8d0afe2b16c187c5b72bf1716ae6e.txt, 11d8d0afe2b16c187c5b72bf1716ae6e.txt
+
+Raw Retrieved Content:
+. The first Power Rangers entry , Mighty Morphin Power Rangers , debuted on August 28 , 1993 , and helped launch the Fox Kids programming block of the 1990s , during which it catapulted into popular culture along with a line of action figures and other toys by Bandai . As of 2001 , the media franchise has generated over $6 billion in retail sales worldwide .
+
+The series that began the franchise , Mighty Morphin Power Rangers ( an American adaptation of the 1992 Japanese Super Sentai Series , Kyōryū Sentai Zyuranger ) , began broadcasting as part of the Fox Kids block of programing that aired on the FOX network . It lasted for three seasons ( from 1993 to 1996 ) .
+
+The series originally aired on Fox 's children block , Fox Kids from 1993 - 2002 . When Disney bought the rights to Power Rangers , it moved to ABC 's Saturday morning block , ABC Kids from 2002 - 2010 . During that time , all seasons aired on the ABC Family ( now Freeform ) and Toon Disney 's block Jetix . When Saban bought Power Rangers back , the series aired new episodes on Nickelodeon , while previous seasons aired on Nicktoons .
+
+Processed Retrieved Content:
+. The first Power Rangers entry, Mighty Morphin Power Rangers, debuted on August 28, 1993, and helped launch the Fox Kids programming block of the 1990s, during which it catapulted into popular culture along with a line of action figures and other toys by Bandai. As of 2001, the media franchise has generated over $6 billion in retail sales worldwide. The series that began the franchise, Mighty Morphin Power Rangers ( an American adaptation of the 1992 Japanese Super Sentai Series, Kyōryū Sentai Zyuranger ), began broadcasting as part of the Fox Kids block of programing that aired on the FOX network. It lasted for three seasons ( from 1993 to 1996 ). The series originally aired on Fox 's children block, Fox Kids from 1993-2002. When Disney bought the rights to Power Rangers, it moved to ABC 's Saturday morning block, ABC Kids from 2002-2010. During that time, all seasons aired on the ABC Family ( now Freeform ) and Toon Disney 's block Jetix. When Saban bought Power Rangers back, the series aired new episodes on Nickelodeon, while previous seasons aired on Nicktoons.
+
+RAG Answer:
+The first Power Rangers entry, Mighty Morphin Power Rangers, debuted on August 28, 1993.
+
+Standard LLM Answer:
+The original Mighty Morphin Power Rangers TV show first aired on **August 28, 1993**.
+
+
+
+It was a massive cultural phenomenon!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7240
+Standard LLM vs Reference Similarity: 0.7467
+Similarity Improvement: -0.0227

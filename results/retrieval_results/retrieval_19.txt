@@ -1,0 +1,47 @@
+Question: where is zimbabwe located in the world map
+
+Reference Answer: Zimbabwe ( / zɪmˈbɑːbweɪ / ) , officially the Republic of Zimbabwe , is a landlocked country located in southern Africa , between the Zambezi and Limpopo Rivers , bordered by South Africa , Botswana , Zambia and Mozambique . The capital and largest city is Harare . A country of roughly 16 million people , Zimbabwe has 16 official languages , with English , Shona , and Ndebele the most commonly used .
+
+Retrieved Documents: 9d5116a2451bc98c2b46b93acbc1b4f0.txt, 9d5116a2451bc98c2b46b93acbc1b4f0.txt, 9d5116a2451bc98c2b46b93acbc1b4f0.txt
+
+Raw Retrieved Content:
+Zimbabwe is a landlocked country in southern Africa , lying between latitudes 15 ° and 23 ° S , and longitudes 25 ° and 34 ° E. It is bordered by South Africa to the south , Botswana to the west and southwest , Zambia to the northwest , and Mozambique to the east and northeast . Its northwest corner is roughly 150 meters from Namibia , nearly forming a four - nation quadripoint
+
+Coordinates : 20 ° S 30 ° E ﻿ / ﻿ 20 ° S 30 ° E ﻿ / - 20 ; 30
+
+Zimbabwe ( / zɪmˈbɑːbweɪ / ) , officially the Republic of Zimbabwe , is a landlocked country located in southern Africa , between the Zambezi and Limpopo Rivers , bordered by South Africa , Botswana , Zambia and Mozambique . The capital and largest city is Harare . A country of roughly 16 million people , Zimbabwe has 16 official languages , with English , Shona , and Ndebele the most commonly used .
+
+. The ones found on the current notes of Zimbabwe , named the Banknote Rocks , are located in Epworth , approximately 9 miles ( 14 km ) south east of Harare . There are many different formations of the rocks , incorporating single and paired columns of 3 or more rocks . These formations are a feature of south and east tropical Africa from northern South Africa northwards to Sudan . The most notable formations in Zimbabwe are located in the Matobo National Park in Matabeleland .
+
+Processed Retrieved Content:
+Zimbabwe is a landlocked country in southern Africa, lying between latitudes 15 ° and 23 ° S, and longitudes 25 ° and 34 ° E. It is bordered by South Africa to the south, Botswana to the west and southwest, Zambia to the northwest, and Mozambique to the east and northeast. Its northwest corner is roughly 150 meters from Namibia, nearly forming a four - nation quadripoint Coordinates: 20 ° S 30 ° E ﻿ / ﻿ 20 ° S 30 ° E ﻿ / - 20; 30 Zimbabwe ( / zɪmˈbɑːbweɪ / ), officially the Republic of Zimbabwe, is a landlocked country located in southern Africa, between the Zambezi and Limpopo Rivers, bordered by South Africa, Botswana, Zambia and Mozambique. The capital and largest city is Harare. A country of roughly 16 million people, Zimbabwe has 16 official languages, with English, Shona, and Ndebele the most commonly used.. The ones found on the current notes of Zimbabwe, named the Banknote Rocks, are located in Epworth, approximately 9 miles ( 14 km ) south east of Harare. There are many different formations of the rocks, incorporating single and paired columns of 3 or more rocks. These formations are a feature of south and east tropical Africa from northern South Africa northwards to Sudan. The most notable formations in Zimbabwe are located in the Matobo National Park in Matabeleland.
+
+RAG Answer:
+Zimbabwe is located in southern Africa, lying between latitudes 15 ° and 23 ° S, and longitudes 25 ° and 34 ° E. It is bordered by South Africa to the south, Botswana to the west and southwest, Zambia to the northwest, and Mozambique to the east and northeast.
+
+Standard LLM Answer:
+Okay, let's pinpoint Zimbabwe's location!
+
+**Zimbabwe is located in Southern Africa.**
+
+Here's a more detailed breakdown:
+
+*   **Continent:** Africa
+*   **Region:** Southern Africa
+*   **Neighbors:**
+    *   **South:** South Africa
+    *   **North:** Zambia
+    *   **East:** Mozambique
+    *   **West:** Botswana
+*   **Coordinates (approximate):** 20° South, 33° East
+
+**Think of it this way:** If you look at a map of Africa, look for the countries South Africa, Zambia, Mozambique, and Botswana. Zimbabwe sits nestled between them. It's a landlocked country, meaning it doesn't have a coastline.
+
+
+
+I hope this helps you find Zimbabwe on a world map!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7961
+Standard LLM vs Reference Similarity: 0.7977
+Similarity Improvement: -0.0016

@@ -1,0 +1,76 @@
+Question: where does british airways fly to in south america
+
+Reference Answer: City Country IATA ICAO Airport Refs Aarhus Denmark AAR EKAH Aarhus Airport Aberdeen United Kingdom ABZ EGPD Aberdeen Airport Abidjan Côte d'Ivoire ABJ DIAP Port Bouet Airport Abu Dhabi United Arab Emirates AUH OMAA Abu Dhabi International Airport Abuja Nigeria ABV DNAA Nnamdi Azikiwe International Airport Accra Ghana ACC DGAA Kotoka International Airport Addis Ababa Ethiopia ADD HAAB Bole International Airport Adelaide Australia ADL YPAD Adelaide Airport Agadir Morocco AGA GMAD Al Massira Airport Alexandria Egypt ALY HEAX Alexandria International Airport Algiers Algeria ALG DAAG Houari Boumediene Airport Alicante Spain ALC LEAL Alicante Airport Almaty Kazakhstan ALA UAAA Almaty International Airport Amman Jordan AMM OJAI Queen Alia International Airport Amsterdam Netherlands AMS EHAM Amsterdam Airport Schiphol Ankara Turkey ESB LTAC Esenboğa International Airport Annecy France NCY LFLP Annecy -- Haute - Savoie -- Mont Blanc Airport Antigua Antigua and Barbuda ANU TAPA V.C. Bird Interna
+
+Retrieved Documents: 98706d7dfab7dc862155ac7e6da9e383.txt, 98706d7dfab7dc862155ac7e6da9e383.txt, 98706d7dfab7dc862155ac7e6da9e383.txt
+
+Raw Retrieved Content:
+British Airways is one of few carriers serving destinations across all six inhabited continents . Following is a list of destinations the airline flies to , as of March 2017 ; terminated destinations are also listed . The list does not include cities served solely by affiliated regional carriers , and some terminated destinations may now be served either via franchise or through codeshare agreements with other carriers
+
+( June 2012 ) ( Learn how and when to remove this template message ) British Airways is one of few carriers serving destinations across all six inhabited continents . Following is a list of destinations the airline flies to , as of March 2017 ; terminated destinations are also listed . The list does not include cities served solely by affiliated regional carriers , and some terminated destinations may now be served either via franchise or through codeshare agreements with other carriers
+
+Archived from the original on 6 August 2015 . Jump up ^ Gill , Rob ( 7 November 2012 ) . `` British Airways to end Puerto Rico route '' . Buying Business Travel . Archived from the original on 4 April 2013 .
+
+Jump up ^ `` British Airways Serves San Juan '' ( Press release ) . British Airways . 28 March 2011 . Archived from the original on 2013 - 10 - 19 . Jump up ^ `` First direct flight from UK to Chile coming in 2017 '' .
+
+Processed Retrieved Content:
+British Airways is one of few carriers serving destinations across all six inhabited continents. Following is a list of destinations the airline flies to, as of March 2017; terminated destinations are also listed. The list does not include cities served solely by affiliated regional carriers, and some terminated destinations may now be served either via franchise or through codeshare agreements with other carriers ( June 2012 ) ( Learn how and when to remove this template message ) British Airways is one of few carriers serving destinations across all six inhabited continents. Following is a list of destinations the airline flies to, as of March 2017; terminated destinations are also listed. The list does not include cities served solely by affiliated regional carriers, and some terminated destinations may now be served either via franchise or through codeshare agreements with other carriers Archived from the original on 6 August 2015. Jump up ^ Gill, Rob ( 7 November 2012 ). `` British Airways to end Puerto Rico route ''. Buying Business Travel. Archived from the original on 4 April 2013. Jump up ^ `` British Airways Serves San Juan '' ( Press release ). British Airways. 28 March 2011. Archived from the original on 2013-10-19. Jump up ^ `` First direct flight from UK to Chile coming in 2017 ''.
+
+RAG Answer:
+Based on the provided information, British Airways flies to Chile.
+
+Standard LLM Answer:
+Okay, let's break down where British Airways (and its partner airlines) flies in South America. It's a bit complex due to codeshares and partnerships, but I'll give you a comprehensive overview.
+
+**Key Hubs & Main Destinations:**
+
+*   **Brazil:** This is the biggest market for BA in South America.
+    *   **São Paulo (GRU):** Daily flights from London Heathrow. This is a major hub for onward connections within Brazil and South America.
+    *   **Rio de Janeiro (GIG):**  Flights from London Heathrow.
+    *   **Brasília (BSB):** Served via codeshares with partner airlines (usually LATAM).
+    *   **Belo Horizonte (CNF):** Served via codeshares with partner airlines (usually LATAM).
+    *   **Salvador (SSA):** Served via codeshares with partner airlines (usually LATAM).
+    *   **Porto Alegre (POA):** Served via codeshares with partner airlines (usually LATAM).
+*   **Colombia:**
+    *   **Bogotá (BOG):** Flights from London Heathrow.
+    *   **Cali (CLO):** Served via codeshares with partner airlines (usually Avianca).
+    *   **Medellín (MDE):** Served via codeshares with partner airlines (usually Avianca).
+*   **Argentina:**
+    *   **Buenos Aires (EZE):** Flights from London Heathrow.
+*   **Chile:**
+    *   **Santiago (SCL):** Flights from London Heathrow.
+
+**Other Destinations (Often via Codeshares - Primarily with LATAM and Avianca):**
+
+*   **Ecuador:**
+    *   **Guayaquil (GYE):** Codeshare with Avianca.
+    *   **Quito (UIO):** Codeshare with Avianca.
+*   **Peru:**
+    *   **Lima (LIM):** Codeshare with Avianca.
+*   **Uruguay:**
+    *   **Montevideo (MVD):** Codeshare with LATAM.
+*   **Paraguay:**
+    *   **Asunción (ASU):** Codeshare with LATAM.
+*   **Bolivia:**
+    *   **La Paz (LPB):** Codeshare with LATAM.
+
+**Important Notes & Details:**
+
+*   **Codeshares are Key:** British Airways doesn't operate *all* of these flights directly. A significant portion are codeshares, meaning BA sells tickets on flights operated by partner airlines (primarily LATAM and Avianca).  When booking, pay attention to the operating carrier.
+*   **LATAM Partnership:**  The LATAM partnership is extensive.  You're likely to find BA codeshare flights on many LATAM routes within South America.
+*   **Avianca Partnership:** Similar to LATAM, BA has a codeshare agreement with Avianca, providing access to several destinations in Colombia and other parts of South America.
+*   **Frequency:** Flight frequency varies greatly depending on the destination. Major hubs like São Paulo, Rio de Janeiro, and Buenos Aires have daily or near-daily flights from London.  Smaller cities are typically served less frequently, often only a few times per week, and almost always via codeshare.
+*   **Seasonal Changes:** Some routes may be seasonal, with reduced or no service during certain times of the year.
+*   **Check the BA Website:** The most up-to-date information on routes and schedules is always on the British Airways website ([https://www.britishairways.com/](https://www.britishairways.com/)). Use their route map tool to explore destinations.
+
+
+
+To help me narrow down the answer, could you tell me:
+
+*   Are you interested in a specific country or city in South America?
+*   Are you looking for direct flights only, or are codeshares acceptable?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1541
+Standard LLM vs Reference Similarity: 0.2581
+Similarity Improvement: -0.1040

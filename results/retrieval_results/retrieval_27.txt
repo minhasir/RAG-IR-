@@ -1,0 +1,26 @@
+Question: who is the president of costa rica 2017
+
+Reference Answer: Luis Guillermo Solís Rivera ( born 25 April 1958 ) is a Costa Rican politician who has been President of Costa Rica since 2014 . He is a member of the center - left Citizens ' Action Party ( PAC ) . Solís led the field in the 2014 presidential election , and he was effectively handed the presidency after the runner - up in the first round , San José mayor Johnny Araya Monge , ceased active campaigning . Solís has a long academic and political career , culminating in his election as the first President of Costa Rica to be a member of the PAC .
+
+Retrieved Documents: b767a5410d5946ab7c5909dff421bfec.txt, b767a5410d5946ab7c5909dff421bfec.txt, b767a5410d5946ab7c5909dff421bfec.txt
+
+Raw Retrieved Content:
+Luis Guillermo Solís Rivera ( born 25 April 1958 ) is a Costa Rican politician who has been President of Costa Rica since 2014 . He is a member of the center - left Citizens ' Action Party ( PAC ) . Solís led the field in the 2014 presidential election , and he was effectively handed the presidency after the runner - up in the first round , San José mayor Johnny Araya Monge , ceased active campaigning
+
+Immediately after the election , Solís thanked Costa Rican voters . He received congratulatory notes from world leaders , including US Secretary of State John Kerry , Ecuadoran President Rafael Correa , Mexican President Enrique Peña Nieto , Venezuelan President Nicolás Maduro , Bolivian President Evo Morales , and the spokesperson from the French Ministry of International Affairs . For his part , Araya congratulated Solís on his victory , calling for national unity .
+
+In October 2013 , he chose Helio Fallas and Ana Helena Chacón Echeverría as his Vice-Presidential running mates . Among his aims , Solís claimed he would clean up corruption , create major investments in infrastructure , and shore up Costa Rica 's universal health care and social security system . He also promised to continue initiatives to keep Costa Rica environmentally friendly
+
+Processed Retrieved Content:
+Luis Guillermo Solís Rivera ( born 25 April 1958 ) is a Costa Rican politician who has been President of Costa Rica since 2014. He is a member of the center - left Citizens ' Action Party ( PAC ). Solís led the field in the 2014 presidential election, and he was effectively handed the presidency after the runner - up in the first round, San José mayor Johnny Araya Monge, ceased active campaigning Immediately after the election, Solís thanked Costa Rican voters. He received congratulatory notes from world leaders, including US Secretary of State John Kerry, Ecuadoran President Rafael Correa, Mexican President Enrique Peña Nieto, Venezuelan President Nicolás Maduro, Bolivian President Evo Morales, and the spokesperson from the French Ministry of International Affairs. For his part, Araya congratulated Solís on his victory, calling for national unity. In October 2013, he chose Helio Fallas and Ana Helena Chacón Echeverría as his Vice-Presidential running mates. Among his aims, Solís claimed he would clean up corruption, create major investments in infrastructure, and shore up Costa Rica 's universal health care and social security system. He also promised to continue initiatives to keep Costa Rica environmentally friendly
+
+RAG Answer:
+Based on the provided information, Luis Guillermo Solís Rivera was President of Costa Rica since 2014. The information does not specify who was president in 2017.
+
+Standard LLM Answer:
+In 2017, the president of Costa Rica was **Luis Guillermo Solís Rivera**. He served from 2014 to 2018.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8378
+Standard LLM vs Reference Similarity: 0.8382
+Similarity Improvement: -0.0004

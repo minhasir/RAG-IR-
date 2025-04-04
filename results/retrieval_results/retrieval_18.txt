@@ -1,0 +1,61 @@
+Question: what is sauce for the goose is sauce for the gander examples
+
+Reference Answer: Wikipedia : sauce for the goose is ( not ) sauce for the gander - Wikipedia Wikipedia : sauce for the goose is ( not ) sauce for the gander This page is an essay
+
+Retrieved Documents: 2637d7a089ff6b1da835c65704159bfa.txt, 0d5f23c676b343a1f79c3062b99a385b.txt, 9d5116a2451bc98c2b46b93acbc1b4f0.txt
+
+Raw Retrieved Content:
+There 's an old saying , `` What is sauce for the goose is sauce for the gander . '' This meshes well with the Golden Rule , or ethic of reciprocity , which is a key moral principle in many religions and philosophies , and is often stated as `` Do unto others as you wish to be done for you '' , or conversely , `` Do n't do unto others what you would not wish to be done to you . ''
+
+The film has been parodied and referenced in places such as the 1976 film The Pink Panther Strikes Again , the satirical publication The Onion , the Japanese game - show Takeshi 's Castle , and the 1977 John Landis comedy anthology film Kentucky Fried Movie ( in its lengthy `` A Fistful of Yen '' sequence , basically a comedic , note for note remake of Dragon ) and also in the film Balls of Fury
+
+Rice , pasta , and potato - based foods ( french fries and mashed potato ) also make up part of Zimbabwean cuisine . A local favourite is rice cooked with peanut butter , which is taken with thick gravy , mixed vegetables and meat . A potpourri of peanuts known as nzungu , boiled and sundried maize , black - eyed peas known as nyemba , and bambara groundnuts known as nyimo makes a traditional dish called mutakura . Mutakura can also be the above ingredients cooked individually
+
+Processed Retrieved Content:
+There 's an old saying, `` What is sauce for the goose is sauce for the gander. '' This meshes well with the Golden Rule, or ethic of reciprocity, which is a key moral principle in many religions and philosophies, and is often stated as `` Do unto others as you wish to be done for you '', or conversely, `` Do n't do unto others what you would not wish to be done to you. '' The film has been parodied and referenced in places such as the 1976 film The Pink Panther Strikes Again, the satirical publication The Onion, the Japanese game - show Takeshi 's Castle, and the 1977 John Landis comedy anthology film Kentucky Fried Movie ( in its lengthy `` A Fistful of Yen '' sequence, basically a comedic, note for note remake of Dragon ) and also in the film Balls of Fury Rice, pasta, and potato - based foods ( french fries and mashed potato ) also make up part of Zimbabwean cuisine. A local favourite is rice cooked with peanut butter, which is taken with thick gravy, mixed vegetables and meat. A potpourri of peanuts known as nzungu, boiled and sundried maize, black - eyed peas known as nyemba, and bambara groundnuts known as nyimo makes a traditional dish called mutakura. Mutakura can also be the above ingredients cooked individually
+
+RAG Answer:
+Based on the provided information, the film The Pink Panther Strikes Again, the satirical publication The Onion, the Japanese game - show Takeshi 's Castle, the 1977 John Landis comedy anthology film Kentucky Fried Movie ( in its lengthy `` A Fistful of Yen '' sequence), and the film Balls of Fury are examples of places where the saying "What is sauce for the goose is sauce for the gander" has been parodied and referenced.
+
+Standard LLM Answer:
+Okay, let's break down this layered question about "sauce for the goose is sauce for the gander," its meaning, and examples. It's a proverb with a fascinating history and a few different interpretations.
+
+**1. The Proverb: "Sauce for the goose is sauce for the gander."**
+
+*   **Meaning:** This proverb essentially means that what is good (or bad) for one person should be good (or bad) for everyone in a similar situation. It advocates for equal treatment and consistent application of rules or principles. It suggests fairness and impartiality.
+*   **Origin:** The proverb originates from medieval falconry. A "goose" was a female goose used to train a male goose (the "gander"). The sauce (a mixture of food and drink) given to the female to make her more amenable to training should also be given to the male.  The idea was that if you used a particular method to control one, you should use it for the other.
+
+**2. Different Interpretations & Nuances**
+
+*   **Positive Interpretation (Fairness):**  If a leader is held accountable for a mistake, then all subordinates should be held to the same standard. If a policy benefits one group, it should benefit all similarly situated groups.
+*   **Negative Interpretation (Retaliation/Tit-for-Tat):** It can also imply a sense of "an eye for an eye." If someone does something to you, you are justified in doing the same to them. This is a more aggressive interpretation.
+*   **Context is Key:** The specific meaning depends heavily on the context in which it's used.
+
+**3. Examples**
+
+Let's illustrate with examples, showing both the positive (fairness) and negative (retaliation) interpretations:
+
+**A. Positive (Fairness) Examples:**
+
+*   **Workplace:** "The CEO was criticized for taking an extravagant vacation during a company downturn. If we're going to hold executives accountable for their decisions, then *sauce for the goose is sauce for the gander* – all employees should be held to the same standards of financial responsibility." (Meaning: Everyone should be held to the same standards.)
+*   **Government Policy:** "The government is offering tax breaks to businesses that invest in renewable energy. *Sauce for the goose is sauce for the gander* – we should also offer incentives to individuals who make energy-efficient upgrades to their homes." (Meaning: If a benefit is given to one group, it should be extended to others in a similar situation.)
+*   **School Rules:** "If students are penalized for being late to class, *sauce for the goose is sauce for the gander* – teachers should also be punctual." (Meaning: Rules should apply equally to everyone.)
+
+**B. Negative (Retaliation/Tit-for-Tat) Examples:**
+
+*   **International Relations:** "Country A imposed trade sanctions on Country B. *Sauce for the goose is sauce for the gander* – Country B will respond with similar sanctions." (Meaning: Retaliation is justified.)
+*   **Personal Dispute:** "My neighbor constantly parks in front of my driveway. *Sauce for the goose is sauce for the gander* – I'll start parking in front of their house." (Meaning:  An eye for an eye – a retaliatory action.)
+*   **Office Politics:** "Sarah was passed over for a promotion because of favoritism. *Sauce for the goose is sauce for the gander* – she's going to make sure her colleagues don't get the opportunities they want either." (Meaning:  A retaliatory action based on perceived unfairness.)
+
+**4.  Your Specific Question: "What is sauce for the goose is sauce for the gander examples?"**
+
+You're essentially asking for scenarios where the proverb applies. The examples above cover a range of situations.  The key is to identify a situation where a principle or action is applied to one person or group, and the proverb suggests it should be applied equally to others in a comparable situation.
+
+
+
+I hope this comprehensive explanation clarifies the meaning and usage of this interesting proverb! Do you have any other questions about it, or would you like me to elaborate on a specific aspect?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5383
+Standard LLM vs Reference Similarity: 0.6174
+Similarity Improvement: -0.0791
