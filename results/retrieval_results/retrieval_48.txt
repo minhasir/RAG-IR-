@@ -1,0 +1,31 @@
+Question: what is andy's sisters name in toy story
+
+Reference Answer: In Toy Story 3 , a Barbie appears to be one of the toys that Andy 's sister , Molly , owns . In Sunnyside , she falls in love with Ken , but after Lotso 's minions reset Buzz 's personality , and reveal that they want to sacrifice Andy 's old toys in order to protect themselves , she ingratiates herself with Ken in order to obtain the Buzz Lightyear manual that lets her friends reset Buzz to his original form . When she stands up to Lotso by saying that being treated fairly is better than living under his rule , Ken switches his allegiance to her and her friends . In the end credits of the film , they get back together and change Sunnyside , becoming its co-leaders , after Lotso is defeated .
+
+Retrieved Documents: b2aac5606fbfa6e5fd29caca84151bde.txt, b2aac5606fbfa6e5fd29caca84151bde.txt, b2aac5606fbfa6e5fd29caca84151bde.txt
+
+Raw Retrieved Content:
+In Toy Story 3 , a Barbie appears to be one of the toys that Andy 's sister , Molly , owns . In Sunnyside , she falls in love with Ken , but after Lotso 's minions reset Buzz 's personality , and reveal that they want to sacrifice Andy 's old toys in order to protect themselves , she ingratiates herself with Ken in order to obtain the Buzz Lightyear manual that lets her friends reset Buzz to his original form
+
+In Toy Story 2 , Andy is only seen in the beginning and for a short while in the ending . During his appearances , it is clear that he still loves his toys very much . At the end of the film , Andy is pleased to have five new toys -- Jessie , Bullseye , and the three Squeeze Toy Aliens -- added into his collection . He marks them , as he has all his toys , with his name on the soles of their feet , or in Bullseye 's case , one letter of his name on each hoof .
+
+Jessie is a cowgirl doll , and part of the Woody 's Round Up gang . Jessie is also Buzz Lightyear 's girlfriend . She first appeared in Toy Story 2 along with Bullseye ( her horse ) and Stinky Pete . Initially , Jessie was hesitant to join Andy 's friends . After she becomes part of the family , she is very happy ( despite that Andy first calls her Bazooka Jane ) . In Toy Story 3 , she was riding Bullseye when Woody fell off the train in Andy 's opening sequence
+
+Processed Retrieved Content:
+In Toy Story 3, a Barbie appears to be one of the toys that Andy 's sister, Molly, owns. In Sunnyside, she falls in love with Ken, but after Lotso 's minions reset Buzz 's personality, and reveal that they want to sacrifice Andy 's old toys in order to protect themselves, she ingratiates herself with Ken in order to obtain the Buzz Lightyear manual that lets her friends reset Buzz to his original form In Toy Story 2, Andy is only seen in the beginning and for a short while in the ending. During his appearances, it is clear that he still loves his toys very much. At the end of the film, Andy is pleased to have five new toys -- Jessie, Bullseye, and the three Squeeze Toy Aliens -- added into his collection. He marks them, as he has all his toys, with his name on the soles of their feet, or in Bullseye 's case, one letter of his name on each hoof. Jessie is a cowgirl doll, and part of the Woody 's Round Up gang. Jessie is also Buzz Lightyear 's girlfriend. She first appeared in Toy Story 2 along with Bullseye ( her horse ) and Stinky Pete. Initially, Jessie was hesitant to join Andy 's friends. After she becomes part of the family, she is very happy ( despite that Andy first calls her Bazooka Jane ). In Toy Story 3, she was riding Bullseye when Woody fell off the train in Andy 's opening sequence
+
+RAG Answer:
+Molly
+
+Standard LLM Answer:
+This is a trick question that has become a popular internet puzzle!
+
+Andy doesn't *have* a sister in Toy Story. The whole point of the puzzle is that the toys refer to Andy's mom as "Mrs. Andy" because they don't know her real name.
+
+It's a clever play on words!
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1661
+Standard LLM vs Reference Similarity: 0.4904
+Similarity Improvement: -0.3243

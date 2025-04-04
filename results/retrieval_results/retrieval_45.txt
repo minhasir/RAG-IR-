@@ -1,0 +1,35 @@
+Question: a property tax bill is an example of
+
+Reference Answer: For example , a property with an assessed value of $50,000 located in a municipality with a mill rate of 20 mills would have a property tax bill of $1,000 per year
+
+Retrieved Documents: bb1e5649d8c4602a2b7c997232a22849.txt, bb1e5649d8c4602a2b7c997232a22849.txt, bb1e5649d8c4602a2b7c997232a22849.txt
+
+Raw Retrieved Content:
+. For example , a property with an assessed value of $50,000 located in a municipality with a mill rate of 20 mills would have a property tax bill of $1,000 per year .
+
+. Many state and local jurisdictions add personal property taxes . ( See exceptions below . )
+
+Forms of property tax vary across jurisdictions . Real property is often taxed based on its class . Classification is the grouping of properties based on similar use . Properties in different classes are taxed at different rates . Examples of property classes are residential , commercial , industrial and vacant real property . In Israel , for example , property tax rates are double for vacant apartments versus occupied apartments .
+
+Processed Retrieved Content:
+. For example, a property with an assessed value of $50,000 located in a municipality with a mill rate of 20 mills would have a property tax bill of $1,000 per year.. Many state and local jurisdictions add personal property taxes. ( See exceptions below. ) Forms of property tax vary across jurisdictions. Real property is often taxed based on its class. Classification is the grouping of properties based on similar use. Properties in different classes are taxed at different rates. Examples of property classes are residential, commercial, industrial and vacant real property. In Israel, for example, property tax rates are double for vacant apartments versus occupied apartments.
+
+RAG Answer:
+Based on the provided information, a property tax bill is an example of a form of property tax.
+
+Standard LLM Answer:
+A property tax bill is an example of **a regressive tax**.
+
+Here's why:
+
+*   **Regressive Tax:** A tax that takes a larger percentage of income from lower-income earners than from higher-income earners.
+*   **Property Tax & Income:** Property taxes are based on the value of your property, not your income. Therefore, a lower-income person who owns a modestly valued home will pay a larger percentage of their income in property taxes compared to a higher-income person who owns a more expensive home.
+
+
+
+Let me know if you'd like a more detailed explanation!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5747
+Standard LLM vs Reference Similarity: 0.5499
+Similarity Improvement: 0.0249

@@ -1,0 +1,56 @@
+Question: who determines the size of the supreme court
+
+Reference Answer: Article III of the United States Constitution does not specify the number of justices . The Judiciary Act of 1789 called for the appointment of six `` judges '' . Although an 1801 act would have reduced the size of the court to five members upon its next vacancy , an 1802 act promptly negated the 1801 act , legally restoring the court 's size to six members before any such vacancy occurred . As the nation 's boundaries grew , Congress added justices to correspond with the growing number of judicial circuits : seven in 1807 , nine in 1837 , and ten in 1863 .
+
+Retrieved Documents: d0dfc15c4f91a561e604b94688037bdd.txt, d0dfc15c4f91a561e604b94688037bdd.txt, d0dfc15c4f91a561e604b94688037bdd.txt
+
+Raw Retrieved Content:
+Article III of the United States Constitution does not specify the number of justices . The Judiciary Act of 1789 called for the appointment of six `` judges '' . Although an 1801 act would have reduced the size of the court to five members upon its next vacancy , an 1802 act promptly negated the 1801 act , legally restoring the court 's size to six members before any such vacancy occurred
+
+The Supreme Court of the United States is the highest federal court of the United States . Established pursuant to Article Three of the United States Constitution in 1789 , it has ultimate ( and largely discretionary ) appellate jurisdiction over all federal courts and state court cases involving issues of federal law plus original jurisdiction over a small range of cases
+
+It is possible that , through recusals or vacancies , the Court divides evenly on a case . If that occurs , then the decision of the court below is affirmed , but does not establish binding precedent . In effect , it results in a return to the status quo ante . For a case to be heard , there must be a quorum of at least six justices
+
+Processed Retrieved Content:
+Article III of the United States Constitution does not specify the number of justices. The Judiciary Act of 1789 called for the appointment of six `` judges ''. Although an 1801 act would have reduced the size of the court to five members upon its next vacancy, an 1802 act promptly negated the 1801 act, legally restoring the court 's size to six members before any such vacancy occurred The Supreme Court of the United States is the highest federal court of the United States. Established pursuant to Article Three of the United States Constitution in 1789, it has ultimate ( and largely discretionary ) appellate jurisdiction over all federal courts and state court cases involving issues of federal law plus original jurisdiction over a small range of cases It is possible that, through recusals or vacancies, the Court divides evenly on a case. If that occurs, then the decision of the court below is affirmed, but does not establish binding precedent. In effect, it results in a return to the status quo ante. For a case to be heard, there must be a quorum of at least six justices
+
+RAG Answer:
+Based on the provided information, the size of the Supreme Court is not specifically determined by the Constitution. The Judiciary Act of 1789 called for six justices. While an act in 1801 attempted to reduce the size, it was negated by an 1802 act that restored the size to six.
+
+Standard LLM Answer:
+This is a great question that gets to the heart of the US government's structure! Here's a breakdown of who determines the size of the Supreme Court, and it's a surprisingly complex and historically fluid answer:
+
+**1. It's Not in the Constitution (Explicitly):**
+
+*   The US Constitution establishes the Supreme Court (Article III), but it **doesn't specify how many justices should serve.** It simply states that there "shall be a Supreme Court."
+
+**2. Congress Sets the Number:**
+
+*   **The power to determine the number of justices rests with the United States Congress.** Specifically, it's the responsibility of Congress to pass a law setting the number.
+*   **Historical Precedent:** The first Congress, in the Judiciary Act of 1789, set the number of justices at six. This number has been changed several times throughout history.
+
+**3. How Congress Can Act:**
+
+*   **Legislation:** Congress can pass a law (a bill) that changes the number of justices. This requires a majority vote in both the House of Representatives and the Senate.
+*   **No Supermajority Required:**  Importantly, there's no constitutional requirement for a supermajority (like 2/3 or 3/5) to change the number of justices. A simple majority in each chamber is sufficient.
+
+**4. Historical Changes & Political Considerations:**
+
+*   The number of justices has fluctuated throughout US history, often tied to political maneuvering.
+    *   It was increased to seven in 1790, then to nine in 1807, and remained at nine for a long period.
+    *   President Andrew Jackson attempted to influence the court's decisions by pushing for a bill that would have reduced the number of justices, but it failed.
+    *   During the "Court-Packing" plan of 1937, President Franklin D. Roosevelt proposed adding justices to the Supreme Court to counter its rulings against his New Deal programs. This plan was met with significant opposition and ultimately failed.
+
+**5. Current Status:**
+
+*   The Supreme Court has been at **nine justices** since 1869.
+*   While there have been occasional calls to change the number (often referred to as "court packing"), it remains a highly contentious and politically charged issue.
+
+
+
+**In short: The US Constitution doesn't dictate the size of the Supreme Court. Congress has the power to set the number, and that number has changed throughout history based on political considerations.**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7842
+Standard LLM vs Reference Similarity: 0.6850
+Similarity Improvement: 0.0991

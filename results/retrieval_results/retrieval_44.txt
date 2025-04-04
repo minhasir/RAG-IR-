@@ -1,0 +1,37 @@
+Question: who sang my name is tallulah in bugsy malone
+
+Reference Answer: `` Bugsy Malone '' -- Paul Williams `` Fat Sam 's Grand Slam '' -- Paul Williams `` Tomorrow '' `` Bad Guys '' `` I 'm Feeling Fine '' `` My Name Is Tallulah '' - Louise `` Liberty '' Williams `` So You Wanna Be a Boxer ? '' `` Ordinary Fool '' `` Down and Out '' `` You Give a Little Love '' -- Paul Williams
+
+Retrieved Documents: f881a186a2b865047efce441f25c22a2.txt, f881a186a2b865047efce441f25c22a2.txt, f881a186a2b865047efce441f25c22a2.txt
+
+Raw Retrieved Content:
+Parker wrote the book for a stage adaptation of Bugsy Malone , using Williams ' music . This premiered in the West End in 1983 at Her Majesty 's Theatre and ran for 300 performances . It was directed by Michael Dolenz and the cast featured Catherine Zeta - Jones as Tallulah . In 1997 , the National Youth Music Theatre mounted an all - youth version . It was revived at the Queen 's Theatre in 1997 , starring Sheridan Smith and Jamie Bell
+
+A cast recording of the National Youth Music Theatre stage version of Bugsy Malone was released in 1998 . Like the stage show , this recording featured two songs originally written by Williams , but not used in the film : `` That 's Why They Call Him Dandy '' and `` Show Business '' . There is also some additional incidental orchestral score , such as an Overture and Exit Music , with music arranged by John Pearson .
+
+Bugsy returns to Fat Sam 's to arrange a new audition for Blousey . Fat Sam 's girlfriend , the chanteuse Tallulah , makes a pass at him . Although Bugsy rejects her flirtation , Tallulah plants a big kiss on Bugsy 's forehead when Blousey enters ; Blousey is jealous . Fat Sam hires Blousey after her audition , but she refuses to speak to Bugsy ( `` I 'm Feelin ' Fine '' ) .
+
+Processed Retrieved Content:
+Parker wrote the book for a stage adaptation of Bugsy Malone, using Williams ' music. This premiered in the West End in 1983 at Her Majesty 's Theatre and ran for 300 performances. It was directed by Michael Dolenz and the cast featured Catherine Zeta - Jones as Tallulah. In 1997, the National Youth Music Theatre mounted an all - youth version. It was revived at the Queen 's Theatre in 1997, starring Sheridan Smith and Jamie Bell A cast recording of the National Youth Music Theatre stage version of Bugsy Malone was released in 1998. Like the stage show, this recording featured two songs originally written by Williams, but not used in the film: `` That 's Why They Call Him Dandy '' and `` Show Business ''. There is also some additional incidental orchestral score, such as an Overture and Exit Music, with music arranged by John Pearson. Bugsy returns to Fat Sam 's to arrange a new audition for Blousey. Fat Sam 's girlfriend, the chanteuse Tallulah, makes a pass at him. Although Bugsy rejects her flirtation, Tallulah plants a big kiss on Bugsy 's forehead when Blousey enters; Blousey is jealous. Fat Sam hires Blousey after her audition, but she refuses to speak to Bugsy ( `` I 'm Feelin ' Fine '' ).
+
+RAG Answer:
+Based on the provided information, Catherine Zeta-Jones played Tallulah in the 1983 West End production of Bugsy Malone. However, the provided text does not mention who sang "My Name is Tallulah."
+
+Standard LLM Answer:
+This is a fun one with a bit of a twist!
+
+Here's the breakdown:
+
+*   **"My Name is Tallulah"** was famously sung by **Nina Simone**. It's a song featured in the film *Funny Lady*.
+*   **"Bugsy Malone"** is a film where Nina Simone's "My Name is Tallulah" is used.
+
+So, the answer is **Nina Simone**.
+
+
+
+Let me know if you'd like to try another music trivia question!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3210
+Standard LLM vs Reference Similarity: 0.3807
+Similarity Improvement: -0.0598

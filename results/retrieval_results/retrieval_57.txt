@@ -1,0 +1,47 @@
+Question: is stone cold steve austin in the longest yard
+
+Reference Answer: James Cromwell as Warden Rudolph Hazen William Fichtner as Captain Wilhem Knauer Kevin Nash as Sergeant Engleheart Steve Austin as Guard Dunham Brian Bosworth as Guard Garner Michael Papajohn as Guard Papajohn Conrad Goode as Guard Webster Bill Romanowski as Guard Lambert Cloris Leachman as Lynette Grey
+
+Retrieved Documents: 48e04ff21505148f1eef6b94f3b15f17.txt, 55cef87c2176d14a703bfd3806de02e5.txt, 8d14775f6c9936a8b979d5438c66388a.txt
+
+Raw Retrieved Content:
+The Longest Yard is a 2005 American sports prison comedy film and a remake of the 1974 film of the same name . Adam Sandler plays the protagonist Paul Crewe , a disgraced former professional quarterback for the Pittsburgh Steelers , who is forced to form a team from the prison inmates to play football against their guards .
+
+Daniel Bryan and Dolph Ziggler began the 50 - man Royal Rumble match as the first two entrants . Bryan survived until the final 3 , beating out Rey Mysterio for the longest time spent in a single Royal Rumble match of all time at an hour and sixteen minutes . At the end of the match , Big Cass eliminated Bryan only for Cass to then attempt a Big Boot on Braun Strowman , who ducked and knocked Cass over the top rope to win the match
+
+. Steve is two years older than D.J. and is a star member of the high school wrestling team . He is known for having a healthy appetite , and often eats at the Tanners ' when he visits .
+
+Processed Retrieved Content:
+The Longest Yard is a 2005 American sports prison comedy film and a remake of the 1974 film of the same name. Adam Sandler plays the protagonist Paul Crewe, a disgraced former professional quarterback for the Pittsburgh Steelers, who is forced to form a team from the prison inmates to play football against their guards. Daniel Bryan and Dolph Ziggler began the 50 - man Royal Rumble match as the first two entrants. Bryan survived until the final 3, beating out Rey Mysterio for the longest time spent in a single Royal Rumble match of all time at an hour and sixteen minutes. At the end of the match, Big Cass eliminated Bryan only for Cass to then attempt a Big Boot on Braun Strowman, who ducked and knocked Cass over the top rope to win the match. Steve is two years older than D.J. and is a star member of the high school wrestling team. He is known for having a healthy appetite, and often eats at the Tanners ' when he visits.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions Steve, but not Stone Cold Steve Austin, and does not indicate his involvement in "The Longest Yard."
+
+Standard LLM Answer:
+Okay, let's break down this wonderfully convoluted question! You've essentially layered a bunch of pop culture references into one. Here's a breakdown and a "yes" answer, with explanations:
+
+**The References:**
+
+*   **"Stone Cold Steve Austin"**: A famous professional wrestler, known for his tough persona and catchphrases.
+*   **"Is...?"**: A signature, drawn-out question delivery by Stone Cold Steve Austin.
+*   **"Longest Yard"**: A 2005 film starring Adam Sandler, based on a 1974 film of the same name. It's a sports drama about a former football star forced to play for a prison team.
+*   **"Is Stone Cold Steve Austin in the Longest Yard?"**: This is the core question.
+
+**The Answer:**
+
+**Yes.**
+
+**Explanation:**
+
+While Stone Cold Steve Austin (real name Dwayne "The Rock" Johnson) wasn't *actually* in the 2005 remake of *The Longest Yard*, he *was* in the 1974 version of the film. He played the role of a convict named "Steel."
+
+You're playing with the idea of the question being posed in Stone Cold's style, and the answer is a playful affirmation of his presence in the movie.
+
+
+
+You're creating a fun, layered pop culture puzzle!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.2217
+Standard LLM vs Reference Similarity: 0.3091
+Similarity Improvement: -0.0874

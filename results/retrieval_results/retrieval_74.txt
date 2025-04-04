@@ -1,0 +1,30 @@
+Question: what kind of music is scott joplin most famous for
+
+Reference Answer: Genres Ragtime march waltz Occupation ( s ) Composer pianist music teacher Instruments Piano cornet guitar mandolin violin banjo vocals Years active 1895 -- 1917 Signature Scott Joplin ( / ˈdʒɒplɪn / ; c
+
+Retrieved Documents: 3b88eea806a2dc3302e8a7dc0dfd2d17.txt, 3b88eea806a2dc3302e8a7dc0dfd2d17.txt, 3b88eea806a2dc3302e8a7dc0dfd2d17.txt
+
+Raw Retrieved Content:
+Scott Joplin ( / ˈdʒɒplɪn / ; c. 1867 / 68 or November 24 , 1868 -- April 1 , 1917 ) was an African - American composer and pianist . Joplin achieved fame for his ragtime compositions and was dubbed the `` King of Ragtime '' . During his brief career , he wrote 44 original ragtime pieces , one ragtime ballet , and two operas . One of his first , and most popular pieces , the `` Maple Leaf Rag '' , became ragtime 's first and most influential hit , and has been recognized as the archetypal rag .
+
+Composer and actor Max Morath found it striking that the vast majority of Joplin 's work did not enjoy the popularity of the `` Maple Leaf Rag '' , because while the compositions were of increasing lyrical beauty and delicate syncopation they remained obscure and unheralded during his lifetime . Joplin apparently realized that his music was ahead of its time : As music historian Ian Whitcomb mentions that Joplin , `` ..
+
+After his death in 1917 , Joplin 's music and ragtime in general waned in popularity as new forms of musical styles , such as jazz and novelty piano , emerged . Even so , jazz bands and recording artists such as Tommy Dorsey in 1936 , Jelly Roll Morton in 1939 and J. Russell Robinson in 1947 released recordings of Joplin compositions . `` Maple Leaf Rag '' was the Joplin piece found most often on 78 rpm records .
+
+Processed Retrieved Content:
+Scott Joplin ( / ˈdʒɒplɪn /; c. 1867 / 68 or November 24, 1868 -- April 1, 1917 ) was an African - American composer and pianist. Joplin achieved fame for his ragtime compositions and was dubbed the `` King of Ragtime ''. During his brief career, he wrote 44 original ragtime pieces, one ragtime ballet, and two operas. One of his first, and most popular pieces, the `` Maple Leaf Rag '', became ragtime 's first and most influential hit, and has been recognized as the archetypal rag. Composer and actor Max Morath found it striking that the vast majority of Joplin 's work did not enjoy the popularity of the `` Maple Leaf Rag '', because while the compositions were of increasing lyrical beauty and delicate syncopation they remained obscure and unheralded during his lifetime. Joplin apparently realized that his music was ahead of its time: As music historian Ian Whitcomb mentions that Joplin, ``.. After his death in 1917, Joplin 's music and ragtime in general waned in popularity as new forms of musical styles, such as jazz and novelty piano, emerged. Even so, jazz bands and recording artists such as Tommy Dorsey in 1936, Jelly Roll Morton in 1939 and J. Russell Robinson in 1947 released recordings of Joplin compositions. `` Maple Leaf Rag '' was the Joplin piece found most often on 78 rpm records.
+
+RAG Answer:
+Scott Joplin is most famous for his ragtime compositions.
+
+Standard LLM Answer:
+Scott Joplin is most famous for **ragtime** music. He was considered one of the most important composers of ragtime, a uniquely American genre that blends European classical music with African and Caribbean rhythms.
+
+
+
+Think lively piano music with a syncopated, "ragged" feel!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6482
+Standard LLM vs Reference Similarity: 0.6596
+Similarity Improvement: -0.0114

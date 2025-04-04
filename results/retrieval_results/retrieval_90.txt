@@ -1,0 +1,27 @@
+Question: who is the actor that plays lucifer on tv
+
+Reference Answer: Thomas John Ellis ( born 17 November 1978 ) , better known as Tom Ellis , is a Welsh actor . He is best known for playing Gary Preston in the sitcom Miranda ( 2009 -- 2015 ) and Lucifer Morningstar in the television series Lucifer ( 2016 -- ) .
+
+Retrieved Documents: e334d8673594a108d64446ed569fc08c.txt, e334d8673594a108d64446ed569fc08c.txt, 7804cc73e18eda57fc01c600c87fd4a4.txt
+
+Raw Retrieved Content:
+Thomas John Ellis ( born 17 November 1978 ) , better known as Tom Ellis , is a Welsh actor . He is best known for playing Gary Preston in the sitcom Miranda ( 2009 -- 2015 ) and Lucifer Morningstar in the television series Lucifer ( 2016 -- ) .
+
+. Ellis was the star of the USA network series Rush , playing a Hollywood physician . In February 2015 , it was announced that Ellis was cast as Lucifer Morningstar in the Fox Television drama Lucifer , based on the comic with the same name , which premiered on 25 January 2016 .
+
+There have been claims of a resemblance of the actor in the role of Satan ( Mohamen Mehdi Ouazanni ) to U.S. President Barack Obama . The resemblance was first pointed out notably by Glenn Beck ahead of the episode 's premiere .
+
+Processed Retrieved Content:
+Thomas John Ellis ( born 17 November 1978 ), better known as Tom Ellis, is a Welsh actor. He is best known for playing Gary Preston in the sitcom Miranda ( 2009 -- 2015 ) and Lucifer Morningstar in the television series Lucifer ( 2016 -- ).. Ellis was the star of the USA network series Rush, playing a Hollywood physician. In February 2015, it was announced that Ellis was cast as Lucifer Morningstar in the Fox Television drama Lucifer, based on the comic with the same name, which premiered on 25 January 2016. There have been claims of a resemblance of the actor in the role of Satan ( Mohamen Mehdi Ouazanni ) to U.S. President Barack Obama. The resemblance was first pointed out notably by Glenn Beck ahead of the episode 's premiere.
+
+RAG Answer:
+Tom Ellis is the actor that plays Lucifer on TV.
+
+Standard LLM Answer:
+The actor who plays Lucifer on the TV show "Lucifer" is **Tom Ellis**.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8289
+Standard LLM vs Reference Similarity: 0.8137
+Similarity Improvement: 0.0152

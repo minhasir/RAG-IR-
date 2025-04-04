@@ -1,0 +1,46 @@
+Question: when does model code of conduct come into force
+
+Reference Answer: Election Commission of India 's Model Code of Conduct is a set of guidelines issued by the Election Commission of India for conduct of political parties and candidates during elections mainly with respect to speeches , polling day , polling booths , election manifestos , processions and general conduct . These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections . Much of it is designed to avert communal clashes and corrupt practices . For example , politicians should not make hate speeches , putting one community against another or make promises about new projects that may sway a voter .
+
+Retrieved Documents: 81f772c46488c1a24d0db5411ffed2ec.txt, 81f772c46488c1a24d0db5411ffed2ec.txt, 81f772c46488c1a24d0db5411ffed2ec.txt
+
+Raw Retrieved Content:
+For the 2014 general election the code came into force on 5 March 2014 when the Commission announced the dates and remains in force till the end of the electoral process .
+
+`` The Model Code of Conduct is crucial to make sure a level playing field among various contenders in the poll fray , '' said the Chief Election Commissioner V.S. Sampath at the press conference .
+
+. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections . Much of it is designed to avert communal clashes and corrupt practices . For example , politicians should not make hate speeches , putting one community against another or make promises about new projects that may sway a voter .
+
+Election Commission of India 's Model Code of Conduct is a set of guidelines issued by the Election Commission of India for conduct of political parties and candidates during elections mainly with respect to speeches , polling day , polling booths , election manifestos , processions and general conduct . These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit
+
+Processed Retrieved Content:
+For the 2014 general election the code came into force on 5 March 2014 when the Commission announced the dates and remains in force till the end of the electoral process. `` The Model Code of Conduct is crucial to make sure a level playing field among various contenders in the poll fray, '' said the Chief Election Commissioner V.S. Sampath at the press conference.. The Model Code of Conduct comes into force immediately on announcement of the election schedule by the commission for the need of ensuring free and fair elections. Much of it is designed to avert communal clashes and corrupt practices. For example, politicians should not make hate speeches, putting one community against another or make promises about new projects that may sway a voter. Election Commission of India 's Model Code of Conduct is a set of guidelines issued by the Election Commission of India for conduct of political parties and candidates during elections mainly with respect to speeches, polling day, polling booths, election manifestos, processions and general conduct. These set of norms has been evolved with the consensus of political parties who have consented to abide by the principles embodied in the said code in its letter and spirit
+
+RAG Answer:
+The Model Code of Conduct comes into force immediately on the announcement of the election schedule by the commission.
+
+Standard LLM Answer:
+Okay, let's break down when the Model Code of Conduct for AI comes into force. Here's the key information, based on the OECD's documentation:
+
+**The Model Code of Conduct comes into force on August 1, 2024.**
+
+Here's a more detailed explanation and important nuances:
+
+*   **Voluntary Adoption:** The Model Code is *voluntary*. It's not a legally binding regulation. Organizations are encouraged to adopt and implement it.
+*   **Implementation Timeline:** While the Code comes into force on August 1, 2024, the OECD anticipates that full implementation will take time. They encourage organizations to start integrating the principles and guidelines as soon as possible.
+*   **Ongoing Development:** The OECD intends to regularly review and update the Model Code based on experience and technological advancements. This means the Code will evolve over time.
+*   **Purpose of the Date:** The August 1, 2024 date serves as a benchmark for organizations to align their AI governance practices with the OECD's recommendations.
+
+**Where to find this information:**
+
+*   **OECD AI Model Code Website:** [https://www.oecd.org/ai/model-code/](https://www.oecd.org/ai/model-code/) - This is the official source.
+*   **OECD Press Release:** [https://www.oecd.org/newsroom/ai-model-code-comes-into-force-to-guide-responsible-ai-development-and-deployment/](https://www.oecd.org/newsroom/ai-model-code-comes-into-force-to-guide-responsible-ai-development-and-deployment/)
+
+
+
+I hope this clarifies when the Model Code of Conduct comes into force!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6211
+Standard LLM vs Reference Similarity: 0.3619
+Similarity Improvement: 0.2593

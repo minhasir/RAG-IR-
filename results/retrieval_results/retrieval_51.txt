@@ -1,0 +1,44 @@
+Question: what is the largest catholic high school in america
+
+Reference Answer: St. Francis Preparatory School , commonly known as St. Francis Prep , is a private , independent Catholic college preparatory school in the Fresh Meadows neighborhood of the New York City Borough of Queens , in the State of New York . It is the largest non-diocesan Catholic high school in the United States . St. Francis is run by the Franciscan Brothers of Brooklyn , who maintain a residence on the top floor of the school . The school has a student body of about 2,750 students and graduates between 600 and 700 students annually .
+
+Retrieved Documents: ab92dae559e688b5eda57961ed13f0bb.txt, ab92dae559e688b5eda57961ed13f0bb.txt, 2cb41fa6a56c89609bb782124fafd224.txt
+
+Raw Retrieved Content:
+St. Francis Preparatory School , commonly known as St. Francis Prep , is a private , independent Catholic college preparatory school in the Fresh Meadows neighborhood of the New York City Borough of Queens , in the State of New York . It is the largest non-diocesan Catholic high school in the United States . St. Francis is run by the Franciscan Brothers of Brooklyn , who maintain a residence on the top floor of the school
+
+. The school moved to its current location in Fresh Meadows , Queens in 1974 when it acquired the facility that formerly housed Bishop Reilly High School , a co-educational Catholic high school . The school began admitting female students that same year . A fitness center was added recently and the science labs are being updated . There are currently plans to add a three - story addition to the rear of the existing building
+
+. Vincent -- St. Mary High School , a predominantly white private Catholic school .
+
+Processed Retrieved Content:
+St. Francis Preparatory School, commonly known as St. Francis Prep, is a private, independent Catholic college preparatory school in the Fresh Meadows neighborhood of the New York City Borough of Queens, in the State of New York. It is the largest non-diocesan Catholic high school in the United States. St. Francis is run by the Franciscan Brothers of Brooklyn, who maintain a residence on the top floor of the school. The school moved to its current location in Fresh Meadows, Queens in 1974 when it acquired the facility that formerly housed Bishop Reilly High School, a co-educational Catholic high school. The school began admitting female students that same year. A fitness center was added recently and the science labs are being updated. There are currently plans to add a three - story addition to the rear of the existing building. Vincent -- St. Mary High School, a predominantly white private Catholic school.
+
+RAG Answer:
+Based on the provided information, St. Francis is the largest non-diocesan Catholic high school in the United States.
+
+Standard LLM Answer:
+This is a tricky question with no single, definitive answer! It depends on how you define "largest" – by student population, physical size of the campus, or endowment. However, based on **student population**, the largest Catholic high school in America is generally considered to be:
+
+**St. John's College High School in Washington, D.C.**
+
+Here's a breakdown of why and some other contenders:
+
+*   **St. John's College High School:** Consistently boasts a student population of around **1,700-1,800 students**. This makes it the largest by this metric.
+*   **Loyola Academy (Chicago, IL):** Often cited as a close second, with a student body around 1,600.
+*   **Seton Hall Prep (South Orange, NJ):** Another large Catholic high school, typically around 1,500 students.
+
+**Important Considerations:**
+
+*   **Data Fluctuations:** Student populations can change slightly year to year.
+*   **Co-educational vs. Single-Sex:** Some lists might prioritize single-sex schools.
+*   **Defining "Catholic High School":** Some schools have complex histories and affiliations, making categorization difficult.
+
+
+
+Therefore, while other schools might be larger in other aspects, **St. John's College High School** is generally recognized as the largest Catholic high school in the United States based on student enrollment.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7201
+Standard LLM vs Reference Similarity: 0.5317
+Similarity Improvement: 0.1884

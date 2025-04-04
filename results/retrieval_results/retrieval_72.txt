@@ -1,0 +1,30 @@
+Question: when does grey's anatomy season 14 premiere
+
+Reference Answer: Grey 's Anatomy ( season 14 ) Promotional poster Starring Ellen Pompeo Justin Chambers Chandra Wilson James Pickens , Jr . Kevin McKidd Jessica Capshaw Sarah Drew Jesse Williams Caterina Scorsone Camilla Luddington Kelly McCreary Jason George Martin Henderson Giacomo Gianniotti Country of origin United States No. of episodes 12 Release Original network ABC Original release September 28 , 2017 ( 2017 - 09 - 28 ) -- present Season chronology ← Previous Season 13 List of Grey 's Anatomy episodes
+
+Retrieved Documents: 8b9bce5dcde935702650fb26c6f80811.txt, 8b9bce5dcde935702650fb26c6f80811.txt, 89904bbf23461ca4a11fa8c0a2afa176.txt
+
+Raw Retrieved Content:
+The fourteenth season of the American television medical drama Grey 's Anatomy was ordered on February 10 , 2017 , by American Broadcasting Company ( ABC ) , and premiered on September 28 , 2017 with a special two - hour premiere . The season will consist of 24 episodes , with the season 's seventh episode marking the 300th episode for the series overall
+
+Grey 's Anatomy was renewed for a 14th season on February 10 , 2017 . It premiered on September 28 , 2017 , with a two - hour premiere . Ellen Pompeo announced that she would be directing several episodes in the 14th season . On April 28 , 2017 , veteran writer Krista Vernoff announced that she would return to the show as a writer after leaving the show after the seventh season
+
+The first three episodes of the series premiered on April 26 , 2017 , with the subsequent seven episodes added on a weekly basis every Wednesday . In May 2017 , it was renewed for a second season to premiere in 2018 . The series received critical acclaim and won eight Primetime Emmy Awards from thirteen nominations , including Outstanding Drama Series . It is the first series on a streaming platform to win an Emmy for Outstanding Series .
+
+Processed Retrieved Content:
+The fourteenth season of the American television medical drama Grey 's Anatomy was ordered on February 10, 2017, by American Broadcasting Company ( ABC ), and premiered on September 28, 2017 with a special two - hour premiere. The season will consist of 24 episodes, with the season 's seventh episode marking the 300th episode for the series overall Grey 's Anatomy was renewed for a 14th season on February 10, 2017. It premiered on September 28, 2017, with a two - hour premiere. Ellen Pompeo announced that she would be directing several episodes in the 14th season. On April 28, 2017, veteran writer Krista Vernoff announced that she would return to the show as a writer after leaving the show after the seventh season The first three episodes of the series premiered on April 26, 2017, with the subsequent seven episodes added on a weekly basis every Wednesday. In May 2017, it was renewed for a second season to premiere in 2018. The series received critical acclaim and won eight Primetime Emmy Awards from thirteen nominations, including Outstanding Drama Series. It is the first series on a streaming platform to win an Emmy for Outstanding Series.
+
+RAG Answer:
+September 28, 2017.
+
+Standard LLM Answer:
+Okay, let's break this down! You're asking about the premiere date of Grey's Anatomy Season 14.
+
+**Grey's Anatomy Season 14 premiered on Thursday, September 27, 2018, at 8/7c on ABC.**
+
+Hopefully, that answers your question! It's a bit of a winding path of questions you asked, but I think I've addressed everything.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1246
+Standard LLM vs Reference Similarity: 0.7355
+Similarity Improvement: -0.6109

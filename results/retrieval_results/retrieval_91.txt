@@ -1,0 +1,52 @@
+Question: when did darth maul die in star wars
+
+Reference Answer: Maul is a fictional character in the Star Wars franchise . Trained as Darth Sidious 's first apprentice , he serves as a Sith Lord and a master of wielding a double - bladed lightsaber . He first appears in Star Wars : Episode I -- The Phantom Menace ( portrayed by Ray Park and voiced by Peter Serafinowicz ) . Despite his apparent demise in that film at the hands of Obi - Wan Kenobi , he would later return in the Star Wars : The Clone Wars animated television series , and would go on to make further appearances in the Star Wars Rebels series and the 2018 film Solo : A Star Wars Story , all voiced by Sam Witwer .
+
+Retrieved Documents: 6723d50c676e8edbaf291b9ed64076e3.txt, 6723d50c676e8edbaf291b9ed64076e3.txt, 6723d50c676e8edbaf291b9ed64076e3.txt
+
+Raw Retrieved Content:
+Darth Maul appears in the fourth and fifth seasons of the animated series Star Wars : The Clone Wars .
+
+In the fourth season , Darth Maul is revealed to be alive , having survived his presumed death at Obi - Wan Kenobi 's hands . Having ended up on the junkyard planet Lotho Minor via a dumpster craft , Maul has suffered from amnesia since Obi - Wan defeated him . Opress finds Maul and brings him to the devastated Dathomir , where Talzin restores Maul 's mind and gives him robotic legs . Maul and Opress set about a plan to exact revenge on Obi - Wan
+
+Maul senses Darth Sidious arriving on Mandalore . Although impressed with his former apprentice 's survival , Sidious declares Maul a rival and uses the Force to push and choke him and Opress . He then engages them both in lightsaber combat , fatally injuring Opress . After Opress dies from his wounds , Sidious reminds Maul of the Rule of Two , and tells him that he has been replaced
+
+Processed Retrieved Content:
+Darth Maul appears in the fourth and fifth seasons of the animated series Star Wars: The Clone Wars. In the fourth season, Darth Maul is revealed to be alive, having survived his presumed death at Obi - Wan Kenobi 's hands. Having ended up on the junkyard planet Lotho Minor via a dumpster craft, Maul has suffered from amnesia since Obi - Wan defeated him. Opress finds Maul and brings him to the devastated Dathomir, where Talzin restores Maul 's mind and gives him robotic legs. Maul and Opress set about a plan to exact revenge on Obi - Wan Maul senses Darth Sidious arriving on Mandalore. Although impressed with his former apprentice 's survival, Sidious declares Maul a rival and uses the Force to push and choke him and Opress. He then engages them both in lightsaber combat, fatally injuring Opress. After Opress dies from his wounds, Sidious reminds Maul of the Rule of Two, and tells him that he has been replaced
+
+RAG Answer:
+Based on the provided information, Darth Maul is not definitively stated to have died. However, the information indicates Darth Sidious fatally injures Opress and reminds Maul that he has been replaced, implying Maul's diminished status and potential irrelevance within the Sith order.
+
+Standard LLM Answer:
+Darth Maul's death is a surprisingly complex and debated topic in Star Wars! Here's a breakdown of what happened and the different interpretations:
+
+**The Initial Death (The Phantom Menace - 1999):**
+
+*   During the final duel between Qui-Gon Jinn, Obi-Wan Kenobi, and Darth Maul in *The Phantom Menace*, Maul is seemingly cut in half by Kenobi's lightsaber. His upper body falls down a seemingly bottomless shaft.
+*   This was initially presented as a definitive death.
+
+**The Resurrection and Subsequent Story (The Clone Wars animated series):**
+
+*   Years later, the *Star Wars: The Clone Wars* animated series (2008-2020) revealed that Maul survived. He had been cut in half, but his lower body, with a few inches of his body still intact, managed to grab onto a vine and slowly pulled himself to safety.
+*   He spent years in exile on the planet Lotho Prime, a desolate world filled with castoffs and criminals, where he rebuilt himself with the help of a salvage crew.
+*   He then dedicated himself to hunting down and killing those responsible for his defeat, including Qui-Gon Jinn's former apprentice, Barriss Offee.
+
+**The Final Death (Solo: A Star Wars Story - 2018):**
+
+*   In *Solo: A Star Wars Story*, Maul, now a powerful crime lord, is confronted by a group of bounty hunters led by Boba Fett and Din Djarin.
+*   During the fight, Maul is ultimately cut down by Mando (Din Djarin) with his lightsaber. This time, his death is definitively shown, with his body falling into a chasm.
+*   **This is considered his final and permanent death in the current Star Wars canon.**
+
+**Important Notes:**
+
+*   **Legends vs. Canon:** Before 2014, Maul's survival and subsequent adventures were part of the "Legends" continuity (formerly the Expanded Universe). These stories are no longer considered part of the official Star Wars canon.
+*   **Ambiguity:** Even in *Solo*, there's a brief moment of ambiguity as Maul falls, but the film clearly establishes his death.
+
+
+
+So, while Darth Maul initially appeared to die in *The Phantom Menace*, he was brought back for a significant story arc in *The Clone Wars*. Ultimately, he met his final demise in *Solo: A Star Wars Story*.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5893
+Standard LLM vs Reference Similarity: 0.6390
+Similarity Improvement: -0.0497

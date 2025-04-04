@@ -1,0 +1,34 @@
+Question: when did the dolan twins post their first youtube video
+
+Reference Answer: The Dolan Twins Ethan Dolan Grayson Dolan ( 1999 - 12 - 16 ) December 16 , 1999 ( age 18 ) Nationality American Occupation Comedian YouTube information Years active 2014 -- present Subscribers 5,265,019 ( April 6 , 2018 ) Total views 711,101,857 ( April 6 , 2018 ) Associated acts Logan Paul Play buttons 100,000 subscribers 1,000,000 subscribers
+
+Retrieved Documents: cd7fcb9352da12db5b0268e51a4190ee.txt, cd7fcb9352da12db5b0268e51a4190ee.txt, cd7fcb9352da12db5b0268e51a4190ee.txt
+
+Raw Retrieved Content:
+MTV 's Total Request Live reboot added the Dolan twins to the shows lineup as correspondents , and provide on - air hosting duties across platforms . It was announced in August 2018 that the twins had directed a music video for the Australian alt - pop group Cub Sport .
+
+Ethan and Grayson Dolan ( born December 16 , 1999 ) , collectively known as The Dolan Twins , are an American comedy duo who rose to prominence in May 2013 on the video sharing application Vine . They are currently signed to AwesomenessTV , and have been since 2015 .
+
+The twins are from the Long Valley section of Washington Township , Morris County , New Jersey . On December 19 , 2017 they published a video , highlighting what type of twins they are . In the video Ethan Dolan expressed doubt that they were identical twins , in truth they are .
+
+Processed Retrieved Content:
+MTV 's Total Request Live reboot added the Dolan twins to the shows lineup as correspondents, and provide on - air hosting duties across platforms. It was announced in August 2018 that the twins had directed a music video for the Australian alt - pop group Cub Sport. Ethan and Grayson Dolan ( born December 16, 1999 ), collectively known as The Dolan Twins, are an American comedy duo who rose to prominence in May 2013 on the video sharing application Vine. They are currently signed to AwesomenessTV, and have been since 2015. The twins are from the Long Valley section of Washington Township, Morris County, New Jersey. On December 19, 2017 they published a video, highlighting what type of twins they are. In the video Ethan Dolan expressed doubt that they were identical twins, in truth they are.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions they rose to prominence on Vine in May 2013 and published a video in December 2017, but it doesn't specify when their first YouTube video was posted.
+
+Standard LLM Answer:
+Okay, let's track down the first YouTube video from the Dolan Twins (Ethan and Grayson).
+
+According to their official website and various online sources, the Dolan Twins' first YouTube video was titled **"Weird Morning Routine"** and was uploaded on **July 14, 2012.**
+
+Here's a link to the video: [https://www.youtube.com/watch?v=tQ9Vqj-9Q1M](https://www.youtube.com/watch?v=tQ9Vqj-9Q1M)
+
+
+
+Hopefully, that answers your question!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3820
+Standard LLM vs Reference Similarity: 0.6419
+Similarity Improvement: -0.2599

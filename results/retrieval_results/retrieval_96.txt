@@ -1,0 +1,39 @@
+Question: who designed the national coat of arms of south africa
+
+Reference Answer: The design process was initiated when , in 1999 , the Department of Arts , Culture , Science and Technology requested ideas for the new coat - of - arms from the public . A brief was then prepared based on the ideas received , along with input from the Cabinet . The Government Communication and Information System then approached Design South Africa to brief ten of the top designers . Three designers were chosen to present their concepts to the Cabinet . Iaan Bekker 's design was chosen .
+
+Retrieved Documents: 298d8d6716819775f132c3354302ad89.txt, 298d8d6716819775f132c3354302ad89.txt, 298d8d6716819775f132c3354302ad89.txt
+
+Raw Retrieved Content:
+The design process was initiated when , in 1999 , the Department of Arts , Culture , Science and Technology requested ideas for the new coat - of - arms from the public . A brief was then prepared based on the ideas received , along with input from the Cabinet . The Government Communication and Information System then approached Design South Africa to brief ten of the top designers . Three designers were chosen to present their concepts to the Cabinet . Iaan Bekker 's design was chosen .
+
+The present coat of arms of South Africa was introduced on Freedom Day 27 April 2000 . It replaced the earlier national arms , which had been in use since 1910 . The motto ǃke e : ǀxarra ǁke is written in the Khoisan language of the ǀXam people and translates literally to `` diverse people unite '' . The previous motto , in Latin , was Ex Unitate Vires , translated as `` From unity , strength '' .
+
+The combination of the upper and lower oval shapes intersect to form an unbroken infinite course , and the great harmony between the basic elements result in a dynamic , elegant and thoroughly distinctive design . Yet it clearly retains the stability , gravity and immediacy that a coat of arms demands .
+
+The first coat of arms was granted by King George V by Royal Warrant on 17 September 1910 . This was a few months after the formation of the Union of South Africa .
+
+Processed Retrieved Content:
+The design process was initiated when, in 1999, the Department of Arts, Culture, Science and Technology requested ideas for the new coat - of - arms from the public. A brief was then prepared based on the ideas received, along with input from the Cabinet. The Government Communication and Information System then approached Design South Africa to brief ten of the top designers. Three designers were chosen to present their concepts to the Cabinet. Iaan Bekker 's design was chosen. The present coat of arms of South Africa was introduced on Freedom Day 27 April 2000. It replaced the earlier national arms, which had been in use since 1910. The motto ǃke e: ǀxarra ǁke is written in the Khoisan language of the ǀXam people and translates literally to `` diverse people unite ''. The previous motto, in Latin, was Ex Unitate Vires, translated as `` From unity, strength ''. The combination of the upper and lower oval shapes intersect to form an unbroken infinite course, and the great harmony between the basic elements result in a dynamic, elegant and thoroughly distinctive design. Yet it clearly retains the stability, gravity and immediacy that a coat of arms demands. The first coat of arms was granted by King George V by Royal Warrant on 17 September 1910. This was a few months after the formation of the Union of South Africa.
+
+RAG Answer:
+Iaan Bekker designed the national coat of arms of South Africa.
+
+Standard LLM Answer:
+The national coat of arms of South Africa was designed by a team led by **State Herald Ian Sinton**. However, it's important to understand it was a collaborative effort drawing on historical and cultural symbolism. Here's a breakdown of the key contributors and the process:
+
+*   **Ian Sinton (State Herald):** He was the lead designer and oversaw the entire project. He is credited with the overall concept and design.
+*   **André Heywood (Artist):** Heywood was the artist who executed the final design based on Sinton's specifications. He is responsible for the detailed artwork.
+*   **A Committee of Experts:** A committee comprised of heraldry experts, historians, and cultural representatives was formed to advise on the symbolism and ensure its appropriateness. This included people from various cultural groups within South Africa.
+*   **Public Consultation:** There was a period of public consultation to gather feedback on the proposed designs.
+
+**Therefore, while Ian Sinton is considered the lead designer, it was a collaborative effort involving multiple individuals and a process of public input.**
+
+
+
+You can find more information on the South African government website: [https://www.gov.za/national-symbols/national-coat-of-arms](https://www.gov.za/national-symbols/national-coat-of-arms)
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7227
+Standard LLM vs Reference Similarity: 0.7321
+Similarity Improvement: -0.0094

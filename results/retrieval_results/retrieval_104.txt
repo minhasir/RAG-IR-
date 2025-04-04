@@ -1,0 +1,52 @@
+Question: where did the term sixes and sevens come from
+
+Reference Answer: An ancient dispute between the Merchant Taylors and Skinners livery companies is the probable origin of the phrase . The two trade associations , both founded in the same year ( 1327 ) , argued over sixth place in the order of precedence . In 1484 , after more than a century and a half of bickering , the Lord Mayor of London Sir Robert Billesden ruled that at the feast of Corpus Christi , the companies would swap between sixth and seventh place and feast in each other 's halls . Nowadays , they alternate in precedence on an annual basis .
+
+Retrieved Documents: 23ac022275182601a19f8e880d925ec6.txt, 23ac022275182601a19f8e880d925ec6.txt, 23ac022275182601a19f8e880d925ec6.txt
+
+Raw Retrieved Content:
+`` At sixes and sevens '' is an English idiom used to describe a condition of confusion or disarray .
+
+. Also , it can be compared with the Chilean phrase al tres y al cuatro , with a similar meaning , but using the numbers three and four . In Arabic , the phrase يضرب أخماساً لأسداس ( He shows fifths for sixths ) is said of a devious person who says one thing but means another , ( تاج العروس ) , which would naturally lead to a state of confusion and of being `` at sixes and sevens '' . A similar expression is used also in Persian where they say شش پنج ( `` He says five but he means six '' )
+
+The phrase appears in a few songs , including `` Do n't Cry for Me Argentina '' from the musical Evita , `` Raoul and the Kings of Spain '' from Tears for Fears , and `` Playing With Fire '' by Stereo MCs . The eleventh studio album from Strange Music front man Tech N9ne was entitled `` All 6 's and 7 's '' . The song `` Sixes and Sevens '' was cowritten and sung by Robert Plant . It also appears in the Rolling Stones ' song `` Tumbling Dice '' .
+
+Processed Retrieved Content:
+`` At sixes and sevens '' is an English idiom used to describe a condition of confusion or disarray.. Also, it can be compared with the Chilean phrase al tres y al cuatro, with a similar meaning, but using the numbers three and four. In Arabic, the phrase يضرب أخماساً لأسداس ( He shows fifths for sixths ) is said of a devious person who says one thing but means another, ( تاج العروس ), which would naturally lead to a state of confusion and of being `` at sixes and sevens ''. A similar expression is used also in Persian where they say شش پنج ( `` He says five but he means six '' ) The phrase appears in a few songs, including `` Do n't Cry for Me Argentina '' from the musical Evita, `` Raoul and the Kings of Spain '' from Tears for Fears, and `` Playing With Fire '' by Stereo MCs. The eleventh studio album from Strange Music front man Tech N9ne was entitled `` All 6 's and 7 's ''. The song `` Sixes and Sevens '' was cowritten and sung by Robert Plant. It also appears in the Rolling Stones ' song `` Tumbling Dice ''.
+
+RAG Answer:
+Based on the provided information, the term "sixes and seven's" comes from English and is an idiom used to describe a condition of confusion or disarray. Similar expressions exist in Chilean, Arabic, and Persian, all conveying a similar meaning of saying one thing but meaning another, leading to confusion.
+
+Standard LLM Answer:
+The term "sixes and sevens" (or sometimes just "sixes") to describe a confused or muddled state of mind has a fascinating and surprisingly well-documented origin tied to 18th-century English gambling and card games. Here's the breakdown:
+
+**1. The Game: "Euchre" and "Misère Euchre"**
+
+*   **Euchre (pronounced "yoo-ker")** was a popular card game in 18th-century England, and it remains popular today. It's a trick-taking game played with a reduced deck of cards (typically 28 cards).
+*   **Misère Euchre** was a variation of Euchre where the goal was to *avoid* taking tricks.  Instead of trying to win, you were trying to lose.
+
+**2. The "Sixes and Sevens" Hand**
+
+*   In Misère Euchre, the worst possible hand was one containing the six and seven of the same suit.  This hand was considered so bad, so hopeless, that it symbolized utter confusion and misfortune.  It was a hand you desperately wanted to avoid.
+*   The term "sixes and sevens" specifically referred to having both the six and seven of the same suit in your hand.
+
+**3. The Transition to Figurative Language**
+
+*   Around the late 1700s and early 1800s, the phrase "sixes and sevens" began to be used figuratively to describe a state of disarray, confusion, or disorder.  It moved from the specific context of a terrible hand in a card game to a general expression for mental or situational chaos.
+*   The association was clear: just as a player with "sixes and sevens" in their hand was in a hopeless situation, someone described as being "in sixes and sevens" was in a state of confusion and disorganization.
+
+**Evidence and Early Usage:**
+
+*   **Early Literary References:** The phrase appears in literature from the early 19th century, solidifying its entry into common usage.
+*   **Dictionaries:**  Dictionaries began to include the figurative meaning of "sixes and sevens" in the 1800s.
+
+**In summary, "sixes and sevens" originated from the dreaded hand in the card game Misère Euchre, and its meaning evolved to represent a state of confusion and disorder.**
+
+
+
+Do you want to know more about the game of Euchre?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3594
+Standard LLM vs Reference Similarity: 0.2875
+Similarity Improvement: 0.0719

@@ -1,0 +1,52 @@
+Question: who owns st andrews golf course in scotland
+
+Reference Answer: The Old Course at St Andrews is considered the oldest golf course in the world , a public course over common land in St Andrews , Fife , Scotland . It is held in trust by The St Andrews Links Trust under an act of Parliament . The Royal and Ancient Golf Club of St Andrews club house sits adjacent to the first tee , although it is but one of many clubs that have playing privileges on the course , along with the general public .
+
+Retrieved Documents: e23d57db2e9787b30844dc1d1489fc52.txt, e23d57db2e9787b30844dc1d1489fc52.txt, e23d57db2e9787b30844dc1d1489fc52.txt
+
+Raw Retrieved Content:
+The Old Course at St Andrews is considered the oldest golf course in the world , a public course over common land in St Andrews , Fife , Scotland . It is held in trust by The St Andrews Links Trust under an act of Parliament . The Royal and Ancient Golf Club of St Andrews club house sits adjacent to the first tee , although it is but one of many clubs that have playing privileges on the course , along with the general public .
+
+. The Town Council of St. Andrews decided to allow rabbit farming on the golf course to challenge golf for popularity . Twenty years of legal battling between the golfers and rabbit farmers ended in 1821 when a local landowner and golfer named James Cheape of Strathtyrum bought the land and is credited with saving the links for golf
+
+In 1552 , Archbishop John Hamilton gave the townspeople of St. Andrews the right to play on the links . In 1754 , 22 noblemen , professors , and landowners founded the Society of St Andrews Golfers . This society would eventually become the precursor to the Royal and Ancient which is the governing body for golf everywhere outside of the United States and Mexico . St Andrews Links had a scare when they went bankrupt in 1797 . The Town Council of St
+
+Processed Retrieved Content:
+The Old Course at St Andrews is considered the oldest golf course in the world, a public course over common land in St Andrews, Fife, Scotland. It is held in trust by The St Andrews Links Trust under an act of Parliament. The Royal and Ancient Golf Club of St Andrews club house sits adjacent to the first tee, although it is but one of many clubs that have playing privileges on the course, along with the general public.. The Town Council of St. Andrews decided to allow rabbit farming on the golf course to challenge golf for popularity. Twenty years of legal battling between the golfers and rabbit farmers ended in 1821 when a local landowner and golfer named James Cheape of Strathtyrum bought the land and is credited with saving the links for golf In 1552, Archbishop John Hamilton gave the townspeople of St. Andrews the right to play on the links. In 1754, 22 noblemen, professors, and landowners founded the Society of St Andrews Golfers. This society would eventually become the precursor to the Royal and Ancient which is the governing body for golf everywhere outside of the United States and Mexico. St Andrews Links had a scare when they went bankrupt in 1797. The Town Council of St
+
+RAG Answer:
+The Old Course at St Andrews is held in trust by The St Andrews Links Trust under an act of Parliament.
+
+Standard LLM Answer:
+Okay, this is a surprisingly complex question with a layered answer! Here's a breakdown of who owns St Andrews Links, the organization that manages the famous St Andrews golf course (and surrounding courses), and the history behind it.
+
+**The Short Answer: It's Technically Owned by the Town of St Andrews**
+
+*   **St Andrews Links Trust:** The day-to-day management and operation of the seven St Andrews Links courses (including the Old Course) are handled by a non-profit organization called the St Andrews Links Trust.
+*   **The Town of St Andrews:** The Trust was established in 2001 and is ultimately accountable to the Town of St Andrews (officially, the Burgh of St Andrews). The Town Council is the sole trustee of the Trust.  This means the land and the courses are legally owned by the town.
+
+**The Longer, Historical Explanation:**
+
+*   **Historically, the Town Controlled the Land:** The land on which the Old Course and the other St Andrews Links courses sit has been under the control of the town of St Andrews for centuries.  It was originally common grazing land.
+*   **Early Golf and Royal Patronage:** Golf began to develop on the links in the 15th century.  Early monarchs, like James IV, recognized the growing popularity of the game and granted the town certain rights related to it.
+*   **The St Andrews Links Committee (Pre-2001):** For many years, a committee of local citizens managed the courses. This committee was responsible for everything from course maintenance to tee time allocation.
+*   **The Creation of the St Andrews Links Trust (2001):** In 2001, a significant change occurred. The St Andrews Links Committee was replaced by the St Andrews Links Trust. This was done to:
+    *   **Formalize Governance:**  Create a more structured and transparent governance system.
+    *   **Ensure Financial Sustainability:**  Improve the financial management of the links to ensure their long-term viability.
+    *   **Protect the Heritage:**  Safeguard the historical and cultural significance of the St Andrews Links.
+*   **The Trust's Role:** The Trust operates on a "not-for-profit" basis. All revenue generated from green fees, events, and other activities is reinvested back into the courses and the surrounding area.
+
+**Key Takeaways:**
+
+*   While the St Andrews Links Trust manages the courses, the ultimate ownership rests with the Town of St Andrews.
+*   The Trust's structure ensures that the links are managed in a way that benefits the town and preserves the heritage of the game of golf.
+*   The revenue generated is reinvested back into the courses and the local community.
+
+
+
+I hope this comprehensive explanation clarifies the ownership situation!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7564
+Standard LLM vs Reference Similarity: 0.7020
+Similarity Improvement: 0.0544

@@ -1,0 +1,40 @@
+Question: where does st elmo's fire take place
+
+Reference Answer: According to Schumacher , `` a lot of people turned down the script ... the head of ( one ) major studio called its seven - member cast `` the most loathsome humans he had ever read on the page . '' The producers interviewed `` hundreds of people '' for the cast , including Anthony Edwards and Lea Thompson . According to Lauren Shuler Donner , she found Estevez , Nelson , and Sheedy through recommendations from John Hughes , who had cast them in The Breakfast Club ; Schumacher said he had to `` push hard '' to get the studio to agree to cast the three . Demi Moore had to go to rehab before shooting .
+
+Retrieved Documents: 895e6327ede8c478744fc35a2c902915.txt, 895e6327ede8c478744fc35a2c902915.txt, 895e6327ede8c478744fc35a2c902915.txt
+
+Raw Retrieved Content:
+St. Elmo 's Fire is a 1985 American coming - of - age film directed by Joel Schumacher . The film , starring Emilio Estevez , Rob Lowe , Andrew McCarthy , Demi Moore , Judd Nelson , Ally Sheedy , and Mare Winningham , centers on a group of friends , recent graduates of Georgetown University , and their adjustment to their post-university lives and the responsibilities of encroaching adulthood . The film is a prominent movie of the Brat Pack genre .
+
+`` St. Elmo 's Fire ( Man in Motion ) '' hit No. 1 on Billboard 's Hot 100 chart for two weeks in September 1985 , and `` Love Theme from St. Elmo 's Fire '' ( the instrumental theme to the movie by David Foster ) reached No. 15 . Another version of the `` Love Theme from St. Elmo 's Fire '' with lyrics , titled `` For Just a Moment '' , was performed by Amy Holland and Donny Gerrard , and was included as the final song on the soundtrack album .
+
+The theme song `` St. Elmo 's Fire ( Man in Motion ) '' was written by Canadian composer / producer David Foster and English musician John Parr , and also performed by Parr . The song was written for the Canadian athlete Rick Hansen who , at the time , was traveling around the world via his wheelchair to raise awareness for spinal cord injuries , a trip called the `` Man in Motion Tour . '' The song did not appear on any Parr album until Letter to America was released in July 2011 .
+
+Processed Retrieved Content:
+St. Elmo 's Fire is a 1985 American coming - of - age film directed by Joel Schumacher. The film, starring Emilio Estevez, Rob Lowe, Andrew McCarthy, Demi Moore, Judd Nelson, Ally Sheedy, and Mare Winningham, centers on a group of friends, recent graduates of Georgetown University, and their adjustment to their post-university lives and the responsibilities of encroaching adulthood. The film is a prominent movie of the Brat Pack genre. `` St. Elmo 's Fire ( Man in Motion ) '' hit No. 1 on Billboard 's Hot 100 chart for two weeks in September 1985, and `` Love Theme from St. Elmo 's Fire '' ( the instrumental theme to the movie by David Foster ) reached No. 15. Another version of the `` Love Theme from St. Elmo 's Fire '' with lyrics, titled `` For Just a Moment '', was performed by Amy Holland and Donny Gerrard, and was included as the final song on the soundtrack album. The theme song `` St. Elmo 's Fire ( Man in Motion ) '' was written by Canadian composer / producer David Foster and English musician John Parr, and also performed by Parr. The song was written for the Canadian athlete Rick Hansen who, at the time, was traveling around the world via his wheelchair to raise awareness for spinal cord injuries, a trip called the `` Man in Motion Tour. '' The song did not appear on any Parr album until Letter to America was released in July 2011.
+
+RAG Answer:
+St. Elmo's Fire takes place at Georgetown University.
+
+Standard LLM Answer:
+You're asking a great question that circles back on itself! Let's break it down:
+
+*   **St. Elmo's Fire** is a luminous electrical discharge caused by a strong electric field.
+*   **Where does it take place?** It typically occurs on pointed objects during thunderstorms. Common locations include:
+    *   Ship masts
+    *   Lightning rods
+    *   Towers
+    *   Trees
+    *   Even the wings of airplanes
+
+So, your question "where does St. Elmo's Fire take place" is essentially asking the same thing as "what are the typical locations where St. Elmo's Fire occurs?"
+
+
+
+Hopefully, that clarifies things!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: -0.0578
+Standard LLM vs Reference Similarity: -0.1413
+Similarity Improvement: 0.0835

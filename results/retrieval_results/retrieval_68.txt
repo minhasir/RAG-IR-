@@ -1,0 +1,27 @@
+Question: which city and state hosts the annual college world series
+
+Reference Answer: The College World Series , or CWS , is an annual June baseball tournament held in Omaha , Nebraska . The CWS is the culmination of the National Collegiate Athletic Association ( NCAA ) Division I Baseball Championship tournament -- featuring 64 teams in the first round -- which determines the NCAA Division I college baseball champion . The eight participating teams are split into two , four - team , double - elimination brackets , with the winners of each bracket playing in a best - of - three championship series .
+
+Retrieved Documents: 83feece130c0545bb3318f55459f922a.txt, 83feece130c0545bb3318f55459f922a.txt, 83feece130c0545bb3318f55459f922a.txt
+
+Raw Retrieved Content:
+The College World Series , or CWS , is an annual June baseball tournament held in Omaha , Nebraska . The CWS is the culmination of the National Collegiate Athletic Association ( NCAA ) Division I Baseball Championship tournament -- featuring 64 teams in the first round -- which determines the NCAA Division I college baseball champion
+
+Since 1950 , the College World Series ( CWS ) has been held in Omaha , Nebraska , and Omaha 's Creighton University and their baseball program serves as the permanent host school for the event . It was held at Rosenblatt Stadium from 1950 through 2010 ; starting in 2011 , it has been held at TD Ameritrade Park Omaha . Earlier tournaments were held at Hyames Field in Kalamazoo , Michigan ( 1947 -- 48 ) and Wichita , Kansas ( 1949 )
+
+. The name `` College World Series '' is derived from that of the Major League Baseball World Series championship ; it is currently an MLB trademark licensed to the NCAA .
+
+Processed Retrieved Content:
+The College World Series, or CWS, is an annual June baseball tournament held in Omaha, Nebraska. The CWS is the culmination of the National Collegiate Athletic Association ( NCAA ) Division I Baseball Championship tournament -- featuring 64 teams in the first round -- which determines the NCAA Division I college baseball champion Since 1950, the College World Series ( CWS ) has been held in Omaha, Nebraska, and Omaha 's Creighton University and their baseball program serves as the permanent host school for the event. It was held at Rosenblatt Stadium from 1950 through 2010; starting in 2011, it has been held at TD Ameritrade Park Omaha. Earlier tournaments were held at Hyames Field in Kalamazoo, Michigan ( 1947 -- 48 ) and Wichita, Kansas ( 1949 ). The name `` College World Series '' is derived from that of the Major League Baseball World Series championship; it is currently an MLB trademark licensed to the NCAA.
+
+RAG Answer:
+Omaha, Nebraska.
+
+Standard LLM Answer:
+The College World Series is held in **Omaha, Nebraska**.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3360
+Standard LLM vs Reference Similarity: 0.7280
+Similarity Improvement: -0.3921

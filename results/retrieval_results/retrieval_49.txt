@@ -1,0 +1,41 @@
+Question: who sings with shaggy on it wasn me
+
+Reference Answer: `` It Was n't Me '' is the first single from Jamaican - American reggae artist Shaggy 's multi-Platinum studio album Hot Shot ( 2000 ) . The song features vocals from English - Jamaican singer Rikrok .
+
+Retrieved Documents: 2a88e88502385d4554ae940d61d78035.txt, 2a88e88502385d4554ae940d61d78035.txt, 2a88e88502385d4554ae940d61d78035.txt
+
+Raw Retrieved Content:
+`` It Was n't Me '' is the first single from Jamaican - American reggae artist Shaggy 's multi-Platinum studio album Hot Shot ( 2000 ) . The song features vocals from English - Jamaican singer Rikrok .
+
+The lyrics of the song depict one man asking his friend what to do after his girlfriend caught him having sex with another woman . His friend 's advice is to deny everything , despite clear evidence to the contrary , with the phrase `` It was n't me . ''
+
+`` It Was n't Me '' was Shaggy 's first number - one hit in the United States . The song peaked at number two for two weeks from December 16 , 2000 to December 23 , 2000 . On December 30 , 2000 , it was bumped down one position to number three . It moved back up to the number two spot on January 4 , 2001 .
+
+`` It Was n't Me '' has been regarded as Shaggy 's breakthrough in the pop market , and is his highest - charting song to date , topping the charts in Australia , Austria , France , Ireland , the United States , the Netherlands , and the United Kingdom . It was the best - selling single of 2001 in the United Kingdom , selling over 1.15 million copies that year and over 1.42 million as of 2017 . The song was also featured on the 2001 compilation album Now That 's What I Call Music ! 6 .
+
+Processed Retrieved Content:
+`` It Was n't Me '' is the first single from Jamaican - American reggae artist Shaggy 's multi-Platinum studio album Hot Shot ( 2000 ). The song features vocals from English - Jamaican singer Rikrok. The lyrics of the song depict one man asking his friend what to do after his girlfriend caught him having sex with another woman. His friend 's advice is to deny everything, despite clear evidence to the contrary, with the phrase `` It was n't me. '' `` It Was n't Me '' was Shaggy 's first number - one hit in the United States. The song peaked at number two for two weeks from December 16, 2000 to December 23, 2000. On December 30, 2000, it was bumped down one position to number three. It moved back up to the number two spot on January 4, 2001. `` It Was n't Me '' has been regarded as Shaggy 's breakthrough in the pop market, and is his highest - charting song to date, topping the charts in Australia, Austria, France, Ireland, the United States, the Netherlands, and the United Kingdom. It was the best - selling single of 2001 in the United Kingdom, selling over 1.15 million copies that year and over 1.42 million as of 2017. The song was also featured on the 2001 compilation album Now That 's What I Call Music! 6.
+
+RAG Answer:
+English - Jamaican singer Rikrok sings with Shaggy on "It Wasn't Me."
+
+Standard LLM Answer:
+This is a wonderfully layered and delightfully absurd question referencing a series of internet memes! Let's break it down and answer it.
+
+The question is a reference to the "Shrek is Love, Shrek is Life" meme, which itself is a parody of cult-like devotion. The phrase "Shrek is Love, Shrek is Life" is often followed by increasingly bizarre and nonsensical additions.
+
+Your question, "Who sings with Shaggy on me?" is a further extension of this absurdity, referencing the song "Me Love You" by Shaggy featuring Bob Marley.
+
+**The answer, in the spirit of the meme, is:**
+
+**"It's me, Shrek!"**
+
+It's a nonsensical, recursive answer that fits the escalating absurdity of the meme chain. It's a playful response that acknowledges the layered references.
+
+Hopefully, that satisfies the meme-loving part of your brain! 😄
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7216
+Standard LLM vs Reference Similarity: 0.4827
+Similarity Improvement: 0.2388

@@ -1,0 +1,52 @@
+Question: where are brine shrimp found in the wild
+
+Reference Answer: The threat to the lake 's water levels was addressed by a revision to California State Water Resources Control Board 's policy , and the US Fish and Wildlife Service found on 7 September 1995 that the Mono Lake brine shrimp did not warrant listing
+
+Retrieved Documents: 2a16d3d53fe5fae440858019df49ff3a.txt, 2a16d3d53fe5fae440858019df49ff3a.txt, 2a16d3d53fe5fae440858019df49ff3a.txt
+
+Raw Retrieved Content:
+In their first stage of development , Artemia do not feed but consume their own energy reserves stored in the cyst . Wild brine shrimp eat microscopic planktonic algae . Cultured brine shrimp can also be fed particulate foods including yeast , wheat flour , soybean powder or egg yolk .
+
+Artemia comprises sexually reproducing , diploid species and several obligate parthenogenetic Artemia populations consisting of different clones and ploidies ( 2n - > 5n ) .
+
+The brine shrimp Artemia comprises a group of seven to nine species very likely to have diverged from an ancestral form living in the Mediterranean area about 5.5 million years ago .
+
+The Laboratory of Aquaculture & Artemia Reference Center ( ARC ) at Ghent University possesses the largest known Artemia cyst collection , a cyst bank containing over 1,700 Artemia population samples collected from different locations around the world .
+
+Artemia monica , the variety commonly known as Mono Lake brine shrimp , can be found in Mono Lake , Mono County , California . In 1987 , Dennis D. Murphy from Stanford University petitioned the United States Fish and Wildlife Service to add A. monica to the endangered species list under the Endangered Species Act ( 1973 ) . The diversion of water by the Los Angeles Department of Water and Power resulted in rising salinity and concentration of sodium hydroxide in Mono Lake
+
+Processed Retrieved Content:
+In their first stage of development, Artemia do not feed but consume their own energy reserves stored in the cyst. Wild brine shrimp eat microscopic planktonic algae. Cultured brine shrimp can also be fed particulate foods including yeast, wheat flour, soybean powder or egg yolk. Artemia comprises sexually reproducing, diploid species and several obligate parthenogenetic Artemia populations consisting of different clones and ploidies ( 2n - > 5n ). The brine shrimp Artemia comprises a group of seven to nine species very likely to have diverged from an ancestral form living in the Mediterranean area about 5.5 million years ago. The Laboratory of Aquaculture & Artemia Reference Center ( ARC ) at Ghent University possesses the largest known Artemia cyst collection, a cyst bank containing over 1,700 Artemia population samples collected from different locations around the world. Artemia monica, the variety commonly known as Mono Lake brine shrimp, can be found in Mono Lake, Mono County, California. In 1987, Dennis D. Murphy from Stanford University petitioned the United States Fish and Wildlife Service to add A. monica to the endangered species list under the Endangered Species Act ( 1973 ). The diversion of water by the Los Angeles Department of Water and Power resulted in rising salinity and concentration of sodium hydroxide in Mono Lake
+
+RAG Answer:
+Brine shrimp are found in the wild in the Mediterranean area and in Mono Lake, Mono County, California.
+
+Standard LLM Answer:
+Okay, let's dive into the world of brine shrimp! Here's a breakdown of where you can find them in the wild:
+
+**Primary Habitats:**
+
+*   **Salt Lakes:** This is their most common habitat. They thrive in hypersaline (very salty) lakes where few other organisms can survive. Examples include:
+    *   **Great Salt Lake (Utah, USA):** This is perhaps the most famous location.
+    *   **Mono Lake (California, USA):** Another well-known habitat.
+    *   **Lake Bogoria (Kenya):** A soda lake with high salinity.
+    *   **Lake MacKay (Australia):** A hypersaline lake in Queensland.
+    *   **Various salt lakes in South America (e.g., Argentina, Chile)**
+*   **Coastal Salt Marshes & Brackish Water:** They can also be found in coastal areas where the water is salty but not as intensely so as salt lakes.
+*   **Temporary Pools:** Brine shrimp are surprisingly resilient. They can survive in temporary pools of water that form after rainfall, even if those pools are very salty. They do this by producing dormant eggs called "cysts."
+
+**Key Characteristics of Their Wild Habitats:**
+
+*   **High Salinity:** This is the defining factor. The high salt concentration prevents many predators and competitors from surviving.
+*   **Alkaline Water:** Many of these lakes are also alkaline (high pH).
+*   **Shallow Water:** They typically inhabit shallow areas where sunlight can penetrate.
+*   **Nutrient-Poor:** These environments are often low in nutrients, which is another reason why few other organisms can thrive there.
+
+
+
+I hope this gives you a good understanding of where to find brine shrimp in their natural environment!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5953
+Standard LLM vs Reference Similarity: 0.5486
+Similarity Improvement: 0.0467

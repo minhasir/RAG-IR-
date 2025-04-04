@@ -1,0 +1,37 @@
+Question: who warned concord that the british were coming
+
+Reference Answer: Samuel Prescott ( August 19 , 1751 -- c. 1777 ) was a Massachusetts Patriot during the American Revolutionary War . He is best remembered for his role in Paul Revere 's `` midnight ride '' to warn the townspeople of Concord of the impending British army move to capture guns and gunpowder kept there at the beginning of the American Revolution . He was the only participant in the ride to reach Concord .
+
+Retrieved Documents: 1e0e2622633044361b71a7c1ac5bc651.txt, 1e0e2622633044361b71a7c1ac5bc651.txt, 1e0e2622633044361b71a7c1ac5bc651.txt
+
+Raw Retrieved Content:
+On the evening of April 18 , 1775 , Paul Revere and William Dawes were dispatched by Joseph Warren to warn the countryside that the British were coming . Prescott was in Lexington at the time to visit with his fiancée , Lydia Mulliken . He was also there to report on Concord 's readiness , its status in hiding supplies and munitions from the British , and its success in moving cannon to Groton lest it fall into British hands
+
+. The British wanted the military stores at Concord and had hoped to capture Samuel Adams and John Hancock in the process .
+
+When Prescott left Lexington , it was about 1 a.m. the next morning , April 19 . On his way back to Concord he met Paul Revere and William Dawes , who had just left Lexington shortly before him and were also on their way to Concord -- to warn the town that the Redcoats were on the march .
+
+Processed Retrieved Content:
+On the evening of April 18, 1775, Paul Revere and William Dawes were dispatched by Joseph Warren to warn the countryside that the British were coming. Prescott was in Lexington at the time to visit with his fiancée, Lydia Mulliken. He was also there to report on Concord 's readiness, its status in hiding supplies and munitions from the British, and its success in moving cannon to Groton lest it fall into British hands. The British wanted the military stores at Concord and had hoped to capture Samuel Adams and John Hancock in the process. When Prescott left Lexington, it was about 1 a.m. the next morning, April 19. On his way back to Concord he met Paul Revere and William Dawes, who had just left Lexington shortly before him and were also on their way to Concord -- to warn the town that the Redcoats were on the march.
+
+RAG Answer:
+Paul Revere, William Dawes, and Prescott warned Concord that the British were coming.
+
+Standard LLM Answer:
+This is a classic riddle referencing the "One if by land, two if by sea" warning system used during the American Revolutionary War.
+
+The answer is **Paul Revere**.
+
+Here's why:
+
+*   **The Legend:** Paul Revere is famously known for his "midnight ride" to warn the colonists in Concord and Lexington that the British were coming.
+*   **"One if by land, two if by sea":** This was the prearranged signal. A single lantern hung in the Old North Church meant the British were coming by land, while two lanterns signaled they were coming by sea. Revere was part of the system that ensured this warning was delivered.
+
+
+
+While William Dawes also rode to warn the colonists, Revere's role is the more well-known and iconic part of the story.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6289
+Standard LLM vs Reference Similarity: 0.5007
+Similarity Improvement: 0.1282

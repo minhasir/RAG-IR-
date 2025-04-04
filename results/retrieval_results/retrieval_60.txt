@@ -1,0 +1,67 @@
+Question: what are the parts of the finger called
+
+Reference Answer: Although a common phenomenon , the underlying functions and mechanism of fingertip wrinkling following immersion in water are relatively unexplored . Originally it was assumed that the wrinkles were simply the result of the skin swelling in water , but it is now understood that the furrows are caused by the blood vessels constricting due to signalling by the sympathetic nervous system in response to water exposure . One hypothesis for why this occurs , the `` rain tread '' hypothesis , posits that the wrinkles may help the fingers grip things when wet , possibly being an adaption from a time when humans dealt with rain and dew in forested primate habitats . A 2013 study supporting this hypothesis found that the wrinkled fingertips provided better handling of wet objects but gave no advantage for handling dry objects . However , a 2014 study attempting to reproduce these results was unable to demonstrate any improvement of handling wet objects with wrinkled fingertips .
+
+Retrieved Documents: 05d7a63454d2014f937df55fd0fb3a63.txt, 05d7a63454d2014f937df55fd0fb3a63.txt, 05d7a63454d2014f937df55fd0fb3a63.txt
+
+Raw Retrieved Content:
+. The first digit is the thumb , followed by index finger , middle finger , ring finger , and little finger or pinky . According to different definitions , the thumb can be called a finger , or not .
+
+A finger is a limb of the human body and a type of digit , an organ of manipulation and sensation found in the hands of humans and other primates . Normally humans have five digits , the bones of which are termed phalanges , on each hand , although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly , or accidental or medical amputations
+
+The thumb ( connected to the trapezium ) is located on one of the sides , parallel to the arm .
+
+The palm has five bones known as metacarpal bones , one to each of the five digits . Human hands contain fourteen digital bones , also called phalanges , or phalanx bones : two in the thumb ( the thumb has no middle phalanx ) and three in each of the four fingers . These are the distal phalanx , carrying the nail , the middle phalanx , and the proximal phalanx .
+
+Processed Retrieved Content:
+. The first digit is the thumb, followed by index finger, middle finger, ring finger, and little finger or pinky. According to different definitions, the thumb can be called a finger, or not. A finger is a limb of the human body and a type of digit, an organ of manipulation and sensation found in the hands of humans and other primates. Normally humans have five digits, the bones of which are termed phalanges, on each hand, although some people have more or fewer than five due to congenital disorders such as polydactyly or oligodactyly, or accidental or medical amputations The thumb ( connected to the trapezium ) is located on one of the sides, parallel to the arm. The palm has five bones known as metacarpal bones, one to each of the five digits. Human hands contain fourteen digital bones, also called phalanges, or phalanx bones: two in the thumb ( the thumb has no middle phalanx ) and three in each of the four fingers. These are the distal phalanx, carrying the nail, the middle phalanx, and the proximal phalanx.
+
+RAG Answer:
+The parts of the finger are called phalanges, or phalanx bones. These include the distal phalanx (carrying the nail), the middle phalanx, and the proximal phalanx. The thumb has two phalanges (no middle phalanx).
+
+Standard LLM Answer:
+Okay, let's break down the parts of the finger! It's more complex than you might think. Here's a breakdown, moving from the base to the tip, and including different layers:
+
+**1. The Bones (Phalanges):**
+
+*   **Proximal Phalanx:** The bone closest to the palm. Each finger has one.
+*   **Middle Phalanx:** The bone in the middle of the finger.  *Thumb only has two phalanges (proximal and distal).*
+*   **Distal Phalanx:** The bone at the very tip of the finger. Every finger has one.
+
+**2. Soft Tissues Surrounding the Bones:**
+
+*   **Joints:** Where the phalanges connect. These allow for bending and movement.
+    *   **Metacarpophalangeal (MCP) Joint:** The joint where the finger connects to the hand (the base of the finger).
+    *   **Interphalangeal (IP) Joints:** The joints between the phalanges (proximal and distal IP joints).
+*   **Capsule:** A fibrous structure that surrounds each joint, providing stability.
+*   **Ligaments:** Strong bands of tissue that connect bones to each other, further stabilizing the joints.
+*   **Tendons:** These are crucial! They connect muscles to bones.
+    *   **Flexor Tendons:** Run along the palm side of the finger and allow you to bend (flex) your finger.
+    *   **Extensor Tendons:** Run along the back of the hand and forearm, and allow you to straighten (extend) your finger.
+*   **Muscles:** While the primary finger muscles are in the forearm and hand, small intrinsic muscles within the hand itself help with fine motor control.
+*   **Nerves:**  The median, ulnar, and radial nerves provide sensation and control movement in the fingers.
+*   **Blood Vessels:** Arteries and veins supply blood to the finger.
+
+**3. The Skin and Surface Structures:**
+
+*   **Epidermis:** The outer layer of skin.
+*   **Dermis:** The layer beneath the epidermis, containing blood vessels, nerves, and glands.
+*   **Fingertips:** The very ends of the fingers.
+*   **Ridges:** The raised lines on your fingertips (fingerprints!) which increase grip.
+*   **Meissner's Corpuscles:** Sensory receptors in the fingertips that detect light touch.
+
+**In simpler terms, you could say:**
+
+*   **Bones:** The hard, internal structure.
+*   **Joints:** The hinges that allow movement.
+*   **Tendons:** The ropes that pull the finger to bend and straighten.
+*   **Skin:** The outer covering.
+
+
+
+Do you want me to elaborate on any specific part of the finger, or perhaps discuss a particular condition that affects the fingers?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.2663
+Standard LLM vs Reference Similarity: 0.2844
+Similarity Improvement: -0.0181

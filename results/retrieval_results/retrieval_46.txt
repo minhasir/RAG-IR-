@@ -1,0 +1,39 @@
+Question: when did the volcano erupt in indonesia 2018
+
+Reference Answer: ( April 2018 ) 2017 -- 2018 eruptions of Mount Agung Mount Agung on 27 November Volcano Mount Agung Date 21 November 2017 ( 2017 - 11 - 21 ) -- ongoing ( 11 months and 2 days ) Type Vulcanian / Sub-plinian Location Bali , Indonesia 8 ° 20 ′ 35 '' S 115 ° 30 ′ 25 '' E ﻿ / ﻿ 8
+
+Retrieved Documents: d3b020cc587994dac280017f2d5898dd.txt, d3b020cc587994dac280017f2d5898dd.txt, d3b020cc587994dac280017f2d5898dd.txt
+
+Raw Retrieved Content:
+Mount Agung , a volcano on the island of Bali in Indonesia , erupted five times in late November 2017 , causing thousands to evacuate , disrupting air travel and causing environmental damage . As of 27 November 2017 , the alert level was at its highest and evacuation orders were in place .
+
+In September 2017 , an increase of rumbling and seismic activity around the volcano made people raise the alert to the highest level and about 122,500 people were evacuated from their homes around the volcano . The Indonesian National Disaster Management Authority declared a 12 - kilometer exclusion zone around the volcano on 24 September . A plume was observed on 13 September .
+
+The volcano erupted once again on January 11 , sending plumes of smoke and ash , while Indonesia 's Bali international airport was declared safe , operating normally . The eruption column was reported to rise 2.5 km above the mountain .
+
+Agung erupted on June 12 , sending plumes of smoke and ash some 2,000 meters above the volcano 's summit . No flights were affected from the event .
+
+Processed Retrieved Content:
+Mount Agung, a volcano on the island of Bali in Indonesia, erupted five times in late November 2017, causing thousands to evacuate, disrupting air travel and causing environmental damage. As of 27 November 2017, the alert level was at its highest and evacuation orders were in place. In September 2017, an increase of rumbling and seismic activity around the volcano made people raise the alert to the highest level and about 122,500 people were evacuated from their homes around the volcano. The Indonesian National Disaster Management Authority declared a 12 - kilometer exclusion zone around the volcano on 24 September. A plume was observed on 13 September. The volcano erupted once again on January 11, sending plumes of smoke and ash, while Indonesia 's Bali international airport was declared safe, operating normally. The eruption column was reported to rise 2.5 km above the mountain. Agung erupted on June 12, sending plumes of smoke and ash some 2,000 meters above the volcano 's summit. No flights were affected from the event.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The provided text only details eruptions and activity in 2017 and January 2018. It does not mention any eruptions in 2018 after January.
+
+Standard LLM Answer:
+The most significant volcanic eruption in Indonesia in 2018 was the **Mount Agung eruption, which began on November 26, 2018, and continued with varying intensity for several months.**
+
+Here's a breakdown of key details:
+
+*   **What:** A major eruption of Mount Agung, Bali.
+*   **When:** Started November 26, 2018, with ongoing activity and ash plumes for months afterward. It was a prolonged event, not a single, short eruption.
+*   **Impact:** It caused widespread disruption to air travel, tourism, and daily life on Bali.  Hundreds of thousands of people were evacuated.  Ashfall impacted agriculture and water supplies.
+*   **Volcanic Explosivity Index (VEI):** Initially a VEI of 2, it escalated to a VEI of 4 at its peak.
+
+
+
+While there were other volcanic events in Indonesia in 2018, the Mount Agung eruption was the most impactful and widely reported.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6387
+Standard LLM vs Reference Similarity: 0.7672
+Similarity Improvement: -0.1284

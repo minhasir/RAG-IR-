@@ -1,0 +1,36 @@
+Question: who was gails most recent husband in coronation street
+
+Reference Answer: Kershaw Book appearances Coronation Street : The Complete Saga Norman Bates with a Briefcase : The story of Richard Hillman Spin - off appearances East Street ( 2010 ) Classification Present ; regular Profile Other names Gail Potter Gail Tilsley Gail Platt Gail McIntyre Gail Hillman Gail Rodwell Occupation Receptionist Cleaner Waitress Factory Worker Newsagent Home 8 Coronation Street ( 1991 - 33 Hammond Road ( 1985 - 1991 ) 5 Buxton Close ( 1980 - 1983 ) 5 Coronation Street ( 1979 - 1980 , 1983 - 1985 ) 11 Coronation Street ( 1976 - 1979 ) 15a Coronation Street ( 1975 - 1976 ) show Family Father Ted Page Mother Audrey Roberts Stepfather Alf Roberts Half - brothers Stephen Reid Husband Brian Tilsley ( 1979 -- 1987 , 1988 -- 1989 ) Martin Platt ( 1991 -- 2001 ) Richard Hillman ( 2002 -- 2003 ) Joe McIntyre ( 2010 ) Michael Rodwell ( 2015 -- 2016 ) Sons Nick Tilsley David Platt Daughters Sarah Platt Stepdaughters Tina McIntyre Grandsons Billy Platt Harry Platt Max Turner ( step ) Grandda
+
+Retrieved Documents: 004381db9e78df42d11c0c0387f1bb83.txt, 004381db9e78df42d11c0c0387f1bb83.txt, 004381db9e78df42d11c0c0387f1bb83.txt
+
+Raw Retrieved Content:
+Gail learns that David is engaged to Kylie Turner ( Paula Lane ) and is against the marriage . Once David and Kylie are married Gail later warms to the marriage and allows them both to continue living with her . Gail and Audrey bump into Audrey 's ex-boyfriend , professional con artist , Lewis Archer ( Nigel Havers ) . They report him to the police but he is not charged and returns to Weatherfield , much to Audrey 's horror . They reconcile , much to Gail 's disgust , and live happily together
+
+Gail meets a man named Michael Rodwell ( Les Dennis ) , who turns up at her house pretending to be a gas man , who has come to the house to look at the `` gas leak '' . He is revealed as a burglar and pushes Gail , causing her to fall over , and Kylie chases him out of the street , but he gets into his van and drives off . Gail starts to become anxious when she is home alone due to the burglary and is helped by her son David , Kylie and Audrey
+
+. Soon after , Brian divorces Gail . Gail starts dating Jeff Singleton ( Jonathan Barlow ) , and Brian does n't like the idea of him being a stand - in father . After Brian 's abortive attempt to kidnap Nicky , Brian and Gail reconcile and he moves back into Hammond Road , and they remarry in February 1988
+
+Processed Retrieved Content:
+Gail learns that David is engaged to Kylie Turner ( Paula Lane ) and is against the marriage. Once David and Kylie are married Gail later warms to the marriage and allows them both to continue living with her. Gail and Audrey bump into Audrey 's ex-boyfriend, professional con artist, Lewis Archer ( Nigel Havers ). They report him to the police but he is not charged and returns to Weatherfield, much to Audrey 's horror. They reconcile, much to Gail 's disgust, and live happily together Gail meets a man named Michael Rodwell ( Les Dennis ), who turns up at her house pretending to be a gas man, who has come to the house to look at the `` gas leak ''. He is revealed as a burglar and pushes Gail, causing her to fall over, and Kylie chases him out of the street, but he gets into his van and drives off. Gail starts to become anxious when she is home alone due to the burglary and is helped by her son David, Kylie and Audrey. Soon after, Brian divorces Gail. Gail starts dating Jeff Singleton ( Jonathan Barlow ), and Brian does n't like the idea of him being a stand - in father. After Brian 's abortive attempt to kidnap Nicky, Brian and Gail reconcile and he moves back into Hammond Road, and they remarry in February 1988
+
+RAG Answer:
+Based on the provided information, Gail's most recent husband was Brian.
+
+Standard LLM Answer:
+This is a tricky one because it involves a lot of layers of fiction! Here's the breakdown:
+
+*   **Coronation Street** is a British soap opera.
+*   **Gail Platt** (played by Helen Worth) is a character on Coronation Street.
+*   **Gail's most recent husband on the show** was **Phil Neeson** (played by Andy Kelly). They were married in 2019.
+
+So, the answer to your question, within the context of the show "Coronation Street," is **Phil Neeson**.
+
+
+
+It's a bit convoluted because you're asking about a fictional character's fictional husband within a fictional television show!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4661
+Standard LLM vs Reference Similarity: 0.5429
+Similarity Improvement: -0.0768

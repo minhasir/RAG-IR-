@@ -1,0 +1,30 @@
+Question: who sang take that look off your face
+
+Reference Answer: `` Take That Look Off Your Face '' is the title of a hit song by musical theatre composer Andrew Lloyd Webber . Collaborating with lyricist Don Black , it was written for the song cycle show Tell Me on a Sunday in 1978 . It was sung and released by Marti Webb in 1980 , and became a No. 3 hit in the UK charts . The song was also popular in Ireland , and spent six weeks at number one . Later , Tell Me on a Sunday was combined with another Lloyd Webber work , Variations , to form an entire new show , Song and Dance .
+
+Retrieved Documents: 5fa5bc7c11a3fa6941903396c6779503.txt, 868c9419477bc757cd9aa0e7902c9d77.txt, 868c9419477bc757cd9aa0e7902c9d77.txt
+
+Raw Retrieved Content:
+`` Take That Look Off Your Face '' is the title of a hit song by musical theatre composer Andrew Lloyd Webber . Collaborating with lyricist Don Black , it was written for the song cycle show Tell Me on a Sunday in 1978 . It was sung and released by Marti Webb in 1980 , and became a No. 3 hit in the UK charts . The song was also popular in Ireland , and spent six weeks at number one
+
+`` Ca n't Take My Eyes Off You '' is a 1967 single credited to Frankie Valli . The song was among his biggest hits , earning a gold record and reaching No. 2 on the Billboard Hot 100 for a week , stuck behind `` Windy '' by The Association . It was co-written by Bob Gaudio , a bandmate of Valli 's in The Four Seasons . It was Valli 's biggest solo hit until he hit # 1 in 1974 with `` My Eyes Adored You '' .
+
+`` Ca n't Take My Eyes Off You '' has had hundreds of cover versions , many of which have been on the charts in different countries . The song is a staple of television and film soundtracks , even being featured as part of the plot of some films , such as when the lead characters sing or arrange their own version of the song
+
+Processed Retrieved Content:
+`` Take That Look Off Your Face '' is the title of a hit song by musical theatre composer Andrew Lloyd Webber. Collaborating with lyricist Don Black, it was written for the song cycle show Tell Me on a Sunday in 1978. It was sung and released by Marti Webb in 1980, and became a No. 3 hit in the UK charts. The song was also popular in Ireland, and spent six weeks at number one `` Ca n't Take My Eyes Off You '' is a 1967 single credited to Frankie Valli. The song was among his biggest hits, earning a gold record and reaching No. 2 on the Billboard Hot 100 for a week, stuck behind `` Windy '' by The Association. It was co-written by Bob Gaudio, a bandmate of Valli 's in The Four Seasons. It was Valli 's biggest solo hit until he hit # 1 in 1974 with `` My Eyes Adored You ''. `` Ca n't Take My Eyes Off You '' has had hundreds of cover versions, many of which have been on the charts in different countries. The song is a staple of television and film soundtracks, even being featured as part of the plot of some films, such as when the lead characters sing or arrange their own version of the song
+
+RAG Answer:
+Marti Webb sang "Take That Look Off Your Face".
+
+Standard LLM Answer:
+That would be **The Jets (featuring Paul Jakal)**! They released the song "That's The Way" in 1992, which includes the line "That's the way you look off your face."
+
+
+
+It's a frequently confused song and artist!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6296
+Standard LLM vs Reference Similarity: 0.4723
+Similarity Improvement: 0.1573

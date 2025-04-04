@@ -1,0 +1,33 @@
+Question: what was uncle jesse's original last name on full house
+
+Reference Answer: Jesse Katsopolis ( portrayed by John Stamos ; the character 's last name in season one was Cochran , but was changed reportedly due to John Stamos wanting his character to better reflect his Greek heritage ) is Danny 's brother - in - law , Pam 's younger brother , husband of Rebecca Donaldson and father of twin sons Nicky and Alex . Born Hermes Katsopolis ( as revealed in the season five episode `` The Legend of Ranger Joe '' ) , he was named after his great - grandfather , who in turn is named after the Greek god of swiftness . However , he did not like his birth name , as other kids teased him for it ; so when he was in kindergarten , he begged his parents to have his name changed to Jesse , thinking that one had to have a `` cool name '' to be in the in - crowd . As an adult , he was more confident with his true name , telling the girls about the Greek god of speed , and how his great - grandfather saved a village from a volcano , but still goes by Jesse .
+
+Retrieved Documents: 8d14775f6c9936a8b979d5438c66388a.txt, 8d14775f6c9936a8b979d5438c66388a.txt, 8d14775f6c9936a8b979d5438c66388a.txt
+
+Raw Retrieved Content:
+Jesse first moves into the house with virtually no experience in taking care of young children or babies , but starts to learn the ropes along the way . He becomes closer to all of his nieces over the course of the series , especially Michelle , whom he affectionately nicknames `` munchkin '' and `` shorty '' , among others . In the first season , Jesse works for his father Nick 's exterminating business before leaving to pursue work in advertising , frequently working with Joey
+
+In Fuller House Jesse , Becky , and Danny all move to Los Angeles . Jesse becomes the music composer for General Hospital while Becky and Danny start a new nationally syndicated talk show called , Wake Up USA . In the season two finale , Jesse and Becky adopt a baby girl whom they name Pamela after his sister . Somewhere along the line Jesse became a stay at home dad
+
+. Born Hermes Katsopolis ( as revealed in the season five episode `` The Legend of Ranger Joe '' ) , he was named after his great - grandfather , who in turn is named after the Greek god of swiftness . However , he did not like his birth name , as other kids teased him for it ; so when he was in kindergarten , he begged his parents to have his name changed to Jesse , thinking that one had to have a `` cool name '' to be in the in - crowd
+
+Processed Retrieved Content:
+Jesse first moves into the house with virtually no experience in taking care of young children or babies, but starts to learn the ropes along the way. He becomes closer to all of his nieces over the course of the series, especially Michelle, whom he affectionately nicknames `` munchkin '' and `` shorty '', among others. In the first season, Jesse works for his father Nick 's exterminating business before leaving to pursue work in advertising, frequently working with Joey In Fuller House Jesse, Becky, and Danny all move to Los Angeles. Jesse becomes the music composer for General Hospital while Becky and Danny start a new nationally syndicated talk show called, Wake Up USA. In the season two finale, Jesse and Becky adopt a baby girl whom they name Pamela after his sister. Somewhere along the line Jesse became a stay at home dad. Born Hermes Katsopolis ( as revealed in the season five episode `` The Legend of Ranger Joe '' ), he was named after his great - grandfather, who in turn is named after the Greek god of swiftness. However, he did not like his birth name, as other kids teased him for it; so when he was in kindergarten, he begged his parents to have his name changed to Jesse, thinking that one had to have a `` cool name '' to be in the in - crowd
+
+RAG Answer:
+Katsopolis
+
+Standard LLM Answer:
+This is a surprisingly tricky question! Here's the breakdown:
+
+*   **In the show "Full House," Uncle Jesse's full name is Jesse Katsopolis.**
+*   **Katsopolis is his original, and only, last name.** There's no "original" last name before it. It's of Greek origin.
+
+
+
+So, his original last name on "Full House" was **Katsopolis**.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3353
+Standard LLM vs Reference Similarity: 0.6518
+Similarity Improvement: -0.3165

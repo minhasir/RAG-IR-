@@ -1,0 +1,36 @@
+Question: who played the baby in the blue lagoon
+
+Reference Answer: The Blue Lagoon ( 1980 film ) - wikipedia The Blue Lagoon ( 1980 film ) Jump to : navigation , search The Blue Lagoon Promotional film poster Directed by Randal Kleiser Produced by Randal Kleiser Screenplay by Douglas Day Stewart Based on The Blue Lagoon by Henry De Vere Stacpoole Starring Brooke Shields Christopher Atkins Leo McKern William Daniels Music by Basil Poledouris Cinematography Néstor Almendros Edited by Robert Gordon Production company Columbia Pictures Distributed by Columbia Pictures Release date June 20 , 1980 ( 1980 - 06 - 20 ) Running time 104 minutes Country United States Language English Budget $4
+
+Retrieved Documents: 7d74f4158f6bc2d473cd7fc8d754b526.txt, 7d74f4158f6bc2d473cd7fc8d754b526.txt, 7d74f4158f6bc2d473cd7fc8d754b526.txt
+
+Raw Retrieved Content:
+The Blue Lagoon is a 1980 American romantic adventure drama film directed by Randal Kleiser and filmed on Turtle Island in Fiji . The screenplay by Douglas Day Stewart was based on the 1908 novel The Blue Lagoon by Henry De Vere Stacpoole . The film stars Brooke Shields and Christopher Atkins . The music score was composed by Basil Poledouris and the cinematography was by Néstor Almendros .
+
+. The blue lagoon scenes were shot in Comino Island , Malta and Champagne Bay , Vanuatu .
+
+A limited edition Blu - ray Disc of the film was released on December 11 , 2012 , by Twilight Time . Special features on the Blu - ray include an isolated score track , original trailer , three original teasers , behind the scenes featurette , An Adventure in Filmmaking : The Making of The Blue Lagoon , as well as audio commentary by Randal Kleiser , Douglas Day Stewart , and Brooke Shields and a second commentary by Randal Kleiser and Christopher Atkins .
+
+Processed Retrieved Content:
+The Blue Lagoon is a 1980 American romantic adventure drama film directed by Randal Kleiser and filmed on Turtle Island in Fiji. The screenplay by Douglas Day Stewart was based on the 1908 novel The Blue Lagoon by Henry De Vere Stacpoole. The film stars Brooke Shields and Christopher Atkins. The music score was composed by Basil Poledouris and the cinematography was by Néstor Almendros.. The blue lagoon scenes were shot in Comino Island, Malta and Champagne Bay, Vanuatu. A limited edition Blu - ray Disc of the film was released on December 11, 2012, by Twilight Time. Special features on the Blu - ray include an isolated score track, original trailer, three original teasers, behind the scenes featurette, An Adventure in Filmmaking: The Making of The Blue Lagoon, as well as audio commentary by Randal Kleiser, Douglas Day Stewart, and Brooke Shields and a second commentary by Randal Kleiser and Christopher Atkins.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The provided text details the director, actors Brooke Shields and Christopher Atkins, and other production details, but does not mention a baby actor.
+
+Standard LLM Answer:
+This is a tricky one because the baby in *The Blue Lagoon* was played by **Christopher Brough**.
+
+Here's why it's confusing and some extra details:
+
+*   **Christopher Brough** played the baby Richard.
+*   **Leo Hatchet** played the young Richard.
+*   **Max von Sydow** and **Geneviève Bujold** played the adult Richard and Emeline respectively.
+
+
+
+It's a memorable role, but the actor who played the baby is often overlooked!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.2576
+Standard LLM vs Reference Similarity: 0.3749
+Similarity Improvement: -0.1172

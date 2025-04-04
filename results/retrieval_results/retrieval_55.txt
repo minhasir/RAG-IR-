@@ -1,0 +1,30 @@
+Question: who plays percy in the lost city of z
+
+Reference Answer: David Grann 's The Lost City of Z was optioned by Brad Pitt 's Plan B production company and Paramount Pictures . James Gray directed the film , which stars Charlie Hunnam as Fawcett and was released in April 2017 .
+
+Retrieved Documents: b8efc47f71707b81c3020c85546824f3.txt, 35f0365773f6b82adeb3ff9b4b4e4a5b.txt, b8efc47f71707b81c3020c85546824f3.txt
+
+Raw Retrieved Content:
+. I 'm thrilled ! '' The producers said about his casting : `` We took our time to find the right actor to fill the role of Four , and Theo is definitely the perfect fit . Veronica has crafted a truly iconic character in Four and we can not wait to begin production and bring him and this story to life for millions of fans around the world . ''
+
+. Before his death in January 2016 , Bowie gave the production permission to reuse old footage featuring him ; however , he was unhappy with the accent he had used in the film , and requested that he be dubbed over by an authentic Louisiana actor , leading to the casting of Nathan Frizzell as the voice of Jeffries . In January and February 2017 , respectively , cast members Miguel Ferrer and Warren Frost died , but both appear in the new series
+
+. On June 9 , 2014 , Rosa Salazar joined the cast as Lynn . On June 10 , 2014 , Australian actor Keiynan Lonsdale joined the cast as Uriah . On June 11 , 2014 , Emjay Anthony joined the cast as Hector .
+
+Processed Retrieved Content:
+. I 'm thrilled! '' The producers said about his casting: `` We took our time to find the right actor to fill the role of Four, and Theo is definitely the perfect fit. Veronica has crafted a truly iconic character in Four and we can not wait to begin production and bring him and this story to life for millions of fans around the world. ''. Before his death in January 2016, Bowie gave the production permission to reuse old footage featuring him; however, he was unhappy with the accent he had used in the film, and requested that he be dubbed over by an authentic Louisiana actor, leading to the casting of Nathan Frizzell as the voice of Jeffries. In January and February 2017, respectively, cast members Miguel Ferrer and Warren Frost died, but both appear in the new series. On June 9, 2014, Rosa Salazar joined the cast as Lynn. On June 10, 2014, Australian actor Keiynan Lonsdale joined the cast as Uriah. On June 11, 2014, Emjay Anthony joined the cast as Hector.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The provided text discusses the cast of a different series, not "The Lost City of Z."
+
+Standard LLM Answer:
+Percy Jackson (a.k.a. Grover Underwood) is played by **Jacob Tremblay** in "The Lost City."
+
+
+
+It's a fun, unexpected casting choice!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6768
+Standard LLM vs Reference Similarity: 0.3686
+Similarity Improvement: 0.3082

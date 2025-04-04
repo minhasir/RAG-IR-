@@ -1,0 +1,34 @@
+Question: who plays the first lady on house of cards
+
+Reference Answer: In 2014 , Going starred as First Lady Tricia Walker in the second season of Netflix political series House of Cards
+
+Retrieved Documents: 730be1ffeb9d8674d7b443560f623347.txt, 7a985cda717aaf7df9289565f7cfe296.txt, 7a985cda717aaf7df9289565f7cfe296.txt
+
+Raw Retrieved Content:
+. She also appeared opposite Sean Penn in the 2011 film The Tree of Life , her first role in a major motion picture since 2003 's Runaway Jury . In 2014 , Going starred as First Lady Tricia Walker in the second season of Netflix political series House of Cards . She later was cast in the DirecTV series Kingdom .
+
+On March 18 , 2011 , it was announced that Spacey was cast as Frank Underwood in the Netflix series House of Cards . He was nominated for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series at the 65th Primetime Emmy Awards in 2013 becoming the first lead actor to be Primetime Emmy nominated from a web television series
+
+In Broadway theatre , Spacey won a Tony Award for his role in Lost in Yonkers . In 2017 , he hosted the 71st Tony Awards . He was the artistic director of the Old Vic theatre in London from 2004 until stepping down in mid-2015 . Since 2013 , Spacey has played Frank Underwood in the Netflix political drama series House of Cards
+
+Processed Retrieved Content:
+. She also appeared opposite Sean Penn in the 2011 film The Tree of Life, her first role in a major motion picture since 2003 's Runaway Jury. In 2014, Going starred as First Lady Tricia Walker in the second season of Netflix political series House of Cards. She later was cast in the DirecTV series Kingdom. On March 18, 2011, it was announced that Spacey was cast as Frank Underwood in the Netflix series House of Cards. He was nominated for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series at the 65th Primetime Emmy Awards in 2013 becoming the first lead actor to be Primetime Emmy nominated from a web television series In Broadway theatre, Spacey won a Tony Award for his role in Lost in Yonkers. In 2017, he hosted the 71st Tony Awards. He was the artistic director of the Old Vic theatre in London from 2004 until stepping down in mid-2015. Since 2013, Spacey has played Frank Underwood in the Netflix political drama series House of Cards
+
+RAG Answer:
+Going plays the First Lady, Tricia Walker, in the second season of House of Cards.
+
+Standard LLM Answer:
+This is a fun, layered question! Let's break it down:
+
+*   **"Who plays the first lady on House of Cards?"** This refers to the character Claire Underwood in the Netflix series *House of Cards*. **Robin Wright** plays Claire Underwood.
+
+*   **"House of Cards"** is a fictional show, so there's no "real" first lady involved.
+
+
+
+Hopefully, that clarifies things!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8075
+Standard LLM vs Reference Similarity: 0.5459
+Similarity Improvement: 0.2616
