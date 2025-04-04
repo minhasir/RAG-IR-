@@ -19,3 +19,4 @@ Time measurements for each response
 Similarity and overlap calculations
 
 
+Please refer to .pngs for specific figures. 
