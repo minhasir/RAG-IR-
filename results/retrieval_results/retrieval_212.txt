@@ -1,0 +1,60 @@
+Question: where is the north pole located on a map
+
+Reference Answer: The North Pole is the northernmost point on the Earth , lying diametrically opposite the South Pole . It defines geodetic latitude 90 ° North , as well as the direction of true north . At the North Pole all directions point south ; all lines of longitude converge there , so its longitude can be defined as any degree value . Along tight latitude circles , counterclockwise is east and clockwise is west . The North Pole is at the center of the Northern Hemisphere .
+
+Retrieved Documents: 0d3bc08e712ce178b0fb262f27623430.txt, 0d3bc08e712ce178b0fb262f27623430.txt, 0d3bc08e712ce178b0fb262f27623430.txt
+
+Raw Retrieved Content:
+Coordinates : 90 ° N 0 ° W ﻿ / ﻿ 90 ° N - 0 ° E ﻿ / 90 ; - 0
+
+The North Pole , also known as the Geographic North Pole or Terrestrial North Pole , is ( subject to the caveats explained below ) defined as the point in the Northern Hemisphere where the Earth 's axis of rotation meets its surface .
+
+The North Pole is the northernmost point on the Earth , lying diametrically opposite the South Pole . It defines geodetic latitude 90 ° North , as well as the direction of true north . At the North Pole all directions point south ; all lines of longitude converge there , so its longitude can be defined as any degree value . Along tight latitude circles , counterclockwise is east and clockwise is west . The North Pole is at the center of the Northern Hemisphere .
+
+While the South Pole lies on a continental land mass , the North Pole is located in the middle of the Arctic Ocean amid waters that are almost permanently covered with constantly shifting sea ice . This makes it impractical to construct a permanent station at the North Pole ( unlike the South Pole ) . However , the Soviet Union , and later Russia , constructed a number of manned drifting stations on a generally annual basis since 1937 , some of which have passed over or very close to the Pole
+
+Processed Retrieved Content:
+Coordinates: 90 ° N 0 ° W ﻿ / ﻿ 90 ° N - 0 ° E ﻿ / 90; - 0 The North Pole, also known as the Geographic North Pole or Terrestrial North Pole, is ( subject to the caveats explained below ) defined as the point in the Northern Hemisphere where the Earth 's axis of rotation meets its surface. The North Pole is the northernmost point on the Earth, lying diametrically opposite the South Pole. It defines geodetic latitude 90 ° North, as well as the direction of true north. At the North Pole all directions point south; all lines of longitude converge there, so its longitude can be defined as any degree value. Along tight latitude circles, counterclockwise is east and clockwise is west. The North Pole is at the center of the Northern Hemisphere. While the South Pole lies on a continental land mass, the North Pole is located in the middle of the Arctic Ocean amid waters that are almost permanently covered with constantly shifting sea ice. This makes it impractical to construct a permanent station at the North Pole ( unlike the South Pole ). However, the Soviet Union, and later Russia, constructed a number of manned drifting stations on a generally annual basis since 1937, some of which have passed over or very close to the Pole
+
+RAG Answer:
+The North Pole is located in the middle of the Arctic Ocean amid waters that are almost permanently covered with constantly shifting sea ice. Its coordinates are 90° N 0° W.
+
+Standard LLM Answer:
+Okay, let's break down the location of the North Pole on a map. Here's a comprehensive answer:
+
+**1. What is the North Pole?**
+
+*   The North Pole (also called the Geographic North Pole) is the northernmost point on Earth. It's the point where all lines of longitude converge.
+*   **It's not on land.** Unlike the South Pole, which sits on the continent of Antarctica, the North Pole is located in the Arctic Ocean. It's essentially a point floating on sea ice that constantly shifts and changes thickness.
+
+**2. Coordinates:**
+
+*   **Latitude:** 90° North (90° N) - This is its defining characteristic.
+*   **Longitude:** It doesn't have a fixed longitude. Because all lines of longitude converge there, it's considered to be at 0° longitude (though this is a conceptual point, not a practical measurement).
+
+**3. Location on a Map:**
+
+*   **Arctic Ocean:** The North Pole is situated in the Arctic Ocean, which is located around the northernmost part of the Earth.
+*   **Surrounding Countries:** The Arctic Ocean is bordered by several countries, including:
+    *   Canada
+    *   Russia (has the largest Arctic coastline)
+    *   United States (Alaska)
+    *   Greenland (Denmark)
+    *   Norway
+    *   Sweden
+    *   Finland
+*   **Think of it like this:** Imagine a map of the world. Find the top, and then find the center of the Arctic Ocean. That's roughly where the North Pole is.
+
+**4. Challenges in Mapping:**
+
+*   **Moving Ice:** Because the North Pole is on sea ice, its exact location changes constantly. Scientists use satellite data and other measurements to track its position.
+*   **No Fixed Landmark:** There's no permanent landmass or structure to mark the North Pole, making it difficult to pinpoint precisely.
+
+
+
+**In short, on a world map, look for the very top, in the Arctic Ocean, surrounded by the northern coasts of Canada, Russia, and other Arctic nations.**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7497
+Standard LLM vs Reference Similarity: 0.8210
+Similarity Improvement: -0.0713

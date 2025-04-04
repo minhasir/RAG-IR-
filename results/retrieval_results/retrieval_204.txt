@@ -1,0 +1,31 @@
+Question: words to oh i do like to be beside the seaside
+
+Reference Answer: I do like to be beside the seaside - wikipedia I do like to be beside the seaside Jump to : navigation , search This article needs additional citations for verification
+
+Retrieved Documents: 1536ba0ef14e9d3695db40883c3a77ac.txt, 1536ba0ef14e9d3695db40883c3a77ac.txt, 1536ba0ef14e9d3695db40883c3a77ac.txt
+
+Raw Retrieved Content:
+So just let me be beside the seaside ! I 'll be beside myself with glee and there 's lots of girls beside , I should like to be beside , beside the seaside , beside the sea !
+
+Oh ! I do like to be beside the seaside ! I do like to be beside the sea ! I do like to stroll along the Prom , Prom , Prom ! Where the brass bands play , `` Tiddely - om - pom - pom ! ''
+
+So just let me be beside the seaside ! I 'll be beside myself with glee and there 's lots of girls beside , I should like to be beside , beside the seaside , beside the sea !
+
+`` I Do Like to Be Beside the Seaside '' is a popular British music hall song . It was written in 1907 by John A. Glover - Kind and made famous by music hall singer Mark Sheridan who first recorded it in 1909 . It speaks of the singer 's love for the seaside , and his wish to return there for his summer holidays each year . It was composed at a time when the yearly visits of the British working - class to the seaside were booming .
+
+Processed Retrieved Content:
+So just let me be beside the seaside! I 'll be beside myself with glee and there 's lots of girls beside, I should like to be beside, beside the seaside, beside the sea! Oh! I do like to be beside the seaside! I do like to be beside the sea! I do like to stroll along the Prom, Prom, Prom! Where the brass bands play, `` Tiddely - om - pom - pom! '' So just let me be beside the seaside! I 'll be beside myself with glee and there 's lots of girls beside, I should like to be beside, beside the seaside, beside the sea! `` I Do Like to Be Beside the Seaside '' is a popular British music hall song. It was written in 1907 by John A. Glover - Kind and made famous by music hall singer Mark Sheridan who first recorded it in 1909. It speaks of the singer 's love for the seaside, and his wish to return there for his summer holidays each year. It was composed at a time when the yearly visits of the British working - class to the seaside were booming.
+
+RAG Answer:
+I do like to be beside the seaside.
+
+Standard LLM Answer:
+You've got it! You're playfully rearranging the famous line from the song "Sidewalks of New York" ("I'm walking on sunshine, whoa-oh!") to fit the prompt. 
+
+It's a clever and fun response! Well done. 😊
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7484
+Standard LLM vs Reference Similarity: 0.2549
+Similarity Improvement: 0.4936

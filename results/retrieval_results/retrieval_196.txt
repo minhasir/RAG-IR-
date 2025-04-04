@@ -1,0 +1,56 @@
+Question: how do i get to street view on google maps
+
+Reference Answer: 2008 : In May Google announces that it was testing face - blurring technology on its photos of the busy streets of Manhattan . The technology uses a computer algorithm to search Google 's image database for faces and blurs them . Street View integrated into Google Earth 4.3 , the Maps application on the Apple iPhone , and the Maps application for S60 3rd Edition . In November , the drag and drop Pegman icon is introduced as the primary user interface element for connecting from Maps 's 2D view into Street View 's 3D view . When Pegman is dropped onto a particular set of coordinates in Google Maps for which Street View data is available , Street View opens and takes over the whole map window .
+
+Retrieved Documents: dd8d59f999e9f5b8e4e96374b3a71a9f.txt, dd8d59f999e9f5b8e4e96374b3a71a9f.txt, dd8d59f999e9f5b8e4e96374b3a71a9f.txt
+
+Raw Retrieved Content:
+Google Street View is a technology featured in Google Maps and Google Earth that provides panoramic views from positions along many streets in the world . It was launched in 2007 in several cities in the United States , and has since expanded to include cities and rural areas worldwide . Streets with Street View imagery available are shown as blue lines on Google Maps .
+
+Street View is available as a component of Google Maps , as a web application , and as a mobile application for Android and iOS . Originally , Google Maps used Adobe Flash for Street View . Google overhauled Google Maps in 2013 . The newer version uses JavaScript extensively and provides a JavaScript application programming interface . At the time of their release , the new Google Maps and Street View are measured slower than the old version in various setups
+
+Google Street View displays panoramas of stitched images . Most photography is done by car , but some is done by trekker , tricycle , walking , boat , snowmobile , and underwater apparatus .
+
+Street View had its inception in 2001 with The Stanford CityBlock Project , a Google - sponsored Stanford University research project . The project ended in June 2006 , and its technology was folded into StreetView .
+
+Processed Retrieved Content:
+Google Street View is a technology featured in Google Maps and Google Earth that provides panoramic views from positions along many streets in the world. It was launched in 2007 in several cities in the United States, and has since expanded to include cities and rural areas worldwide. Streets with Street View imagery available are shown as blue lines on Google Maps. Street View is available as a component of Google Maps, as a web application, and as a mobile application for Android and iOS. Originally, Google Maps used Adobe Flash for Street View. Google overhauled Google Maps in 2013. The newer version uses JavaScript extensively and provides a JavaScript application programming interface. At the time of their release, the new Google Maps and Street View are measured slower than the old version in various setups Google Street View displays panoramas of stitched images. Most photography is done by car, but some is done by trekker, tricycle, walking, boat, snowmobile, and underwater apparatus. Street View had its inception in 2001 with The Stanford CityBlock Project, a Google - sponsored Stanford University research project. The project ended in June 2006, and its technology was folded into StreetView.
+
+RAG Answer:
+Street View is available as a component of Google Maps, as a web application, and as a mobile application for Android and iOS. Streets with Street View imagery available are shown as blue lines on Google Maps.
+
+Standard LLM Answer:
+Okay, let's get you to Street View on Google Maps. Here's a breakdown of how to do it, depending on what device you're using:
+
+**1. On a Computer (Desktop or Laptop):**
+
+*   **Search for a Location:** Type the address, place name, or coordinates into the Google Maps search bar.
+*   **Look for the "Drag to Explore" Icon:** Once the map loads and the location is centered, look for a small, yellow, sideways-facing person icon. It's usually in the bottom right corner of the map.
+*   **Drag the Icon:** Click and *drag* the yellow person icon onto the map.  As you drag, the map will change to Street View imagery for the area you're dragging over.  Release the mouse button when you're in the view you want.
+*   **Alternatively, Look for a Street View Button:** Sometimes, after searching for a location, a "Street View" button will appear directly below the search bar. Click this to jump straight into Street View.
+
+**2. On a Mobile Device (Phone or Tablet - Android or iOS):**
+
+*   **Search for a Location:** Type the address, place name, or coordinates into the Google Maps search bar.
+*   **Look for the Street View Icon:** After the map loads, look for a small, rectangular icon that looks like a panorama (a series of connected squares). It's usually located below the search bar, near the directions button.
+*   **Tap the Icon:** Tap the Street View icon. This will launch the Street View panorama for that location.
+*   **Swipe to Explore:** Once in Street View, you can swipe left or right to move along the street and explore different viewpoints.
+
+**Tips & Troubleshooting:**
+
+*   **Not All Areas Have Street View:** Street View coverage isn't available everywhere. If you can't find Street View for a particular location, it's likely that Google hasn't captured imagery for that area yet.
+*   **Zoom Level:** Sometimes, you need to zoom in a bit on the map before Street View imagery becomes available.
+*   **Check for Updates:** Make sure you have the latest version of the Google Maps app installed on your mobile device.
+*   **Google Earth:** If you're looking for more detailed 3D imagery, consider using Google Earth. It often has more comprehensive coverage than Street View.
+
+
+
+To help me give you more specific instructions, could you tell me:
+
+*   What device are you using (computer, phone, tablet)?
+*   What operating system are you using (Windows, macOS, Android, iOS)?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6807
+Standard LLM vs Reference Similarity: 0.6278
+Similarity Improvement: 0.0530

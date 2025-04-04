@@ -1,0 +1,52 @@
+Question: who are the actors in fast and furious
+
+Reference Answer: Character Portrayed by Film The Fast and the Furious ( 2001 ) The Turbo Charged Prelude for 2 Fast 2 Furious ( 2003 ) 2 Fast 2 Furious ( 2003 ) The Fast and the Furious : Tokyo Drift ( 2006 ) Los Bandoleros ( 2009 ) Fast & Furious ( 2009 ) Fast Five ( 2011 ) Fast & Furious 6 ( 2013 ) Furious 7 ( 2015 ) The Fate of the Furious ( 2017 ) Principal characters Dominic Toretto Vin Diesel Main Archive Cameo Main Brian O'Conner Paul Walker Main Main Letty Ortiz Michelle Rodriguez Main Main Photo Main Mia Toretto Jordana Brewster Main Main Roman Pearce Tyrese Gibson Main Main Tej Parker Ludacris Main Main Sean Boswell Lucas Black Main Archive Cameo Han Lue Sung Kang Main Archive Gisele Yashar Gal Gadot Main Archive Luke Hobbs Dwayne Johnson Main Primary supporting characters Vince Matt Schulze Main Main Archive Jesse Chad Lindberg Main Leon Johnny Strong Main Monica Fuentes Eva Mendes Main Cameo Suki Devon Aoki Main Archive Neela Nathalie Kelley Main Archive Twinkie Bow Wow Main Archive Tego Le
+
+Retrieved Documents: 55b7e77309c2b8aafba21126b56c8583.txt, 55b7e77309c2b8aafba21126b56c8583.txt, 88a08ba15058c6d4a02462535777cc42.txt
+
+Raw Retrieved Content:
+In Tokyo Drift , Han hires Sean Boswell as a delivery driver and teaches him how to race against Takashi . During a climatic getaway , a silver Mercedes crashes into his car , causing it to flip over and then explode . In the post-credits scene of Fast & Furious 6 , Deckard Shaw ( portrayed by Jason Statham ) is revealed to have driven the Mercedes after tracking the street racers on a police radio
+
+The Fast and the Furious is an American action film series , centered around cars produced by Neal H. Moritz and distributed by Universal Pictures . Consisting of eight films and two short films , the following is a list of characters from The Fast and the Furious .
+
+The Fast and the Furious ( also known as Fast & Furious ) is an American franchise based on a series of action films that is largely concerned with illegal street racing , heists and espionage , and includes material in various other media that depicts characters and situations from the films
+
+Processed Retrieved Content:
+In Tokyo Drift, Han hires Sean Boswell as a delivery driver and teaches him how to race against Takashi. During a climatic getaway, a silver Mercedes crashes into his car, causing it to flip over and then explode. In the post-credits scene of Fast & Furious 6, Deckard Shaw ( portrayed by Jason Statham ) is revealed to have driven the Mercedes after tracking the street racers on a police radio The Fast and the Furious is an American action film series, centered around cars produced by Neal H. Moritz and distributed by Universal Pictures. Consisting of eight films and two short films, the following is a list of characters from The Fast and the Furious. The Fast and the Furious ( also known as Fast & Furious ) is an American franchise based on a series of action films that is largely concerned with illegal street racing, heists and espionage, and includes material in various other media that depicts characters and situations from the films
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions Jason Statham portraying Deckard Shaw, but does not list other actors in the Fast and Furious franchise.
+
+Standard LLM Answer:
+Okay, this is a bit of a trick question! You're asking about the **actors** in the *Fast and Furious* franchise, not the characters *within* the movies. And the cast has grown over many films! Here's a breakdown of some of the most prominent actors who have appeared in the *Fast and Furious* films:
+
+**Core/Long-Running Actors:**
+
+*   **Vin Diesel:** (Dominic Toretto) - *All main films*
+*   **Paul Walker:** (Brian O'Conner) - *First seven films* (Sadly, Paul Walker passed away during the filming of *Furious 7*)
+*   **Michelle Rodriguez:** (Letty Ortiz) - *Most of the films*
+*   **Jordana Brewster:** (Mia Toretto) - *Several films*
+*   **Tyrese Gibson:** (Roman Pearce) - *Several films*
+*   **Ludacris:** (Tej Parker) - *Several films*
+*   **Sung Kang:** (Han Lue) - *Multiple films, a fan favorite*
+
+**Significant Additions/Recurring Roles:**
+
+*   **Dwayne Johnson:** (Luke Hobbs) - *Hobbs & Shaw, Fast & Furious Presents: Hobbs & Shaw, Fast X*
+*   **Jason Statham:** (Deckard Shaw) - *Fast & Furious 6, Furious 7, The Fate of the Furious, F9, Fast X*
+*   **Gal Gadot:** (Gisele Yashar) - *Fast & Furious, Fast Five, Fast & Furious 6*
+*   **Kurt Russell:** (Mr. Nobody) - *Furious 7, The Fate of the Furious*
+*   **Charlize Theron:** (Cipher) - *The Fate of the Furious, F9, Fast X*
+*   **John Cena:** (Jacob Toretto) - *F9, Fast X*
+*   **Jason Momoa:** (Dante Reyes) - *Fast X*
+
+**Important Note:** This isn't an exhaustive list, as many other actors have had roles in the franchise. The *Fast & Furious* films are known for their large ensemble casts!
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6078
+Standard LLM vs Reference Similarity: 0.7187
+Similarity Improvement: -0.1109

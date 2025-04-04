@@ -1,0 +1,43 @@
+Question: what does the key to the city entitle you to
+
+Reference Answer: In some countries , such as the United States , an ornamental key -- the `` key to the city '' -- is presented to esteemed visitors , residents , or others whom the city wishes to honour . This practice is a variation on the freedom of the city tradition , and has a similar symbolic meaning ; evoking medieval walled cities , the gates of which would be guarded during the day and locked at night , the key symbolises the freedom of the recipient to enter and leave the city at will , as a trusted friend of city residents .
+
+Retrieved Documents: cc5e7aaf49a09b1a09d4fac0e557484b.txt, cc5e7aaf49a09b1a09d4fac0e557484b.txt, cc5e7aaf49a09b1a09d4fac0e557484b.txt
+
+Raw Retrieved Content:
+In some countries , such as the United States , an ornamental key -- the `` key to the city '' -- is presented to esteemed visitors , residents , or others whom the city wishes to honour
+
+. This practice is a variation on the freedom of the city tradition , and has a similar symbolic meaning ; evoking medieval walled cities , the gates of which would be guarded during the day and locked at night , the key symbolises the freedom of the recipient to enter and leave the city at will , as a trusted friend of city residents .
+
+The honour was sometimes accompanied by a `` freedom box '' , a small gold box inscribed to record the occasion ; these are not usual today . In some countries , such as the United States , esteemed residents and visitors may instead be presented with the Key to the City , a similarly symbolic honour . Other US cities award Honorary Citizenship , with just a certificate .
+
+Processed Retrieved Content:
+In some countries, such as the United States, an ornamental key -- the `` key to the city '' -- is presented to esteemed visitors, residents, or others whom the city wishes to honour. This practice is a variation on the freedom of the city tradition, and has a similar symbolic meaning; evoking medieval walled cities, the gates of which would be guarded during the day and locked at night, the key symbolises the freedom of the recipient to enter and leave the city at will, as a trusted friend of city residents. The honour was sometimes accompanied by a `` freedom box '', a small gold box inscribed to record the occasion; these are not usual today. In some countries, such as the United States, esteemed residents and visitors may instead be presented with the Key to the City, a similarly symbolic honour. Other US cities award Honorary Citizenship, with just a certificate.
+
+RAG Answer:
+Based on the provided information, the key to the city symbolizes the freedom of the recipient to enter and leave the city at will, as a trusted friend of city residents.
+
+Standard LLM Answer:
+You're asking a great question that gets at a bit of a symbolic gesture! 
+
+The key to the city is **primarily a symbolic honor**. It doesn'al give you any actual legal privileges or access to anything specific. 
+
+Historically, it meant you were granted free access to the city's gates and hospitality. Today, it's a ceremonial recognition of an individual's contributions to the city. 
+
+Here's what it *entitles* you to, in a figurative sense:
+
+*   **Recognition and Honor:** It's a public acknowledgement of your achievements and service.
+*   **Goodwill:** It's a gesture of friendship and appreciation from the city.
+*   **Bragging Rights:** It's a pretty cool honor to have!
+*   **Sometimes, a party!** Often, a key presentation is accompanied by a ceremony or reception.
+
+Essentially, it's a very nice gesture, but it doesn't open any doors (literally) that weren't already open to you. It's about the sentiment, not the access.
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8342
+Standard LLM vs Reference Similarity: 0.7059
+Similarity Improvement: 0.1283

@@ -1,0 +1,70 @@
+Question: when did fasb codification become authoritative u.s. gaap
+
+Reference Answer: The codification is effective for interim and annual periods ending after September 15 , 2009 . All prior accounting standards documents were superseded as described in FASB Statement No. 168 , The FASB Accounting Standards Codification and the Hierarchy of Generally Accepted Accounting Principles . Accounting literature not included in the Codification is non-authoritative .
+
+Retrieved Documents: 5e2a63a0ecbbaf10339ae7a0a9d8cfde.txt, 5e2a63a0ecbbaf10339ae7a0a9d8cfde.txt, 5e2a63a0ecbbaf10339ae7a0a9d8cfde.txt
+
+Raw Retrieved Content:
+. FASAC then voiced its concerns due to the increase of financial reporting guidance from the old U.S. GAAP standards , and the FASB responded by launching a new project to codify the standards . The project was approved in September 2004 by the Trustees of the Financial Accounting Foundation .
+
+The codification is effective for interim and annual periods ending after September 15 , 2009 . All prior accounting standards documents were superseded as described in FASB Statement No. 168 , The FASB Accounting Standards Codification and the Hierarchy of Generally Accepted Accounting Principles . Accounting literature not included in the Codification is non-authoritative .
+
+In US accounting practices , the Accounting Standards Codification is the current single source of United States Generally Accepted Accounting Principles ( GAAP ) . It is maintained by the Financial Accounting Standards Board ( FASB ) .
+
+Processed Retrieved Content:
+. FASAC then voiced its concerns due to the increase of financial reporting guidance from the old U.S. GAAP standards, and the FASB responded by launching a new project to codify the standards. The project was approved in September 2004 by the Trustees of the Financial Accounting Foundation. The codification is effective for interim and annual periods ending after September 15, 2009. All prior accounting standards documents were superseded as described in FASB Statement No. 168, The FASB Accounting Standards Codification and the Hierarchy of Generally Accepted Accounting Principles. Accounting literature not included in the Codification is non-authoritative. In US accounting practices, the Accounting Standards Codification is the current single source of United States Generally Accepted Accounting Principles ( GAAP ). It is maintained by the Financial Accounting Standards Board ( FASB ).
+
+RAG Answer:
+Based on the provided information, the FASB Accounting Standards Codification became the current single source of United States Generally Accepted Accounting Principles (GAAP) and is effective for interim and annual periods ending after September 15, 2009.
+
+Standard LLM Answer:
+Okay, let's break down the history and authoritative status of the FASB Codification (now simply "the Codification"). This is a complex topic with a gradual evolution.
+
+Here's a comprehensive answer, covering the key milestones and its current status as U.S. GAAP:
+
+**1. The Problem Before the Codification (Pre-2009): A Fragmented Landscape**
+
+*   Before 2009, U.S. Generally Accepted Accounting Principles (GAAP) wasn't a single, organized document. It was a scattered collection of:
+    *   Accounting Research Bulletins (ARBs) issued by the Committee on Accounting Procedure (CAP)
+    *   Accounting Practices Bulletins (APBs) issued by the Accounting Practices Committee (APC)
+    *   Industry Guides (issued by the AICPA)
+    *   SEC releases
+    *   Court decisions
+    *   Pronouncements from the Financial Accounting Standards Board (FASB) – which started in 1973.
+*   This made it incredibly difficult for accountants, auditors, and investors to find and understand the applicable accounting rules.  It was a research nightmare!
+
+**2. The Creation of the Codification (2009-2015): A Massive Undertaking**
+
+*   The Financial Accounting Foundation (FAF), the parent organization of the FASB, initiated the Codification project in 1999.  The goal was to create a single, comprehensive, and authoritative source for U.S. GAAP.
+*   **The Codification was officially launched on July 1, 2009.** It wasn't *created* from scratch. Instead, it *compiled* existing GAAP from all those disparate sources.
+*   The FASB didn's *create* new accounting standards within the Codification initially.  It was a compilation.  The FASB continued to issue new accounting standards *alongside* the Codification.
+*   The Codification is organized by topic (e.g., revenue recognition, leases, inventory) and is searchable online.
+
+**3. The Critical Shift: The Codification Becomes Authoritative (2015 Onward)**
+
+*   **The pivotal moment was the FASB's statement in 2015 that the Codification *is* authoritative U.S. GAAP, *except* where superseded by subsequent FASB accounting standards.** This was a formal declaration.
+*   **What does "superseded" mean?**  It means that if the FASB issues a *new* standard that directly contradicts or replaces a section of the Codification, the *new standard* takes precedence. The Codification is then updated to reflect the new standard.
+*   **Important Dates:**
+    *   **December 15, 1999:** FAF authorized the Codification project.
+    *   **July 1, 2009:** The Codification was launched as a compilation of existing GAAP.
+    *   **August 2015:** FASB formally declared the Codification as authoritative U.S. GAAP, except where superseded.
+
+**4. Current Status (2024): The Codification as GAAP**
+
+*   **Today, the FASB continues to issue new accounting standards.** These new standards are *not* initially part of the Codification.  Instead, they are issued separately.
+*   **The FAF and FASB have a process to update the Codification to reflect these new standards.** This is an ongoing process.
+*   **Therefore, to determine the current U.S. GAAP, you must:**
+    1.  **Consult the Codification first.** It contains the vast majority of GAAP.
+    2.  **Then, check for any subsequent FASB accounting standards that may have superseded sections of the Codification.**  You need to be aware of the latest pronouncements.
+*   **The Codification is accessible through the FASB website (www.fasb.org) and through commercial subscription services.**
+
+**In summary, the FASB Codification became authoritative U.S. GAAP in August 2015, with the understanding that it is authoritative *except* where superseded by subsequent FASB accounting standards.** It represents a monumental effort to organize and simplify U.S. GAAP, but ongoing vigilance is required to stay current with the latest pronouncements.
+
+
+
+Do you want me to elaborate on any specific aspect of this, such as the process for updating the Codification, or how to determine if a section has been superseded?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8135
+Standard LLM vs Reference Similarity: 0.7579
+Similarity Improvement: 0.0556

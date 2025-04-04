@@ -1,0 +1,29 @@
+Question: when the clear air act was revised in 1990 it gave states
+
+Reference Answer: 1 State Programs 4 Interstate air pollution 5 Leak detection and repair 6 Application to greenhouse gas emissions 7 Clean Air Act and environmental justice 8 Clean Air Act violations 9 Effects 10 See also 11 References 12 Further reading 13 External links Summary ( edit ) Counties in the United States with one or more National Ambient Air Quality Standards not met as of June 2017 Title I : programs and activities ( edit ) Graph showing decreases in US air pollution concentrations during 1990 to 2015 Part a : Air quality and emissions limitations ( edit ) This section of the act declares that protecting and enhancing the nation 's air quality promotes public health
+
+Retrieved Documents: 8ae87ce436176bc3587188ff185a568f.txt, 8ae87ce436176bc3587188ff185a568f.txt, 8ae87ce436176bc3587188ff185a568f.txt
+
+Raw Retrieved Content:
+Another set of major amendments to the Clean Air Act occurred in 1990 ( 1990 CAAA ) . The 1990 CAAA substantially increased the authority and responsibility of the federal government . New regulatory programs were authorized for control of acid deposition ( acid rain ) and for the issuance of stationary source operating permits . The NESHAPs were incorporated into a greatly expanded program for controlling toxic air pollutants
+
+Because of advances in the atmospheric chemistry , this section was replaced by Title VI when the law was amended in 1990 .
+
+Major amendments were added to the Clean Air Act in 1977 ( 1977 CAAA ) . The 1977 Amendments primarily concerned provisions for the Prevention of Significant Deterioration ( PSD ) of air quality in areas attaining the NAAQS . The 1977 CAAA also contained requirements pertaining to sources in non-attainment areas for NAAQS . A non-attainment area is a geographic area that does not meet one or more of the federal air quality standards
+
+Processed Retrieved Content:
+Another set of major amendments to the Clean Air Act occurred in 1990 ( 1990 CAAA ). The 1990 CAAA substantially increased the authority and responsibility of the federal government. New regulatory programs were authorized for control of acid deposition ( acid rain ) and for the issuance of stationary source operating permits. The NESHAPs were incorporated into a greatly expanded program for controlling toxic air pollutants Because of advances in the atmospheric chemistry, this section was replaced by Title VI when the law was amended in 1990. Major amendments were added to the Clean Air Act in 1977 ( 1977 CAAA ). The 1977 Amendments primarily concerned provisions for the Prevention of Significant Deterioration ( PSD ) of air quality in areas attaining the NAAQS. The 1977 CAAA also contained requirements pertaining to sources in non-attainment areas for NAAQS. A non-attainment area is a geographic area that does not meet one or more of the federal air quality standards
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text details changes to the *federal* government's authority and responsibility with the 1990 amendments, but does not mention any changes to states' roles.
+
+Standard LLM Answer:
+When the Clean Air Act was revised in 1990 it gave states **the responsibility for developing plans to achieve national ambient air quality standards.** 
+
+Specifically, it gave states the responsibility for developing plans to achieve national ambient air quality standards. This included things like permitting facilities, monitoring air quality, and enforcing regulations. It was a shift towards giving states more control over how to achieve federal goals.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3706
+Standard LLM vs Reference Similarity: 0.6954
+Similarity Improvement: -0.3248

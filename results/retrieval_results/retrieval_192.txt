@@ -1,0 +1,27 @@
+Question: when does season 7 start for married at first sight
+
+Reference Answer: In February 2017 , the season was renewed for a fifth season which aired on January 29 , 2018 . On 11 October 2017 , the fifth season was officially confirmed at Nine 's upfronts and again will include 11 couples like the previous season . During the fifth season , 11 female contestants are matched with their ' perfect ' male partner by a panel of experts . In the first episode , the first two couples ( Tracey & Dean , Sarah & Telv ) met and wed in Sydney and Melbourne . In the second episode , another two couples ( Jo & Sean , Alycia & Mat ) met and wed in Sydney and Melbourne . In the third episode , two more couples ( Davina & Ryan , Charlene & Patrick ) met and wed in Warrawong and Melbourne . In the fifth episode , two more couples ( Ashley & Troy , Melissa & John ) met and wed in Gold Coast and Melbourne . In the sixth episode , another two couples ( Gabrielle & Nasser , Carly & Justin ) met and wed in Sydney . In the seventh episode , the final couple ( Blair & Sean ) met and we
+
+Retrieved Documents: c401f4f8c91179b9adec10d56086f152.txt, c401f4f8c91179b9adec10d56086f152.txt, 2fac62640b53c289f36021a4b4f51cd5.txt
+
+Raw Retrieved Content:
+Married at First Sight is an Australian reality television series based on the Danish program of the same name . The show is premiered 7 : 00pm every Sunday and 7 : 30pm every Monday , Tuesday and Wednesday on the Nine Network . The show features four to eleven couples , matched by three experts , who agree to marry when they first meet
+
+In February 2017 , the season was renewed for a fifth season which aired on January 29 , 2018 . On 11 October 2017 , the fifth season was officially confirmed at Nine 's upfronts and again will include 11 couples like the previous season . During the fifth season , 11 female contestants are matched with their ' perfect ' male partner by a panel of experts . In the first episode , the first two couples ( Tracey & Dean , Sarah & Telv ) met and wed in Sydney and Melbourne
+
+The seventh season premiered on January 14 , 2010 , featuring 16 designers . Heidi Klum , Michael Kors , Nina Garcia and Tim Gunn all returned for the seventh season . This season featured the return of the show to New York City , following a move to Los Angeles for Season 6 .
+
+Processed Retrieved Content:
+Married at First Sight is an Australian reality television series based on the Danish program of the same name. The show is premiered 7: 00pm every Sunday and 7: 30pm every Monday, Tuesday and Wednesday on the Nine Network. The show features four to eleven couples, matched by three experts, who agree to marry when they first meet In February 2017, the season was renewed for a fifth season which aired on January 29, 2018. On 11 October 2017, the fifth season was officially confirmed at Nine 's upfronts and again will include 11 couples like the previous season. During the fifth season, 11 female contestants are matched with their ' perfect ' male partner by a panel of experts. In the first episode, the first two couples ( Tracey & Dean, Sarah & Telv ) met and wed in Sydney and Melbourne The seventh season premiered on January 14, 2010, featuring 16 designers. Heidi Klum, Michael Kors, Nina Garcia and Tim Gunn all returned for the seventh season. This season featured the return of the show to New York City, following a move to Los Angeles for Season 6.
+
+RAG Answer:
+Based on the provided information, season 7 premiered on January 14, 2010.
+
+Standard LLM Answer:
+Season 7 of Married at First Sight premiered on **Wednesday, October 11, 2023, at 8/7c on Lifetime.**
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3183
+Standard LLM vs Reference Similarity: 0.4677
+Similarity Improvement: -0.1493

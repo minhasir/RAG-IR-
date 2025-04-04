@@ -1,0 +1,82 @@
+Question: what are the ingredients in kit kat bar
+
+Reference Answer: Kit Kat bars are produced in 16 countries by Nestlé : Brazil , Mexico , United Kingdom , Canada , Australia , New Zealand , South Africa , Germany , Russia , Japan , China , Malaysia , Thailand , India , Turkey , United Arab Emirates , Bulgaria and Algeria . Kit Kat bars in the United States are produced under licence by The Hershey Company , a Nestlé competitor , due to a prior licensing agreement with Rowntree . The year 2003 was a turning point for the Kit Kat bar as well as the confectionery industry in general . The popularity of low carb diets and the push to healthier eating stifled sales growth in many parts of the world . In addition , fierce competition from Cadbury 's newly formed Dairy Milk superbrand also contributed to sales of the Kit Kat decreasing considerably in its home market of the UK , and threatened to depose it from its No. 1 position . The solution adopted by Nestlé and others was to increase dramatically the number of new and unique variations of their confect
+
+Retrieved Documents: 7baab623a57a88ea2d070d59488b3686.txt, 7baab623a57a88ea2d070d59488b3686.txt, 7baab623a57a88ea2d070d59488b3686.txt
+
+Raw Retrieved Content:
+Original Kit Kat ingredients unless otherwise stated , listed by decreasing weight : milk chocolate ( sugar , milk ingredients , cocoa butter , cocoa mass , whey powder , lactose , soya lecithin , polyglycerol polyricinoleate , natural flavour ) , wheat flour , sugar , modified palm oil , cocoa , sodium bicarbonate , soya lecithin , yeast , and natural flavour .
+
+Hershey 's Kit Kat Crisp Wafers in Chocolate ( 1 oz ) Sugar , wheat flour , cocoa butter , nonfat milk , chocolate , refined palm kernel oil , lactose ( milk ) , milk fat , contains 2 % or less of : soy lecithin , PGPR ( emulsifier ) , yeast , artificial flavor , salt , and sodium bicarbonate .
+
+. Each finger can be snapped from the bar separately . There are many different flavours of Kit Kat , including milk , white , and dark chocolate .
+
+Processed Retrieved Content:
+Original Kit Kat ingredients unless otherwise stated, listed by decreasing weight: milk chocolate ( sugar, milk ingredients, cocoa butter, cocoa mass, whey powder, lactose, soya lecithin, polyglycerol polyricinoleate, natural flavour ), wheat flour, sugar, modified palm oil, cocoa, sodium bicarbonate, soya lecithin, yeast, and natural flavour. Hershey 's Kit Kat Crisp Wafers in Chocolate ( 1 oz ) Sugar, wheat flour, cocoa butter, nonfat milk, chocolate, refined palm kernel oil, lactose ( milk ), milk fat, contains 2 % or less of: soy lecithin, PGPR ( emulsifier ), yeast, artificial flavor, salt, and sodium bicarbonate.. Each finger can be snapped from the bar separately. There are many different flavours of Kit Kat, including milk, white, and dark chocolate.
+
+RAG Answer:
+According to the provided information, the ingredients in a Kit Kat bar are:
+
+*   Milk chocolate (sugar, milk ingredients, cocoa butter, cocoa mass, whey powder, lactose, soya lecithin, polyglycerol polyricinoleate, natural flavour)
+*   Wheat flour
+*   Sugar
+*   Modified palm oil
+*   Cocoa
+*   Sodium bicarbonate
+*   Soya lecithin
+*   Yeast
+*   Natural flavour
+
+For Hershey's Kit Kat Crisp Wafer in Chocolate:
+
+*   Sugar
+*   Wheat flour
+*   Cocoa butter
+*   Nonfat milk
+*   Chocolate
+*   Refined palm kernel oil
+*   Lactose (milk)
+*   Milk fat
+*   Soy lecithin
+*   PGPR (emulsifier)
+*   Yeast
+*   Artificial flavor
+*   Salt
+*   Sodium bicarbonate
+
+Standard LLM Answer:
+Okay, let's break down the ingredients in a standard Kit Kat bar (as of my last knowledge update - ingredients can sometimes vary slightly by region). Here's a comprehensive list, categorized for clarity:
+
+**1. Chocolate Coating (Milk Chocolate):**
+
+*   **Sugar:** The primary sweetener.
+*   **Cocoa Butter:** A fat from the cocoa bean, giving chocolate its smooth texture.
+*   **Skim Milk Powder:** Adds milk solids for a creamier flavor.
+*   **Cocoa Mass (or Cocoa Liquor):** Ground cocoa beans, providing the chocolate flavor.
+*   **Lecithin (Soy):** An emulsifier, helping the ingredients blend smoothly.
+*   **Natural Flavor:** A flavoring agent (often vanilla).
+
+**2. Wafer Layers:**
+
+*   **Wheat Flour:** The base of the wafer.
+*   **Sugar:** Sweetener.
+*   **Palm Fat:** Vegetable fat used for texture and crispness. (Note: This is a point of concern for some due to sustainability issues with palm oil production. Some Kit Kat varieties use alternatives.)
+*   **Corn Starch:** A thickening agent.
+*   **Salt:** Enhances flavor.
+*   **Raising Agent (Sodium Bicarbonate):** Helps the wafers rise and become light.
+
+**Important Notes & Potential Variations:**
+
+*   **Region-Specific Differences:** Ingredient lists can vary slightly depending on the country where the Kit Kat is manufactured.
+*   **Allergens:** Kit Kats contain **wheat (gluten)** and **soy**. They may also be manufactured in facilities that process **milk, peanuts, tree nuts, and eggs**, so there's a risk of cross-contamination. Always check the packaging for specific allergen warnings.
+*   **Palm Oil:** As mentioned, the use of palm oil is a concern for some.  Nestlé (the maker of Kit Kat) has made commitments to sourcing sustainable palm oil, but it's still present in many versions.
+*   **Dark Chocolate Kit Kats:** These will have a different chocolate coating with a higher percentage of cocoa solids and less or no milk solids.
+
+
+
+**To get the *absolute* most accurate and up-to-date ingredient list, it's always best to check the packaging of the specific Kit Kat bar you're interested in.**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6826
+Standard LLM vs Reference Similarity: 0.6201
+Similarity Improvement: 0.0625

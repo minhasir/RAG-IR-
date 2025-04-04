@@ -1,0 +1,63 @@
+Question: who wants to marry a prince tv show
+
+Reference Answer: I Wanna Marry `` Harry '' - wikipedia I Wanna Marry `` Harry '' I Wanna Marry `` Harry '' Genre Competitive reality dating show Created by Danny Fenton Starring Matthew Hicks Paul Leonard Original language ( s ) English No
+
+Retrieved Documents: 1b8d7e48eb2dd7eee0c47e041e89f25b.txt, 1b8d7e48eb2dd7eee0c47e041e89f25b.txt, 0fa4d335e3e2efcbc062ee5267ee03d6.txt
+
+Raw Retrieved Content:
+I Wanna Marry `` Harry '' was a reality television show that premiered on May 20 , 2014 , on Fox . The series has a premise similar to Joe Millionaire , and follows twelve American women who are led to believe that they are competing for the affections of Prince Harry . However , in reality the bachelor is Matthew Hicks , a Prince Harry look - alike . On June 12 , 2014 , it was announced the show was pulled from the air in the US and cancelled after airing only four episodes
+
+The series first aired in the USA on May 20 , 2014 , on Fox . On June 12 , 2014 , Fox cancelled I Wanna Marry `` Harry '' after four of the eight produced episodes due to low ratings but announced it would air the remainder on Fox.com , cable On Demand , Fox NOW and Hulu .
+
+It began airing in the UK on ITV2 on Wednesday , June 4 , 2014 at 9 : 00pm .
+
+. Mabrey cites the law again and once again suggests that his nephew be named King , but just then , Nicholas not only refuses the crown , but also disowns Mabrey as his uncle . Mia proposes the law on royal marriages be abolished , and the Parliament unanimously gives its assent . Encouraged by Mia to have her own happy ending , Clarisse proposes to Joe and they are promptly married .
+
+Processed Retrieved Content:
+I Wanna Marry `` Harry '' was a reality television show that premiered on May 20, 2014, on Fox. The series has a premise similar to Joe Millionaire, and follows twelve American women who are led to believe that they are competing for the affections of Prince Harry. However, in reality the bachelor is Matthew Hicks, a Prince Harry look - alike. On June 12, 2014, it was announced the show was pulled from the air in the US and cancelled after airing only four episodes The series first aired in the USA on May 20, 2014, on Fox. On June 12, 2014, Fox cancelled I Wanna Marry `` Harry '' after four of the eight produced episodes due to low ratings but announced it would air the remainder on Fox.com, cable On Demand, Fox NOW and Hulu. It began airing in the UK on ITV2 on Wednesday, June 4, 2014 at 9: 00pm.. Mabrey cites the law again and once again suggests that his nephew be named King, but just then, Nicholas not only refuses the crown, but also disowns Mabrey as his uncle. Mia proposes the law on royal marriages be abolished, and the Parliament unanimously gives its assent. Encouraged by Mia to have her own happy ending, Clarisse proposes to Joe and they are promptly married.
+
+RAG Answer:
+Based on the provided information, the show is "I Wanna Marry `` Harry ''".
+
+Standard LLM Answer:
+Okay, let's break down this increasingly layered request! You're essentially asking for a creative response that builds on the idea of a reality TV show, escalating the premise with each step. Here's a response that attempts to follow that logic, along with explanations of the choices made:
+
+**The Show: "Royal Matchmakers"**
+
+**(Premise: Building on "Who Wants to Marry a Prince?")**
+
+"Royal Matchmakers" isn't just about finding a princess or prince for a royal. It's about *finding the right royal*.  We take a group of eligible, but often overlooked, royals – a deposed Duke, a princess from a tiny island nation, a prince who prefers pottery to politics – and put them in a luxurious chateau.  Each week, they're presented with a series of challenges designed to test their compatibility with a *different* potential spouse.
+
+**The Twist: The "Commoner Contingency"**
+
+**(Building on "Royal Matchmakers")**
+
+But here's the twist!  Interspersed among the royals are a select group of incredibly accomplished, charismatic, and surprisingly wealthy commoners. They're not *just* commoners; they're CEOs, renowned artists, groundbreaking scientists, and philanthropists.  The royals must decide: do they want to uphold tradition and marry within their own class, or are they willing to risk scandal and embrace a modern love story?  The commoners, of course, are also vying for the royals' affections, and the pressure is on!
+
+**The Meta-Narrative: "The Crown's Algorithm"**
+
+**(Building on "The Crown's Algorithm")**
+
+Behind the scenes, a team of data scientists and behavioral psychologists – led by a mysterious figure known only as "The Architect" – are using a sophisticated algorithm to analyze every interaction, every glance, every word.  The algorithm, called "The Crown's Algorithm," predicts the most strategically advantageous match, based on factors like lineage, political alliances, economic stability, and even social media influence.  But the royals have a choice: follow the algorithm's recommendation, or trust their own hearts.  The Architect, however, has a hidden agenda... they believe the monarchy is outdated and are subtly manipulating the process to dismantle it from within, replacing tradition with a meritocratic system.
+
+**The Documentary Element: "Behind the Gowns"**
+
+**(Building on "Behind the Gowns")**
+
+And finally, interwoven throughout the drama, is a documentary series called "Behind the Gowns." This follows the stylists, the security teams, the royal historians, and even the families of the contestants, revealing the immense pressure and complexities of maintaining a royal image in the 21st century.  We see the toll the show takes on everyone involved, and question whether any of these relationships are genuine, or simply elaborate performances for the cameras.
+
+**Why this approach?**
+
+*   **Escalation:** Each layer builds on the previous one, adding complexity and intrigue.
+*   **Modern Themes:** The additions address contemporary issues like social media, data privacy, meritocracy vs. tradition, and the role of the monarchy in a changing world.
+*   **Multiple Layers of Storytelling:** The show isn't just about romance; it's about power, manipulation, and the search for authenticity.
+*   **Meta-Commentary:** The documentary element adds a layer of self-awareness, questioning the nature of reality television itself.
+
+
+
+Do you want me to continue building on this, perhaps adding a supernatural element or a political conspiracy?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7626
+Standard LLM vs Reference Similarity: 0.3533
+Similarity Improvement: 0.4093

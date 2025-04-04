@@ -1,0 +1,41 @@
+Question: how many nominations does game of thrones have
+
+Reference Answer: Game of Thrones received many nominations , with awards recognizing various aspects of the series such as directing , writing , cast , visual effects , or overall quality
+
+Retrieved Documents: 01aea6785f01de8fb0bfc87417aea471.txt, 01aea6785f01de8fb0bfc87417aea471.txt, 01aea6785f01de8fb0bfc87417aea471.txt
+
+Raw Retrieved Content:
+. The series has received 110 Primetime Emmy Award nominations , including six consecutive Outstanding Drama Series nominations , with 38 wins to date . Game of Thrones received many nominations , with awards recognizing various aspects of the series such as directing , writing , cast , visual effects , or overall quality .
+
+. In 2016 , it became the most awarded series in Emmy Awards history , with a total of 38 wins . To date , Game of Thrones has won 239 awards out of 682 nominations .
+
+The Hollywood Post Alliance presents awards to individuals and organizations to recognize the achievement of post production talent . Game of Thrones has received seven awards out of nineteen nominations .
+
+The Irish Film & Television Awards are presented in an annual award show hosted by the Irish Film & Television Academy . Game of Thrones has received four awards out of twenty - seven nominations .
+
+Processed Retrieved Content:
+. The series has received 110 Primetime Emmy Award nominations, including six consecutive Outstanding Drama Series nominations, with 38 wins to date. Game of Thrones received many nominations, with awards recognizing various aspects of the series such as directing, writing, cast, visual effects, or overall quality.. In 2016, it became the most awarded series in Emmy Awards history, with a total of 38 wins. To date, Game of Thrones has won 239 awards out of 682 nominations. The Hollywood Post Alliance presents awards to individuals and organizations to recognize the achievement of post production talent. Game of Thrones has received seven awards out of nineteen nominations. The Irish Film & Television Awards are presented in an annual award show hosted by the Irish Film & Television Academy. Game of Thrones has received four awards out of twenty - seven nominations.
+
+RAG Answer:
+Game of Thrones has 682 nominations.
+
+Standard LLM Answer:
+Okay, let's break down the nominations for *Game of Thrones*. It's a LOT!
+
+*   **Primetime Emmy Awards:** *Game of Thrones* holds the record for the most Emmy nominations for a single series with **59 nominations**. It won a total of **12 Emmy Awards** from those nominations.
+*   **Golden Globe Awards:** The series received **18 nominations** and won **1 Golden Globe Award**.
+*   **Screen Actors Guild Awards:** *Game of Thrones* received **23 nominations** and won **4 awards**.
+*   **British Academy Television Awards (BAFTA):** The show received **14 nominations** and won **5 awards**.
+
+**In total, across major awards, *Game of Thrones* received over 124 nominations and won over 36 awards.**
+
+It's important to note that these numbers can vary slightly depending on the source and how nominations are counted (e.g., individual vs. series categories). However, it's clear that *Game of Thrones* is one of the most nominated and awarded television series in history.
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7448
+Standard LLM vs Reference Similarity: 0.7928
+Similarity Improvement: -0.0480

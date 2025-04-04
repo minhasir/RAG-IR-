@@ -1,0 +1,48 @@
+Question: the hollywood ten who refused to answer questions
+
+Reference Answer: Although never substantiating this claim , the investigators charged them with contempt of Congress when they refused to answer the questions about their membership in the Screen Writers Guild and Communist Party
+
+Retrieved Documents: 529f3a0bffa995c629f2d78b8828a3c3.txt, 529f3a0bffa995c629f2d78b8828a3c3.txt, 529f3a0bffa995c629f2d78b8828a3c3.txt
+
+Raw Retrieved Content:
+. Nineteen of those refused to cooperate , and due to illnesses , scheduling conflicts , and exhaustion from the chaotic hearings , only 10 appeared before the Committee . These men became known as the Hollywood Ten .
+
+The first systematic Hollywood blacklist was instituted on November 25 , 1947 , the day after ten writers and directors were cited for contempt of Congress for refusing to testify to the House Un-American Activities Committee . A group of studio executives , acting under the aegis of the Association of Motion Picture Producers , fired the artists -- the so - called Hollywood Ten -- and made what has become known as the Waldorf Statement .
+
+The following ten individuals were cited for contempt of Congress and blacklisted after refusing to answer questions about their alleged involvement with the Communist Party :
+
+Processed Retrieved Content:
+. Nineteen of those refused to cooperate, and due to illnesses, scheduling conflicts, and exhaustion from the chaotic hearings, only 10 appeared before the Committee. These men became known as the Hollywood Ten. The first systematic Hollywood blacklist was instituted on November 25, 1947, the day after ten writers and directors were cited for contempt of Congress for refusing to testify to the House Un-American Activities Committee. A group of studio executives, acting under the aegis of the Association of Motion Picture Producers, fired the artists -- the so - called Hollywood Ten -- and made what has become known as the Waldorf Statement. The following ten individuals were cited for contempt of Congress and blacklisted after refusing to answer questions about their alleged involvement with the Communist Party:
+
+RAG Answer:
+The following ten individuals were cited for contempt of Congress and blacklisted after refusing to answer questions about their alleged involvement with the Communist Party: [The provided information does not list the names of the individuals].
+
+Standard LLM Answer:
+This is a great, layered question that gets to the heart of the Hollywood Ten's story. Here's a breakdown of the answer, building on your phrasing and expanding on the context:
+
+**Yes, the Hollywood Ten famously refused to answer questions, and that refusal was the core of their story.**
+
+Here's a more detailed explanation, addressing the layers of your question:
+
+*   **The Hollywood Ten:** This refers to a group of ten writers and directors who were blacklisted in the 1940s and 1950s during the McCarthy era. They were called before the House Un-American Activities Committee (HUAC) in 1947.
+*   **Refusing to Answer Questions:** HUAC was investigating alleged communist influence in the Hollywood film industry. The Ten were asked to testify about their political affiliations and to name other individuals they believed were communists. They invoked the Fifth Amendment of the U.S. Constitution, which protects individuals from self-incrimination.  They didn't deny their political beliefs (some were known leftists), but they argued that answering HUAC's questions would violate their constitutional rights and be an admission of guilt by association.
+*   **Why it was the Core of Their Story:** Their refusal wasn't just a single act; it was the catalyst for their blacklisting. HUAC deemed their silence as contempt of Congress. This led to:
+    *   **Indictments:** They were charged with contempt of Congress.
+    *   **Jail Sentences:**  Several of the Ten served jail time.
+    *   **Blacklisting:** They were effectively barred from working in the film industry. Studios refused to hire them, and their careers were destroyed.
+    *   **Symbolism:** The Hollywood Ten became symbols of the dangers of McCarthyism and the suppression of free speech and artistic expression. Their case highlighted the chilling effect of political persecution on creative individuals.
+
+**In essence, their refusal to answer HUAC's questions was not just a legal tactic; it was a principled stand against what they saw as an unjust and unconstitutional process.**
+
+
+
+Do you want to explore any specific aspect of the Hollywood Ten's story further? For example:
+
+*   Who were the individuals involved?
+*   What were the legal and political ramifications of their case?
+*   What was the long-term impact on the film industry and American society?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5738
+Standard LLM vs Reference Similarity: 0.5673
+Similarity Improvement: 0.0065

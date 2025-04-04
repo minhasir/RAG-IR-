@@ -1,0 +1,29 @@
+Question: who sang the song i'm a nut
+
+Reference Answer: After numerous appearances on late night comedy shows , Miller decided that he might have a chance in Hollywood as an actor . Short of money , he signed with the up - and - coming label Smash Records , asked the label for $1,600 in cash in exchange for recording 16 sides . Smash agreed to the proposal , and Miller performed his first session for the company early in 1964 , when he recorded the hits `` Dang Me '' and `` Chug - a-Lug '' . Both were released as singles , peaking at No. 1 and No. 3 respectively on country charts ; both fared well on the Billboard Hot 100 reaching No. 7 and No. 9 . The songs transformed Miller 's career , although the former was penned by Miller in just four minutes . Later that year , he recorded the No. 15 hit `` Do - Wacka - Do , '' and soon after , the biggest hit of his career `` King of the Road '' , which topped Country and Adult Contemporary charts while peaking at No. 4 on the Billboard 100 . It also reached No. 1 in the UK Singles Chart for one we
+
+Retrieved Documents: 4f979c1bb83dc3f83b0e9eaf4914c0e1.txt, 649bc0c16dfdfbebeceb5358742ba1a6.txt, 5976bf47508960534735303a41decf4d.txt
+
+Raw Retrieved Content:
+After numerous appearances on late night comedy shows , Miller decided that he might have a chance in Hollywood as an actor . Short of money , he signed with the up - and - coming label Smash Records , asked the label for $1,600 in cash in exchange for recording 16 sides . Smash agreed to the proposal , and Miller performed his first session for the company early in 1964 , when he recorded the hits `` Dang Me '' and `` Chug - a-Lug '' . Both were released as singles , peaking at No. 1 and No
+
+Song Featured : `` Get'cha Head in the Game '' by Bella Thorne
+
+From 1964 through 2010 , Jerry Lewis concluded the annual Jerry Lewis Labor Day MDA Telethon by singing the song . After the end of a concert by the rock band Queen , the audience spontaneously sang this song , according to lead guitarist Brian May , and this helped to inspire the creation of their songs `` We Are the Champions '' and `` We Will Rock You ''
+
+Processed Retrieved Content:
+After numerous appearances on late night comedy shows, Miller decided that he might have a chance in Hollywood as an actor. Short of money, he signed with the up - and - coming label Smash Records, asked the label for $1,600 in cash in exchange for recording 16 sides. Smash agreed to the proposal, and Miller performed his first session for the company early in 1964, when he recorded the hits `` Dang Me '' and `` Chug - a-Lug ''. Both were released as singles, peaking at No. 1 and No Song Featured: `` Get'cha Head in the Game '' by Bella Thorne From 1964 through 2010, Jerry Lewis concluded the annual Jerry Lewis Labor Day MDA Telethon by singing the song. After the end of a concert by the rock band Queen, the audience spontaneously sang this song, according to lead guitarist Brian May, and this helped to inspire the creation of their songs `` We Are the Champions '' and `` We Will Rock You ''
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text does not mention the song "I'm a Nut" or who sang it.
+
+Standard LLM Answer:
+The song "I'm a Nut" was originally performed by **The Nutty Professor**. He's a famous rapper and producer known for his many hits! 
+
+It's a song that sampled a lot of other songs, making it a very popular track in the 90s!
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1775
+Standard LLM vs Reference Similarity: 0.2760
+Similarity Improvement: -0.0985

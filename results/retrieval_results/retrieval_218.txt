@@ -1,0 +1,46 @@
+Question: who did demi lovato write stone cold about
+
+Reference Answer: The song 's lyrics portray the pain of watching an ex move on after a break - up and trying to be happy for them once they find happiness with someone else . A writer from Billboard compared the song to Lovato 's own `` Skyscraper '' ( 2011 ) , and to Adele . During an interview with Ryan Seacrest , Lovato stated , `` This song is your heartbreak song . I wanted to have a song that people can listen to when they 're going through it , or they 're thinking about a time they were heartbroken . '' She also added that `` Stone Cold '' `` is the type of song that I wanted people to feel in their hearts and ripped their guts out . ''
+
+Retrieved Documents: d3097c42762875e487093708d2ee110a.txt, d3097c42762875e487093708d2ee110a.txt, d3097c42762875e487093708d2ee110a.txt
+
+Raw Retrieved Content:
+`` Stone Cold '' is a song by American singer Demi Lovato for her fifth studio album , Confident ( 2015 ) . The song was co-written by Lovato with Laleh Pourkarim , who also served as the song 's producer , and Gustaf Thörn . It was released to digital retailers on October 9 , 2015 through Hollywood Records and Island Records as the first and only promotional single off the album , one week prior to the album 's release
+
+A ballad , `` Stone Cold '' discusses the pain of watching an ex move on and be happy with someone else . The song incorporates pop and soul influences , and is centered on a piano melody , with a stripped down production aimed at highlighting Lovato 's vocals . Some critics compared `` Stone Cold '' to Lovato 's 2011 single `` Skyscraper '' and the work of English singer Adele .
+
+`` Stone Cold '' is a soul sentimental ballad . It was written by Lovato , Laleh Pourkarim and Gustaf Thörn . According to the digital sheet music published by Kobalt Music Publishing America , Inc. , `` Stone Cold '' was originally composed in the key of F minor with a `` moderately fast '' tempo of approximately 144 BPM
+
+Processed Retrieved Content:
+`` Stone Cold '' is a song by American singer Demi Lovato for her fifth studio album, Confident ( 2015 ). The song was co-written by Lovato with Laleh Pourkarim, who also served as the song 's producer, and Gustaf Thörn. It was released to digital retailers on October 9, 2015 through Hollywood Records and Island Records as the first and only promotional single off the album, one week prior to the album 's release A ballad, `` Stone Cold '' discusses the pain of watching an ex move on and be happy with someone else. The song incorporates pop and soul influences, and is centered on a piano melody, with a stripped down production aimed at highlighting Lovato 's vocals. Some critics compared `` Stone Cold '' to Lovato 's 2011 single `` Skyscraper '' and the work of English singer Adele. `` Stone Cold '' is a soul sentimental ballad. It was written by Lovato, Laleh Pourkarim and Gustaf Thörn. According to the digital sheet music published by Kobalt Music Publishing America, Inc., `` Stone Cold '' was originally composed in the key of F minor with a `` moderately fast '' tempo of approximately 144 BPM
+
+RAG Answer:
+Based on the provided information, "Stone Cold" discusses the pain of watching an ex move on and be happy with someone else. It does not specify who the song is about.
+
+Standard LLM Answer:
+This is a fascinating and much-discussed topic! Here's a breakdown of what's known and the prevailing theories about who Demi Lovato's song "Stone Cold" is about:
+
+**The Leading Theory: Wilmer Valderrama**
+
+*   **Timing:** The song was released in 2015, shortly after Demi and her then-boyfriend, Wilmer Valderrama, ended their six-year relationship.
+*   **Lyrics:** The lyrics are incredibly specific and emotionally charged, detailing a breakup where one person is trying to move on while the other is still deeply in love. Lines like "I gave you all of me, and you gave me nothing in return" and "I'm still in love with you" strongly suggest a long and complex relationship.
+*   **Confirmation (Sort Of):** While neither Demi nor Wilmer have explicitly confirmed the song is about him, Wilmer did a very telling reaction to the song on social media. He posted a picture of himself looking thoughtful with the caption, "Wow. Just wow. #StoneCold." This reaction was widely interpreted as an acknowledgment of the song's subject.
+*   **Their Relationship:** Demi and Wilmer's relationship was long and significant, and they were very public about it for many years. The song's lyrics align with reports and speculation about the difficulties and eventual end of their relationship.
+
+**Other Theories (Less Likely):**
+
+*   **Joe Jonas:** Some initially speculated about Joe Jonas due to a past relationship and a similarly dramatic breakup. However, the lyrics don't align as closely as they do with Wilmer.
+*   **General Heartbreak:** It's possible the song is a composite of experiences and not about one specific person, but the specificity of the lyrics makes this less probable.
+
+**In Conclusion:**
+
+While there's no official confirmation, the overwhelming evidence – the timing, the lyrics, and Wilmer Valderrama's reaction – strongly suggests that "Stone Cold" is about their relationship.
+
+
+
+**Disclaimer:** *It's important to remember that this is speculation based on available information. Ultimately, only Demi Lovato knows the full story behind the song.*
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6788
+Standard LLM vs Reference Similarity: 0.6055
+Similarity Improvement: 0.0734

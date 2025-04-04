@@ -1,0 +1,45 @@
+Question: when was the first robot used in surgery
+
+Reference Answer: The first robot to assist in surgery was the Arthrobot , which was developed and used for the first time in Vancouver in 1983 . Intimately involved were biomedical engineer , Dr. James McEwen , Geof Auchinleck , a UBC engineering physics grad , and Dr. Brian Day as well as a team of engineering students . The robot was used in an orthopaedic surgical procedure on 12 March 1984 , at the UBC Hospital in Vancouver . Over 60 arthroscopic surgical procedures were performed in the first 12 months , and a 1985 National Geographic video on industrial robots , The Robotics Revolution , featured the device . Other related robotic devices developed at the same time included a surgical scrub nurse robot , which handed operative instruments on voice command , and a medical laboratory robotic arm . A YouTube video entitled Arthrobot illustrates some of these in operation .
+
+Retrieved Documents: 3fd10ceac4fa8843a79225f2f2ab75d6.txt, 3fd10ceac4fa8843a79225f2f2ab75d6.txt, 3fd10ceac4fa8843a79225f2f2ab75d6.txt
+
+Raw Retrieved Content:
+The first robot to assist in surgery was the Arthrobot , which was developed and used for the first time in Vancouver in 1983 . Intimately involved were biomedical engineer , Dr. James McEwen , Geof Auchinleck , a UBC engineering physics grad , and Dr. Brian Day as well as a team of engineering students . The robot was used in an orthopaedic surgical procedure on 12 March 1984 , at the UBC Hospital in Vancouver
+
+. Geršak explained that the robot used was the first true robot in the history of robotic surgery , meaning the user interface was not resembling surgical instruments and the robot was not simply imitating the movement of human hands but was guided by pressing buttons , just like one would play a video game . The robot was imported to Slovenia from the United States .
+
+On 12 May 2008 , the first image - guided MR - compatible robotic neurosurgical procedure was performed at University of Calgary by Dr. Garnette Sutherland using the NeuroArm . In June 2008 , the German Aerospace Centre ( DLR ) presented a robotic system for minimally invasive surgery , the MiroSurge . In September 2010 , the Eindhoven University of Technology announced the development of the Sofie surgical system , the first surgical robot to employ force feedback
+
+Processed Retrieved Content:
+The first robot to assist in surgery was the Arthrobot, which was developed and used for the first time in Vancouver in 1983. Intimately involved were biomedical engineer, Dr. James McEwen, Geof Auchinleck, a UBC engineering physics grad, and Dr. Brian Day as well as a team of engineering students. The robot was used in an orthopaedic surgical procedure on 12 March 1984, at the UBC Hospital in Vancouver. Geršak explained that the robot used was the first true robot in the history of robotic surgery, meaning the user interface was not resembling surgical instruments and the robot was not simply imitating the movement of human hands but was guided by pressing buttons, just like one would play a video game. The robot was imported to Slovenia from the United States. On 12 May 2008, the first image - guided MR - compatible robotic neurosurgical procedure was performed at University of Calgary by Dr. Garnette Sutherland using the NeuroArm. In June 2008, the German Aerospace Centre ( DLR ) presented a robotic system for minimally invasive surgery, the MiroSurge. In September 2010, the Eindhoven University of Technology announced the development of the Sofie surgical system, the first surgical robot to employ force feedback
+
+RAG Answer:
+The first robot used in surgery was the Arthrobot, which was used in an orthopaedic surgical procedure on 12 March 1984, at the UBC Hospital in Vancouver.
+
+
+
+
+
+Standard LLM Answer:
+This is a surprisingly complex question! It depends on what you mean by "robot" and "surgery." 
+
+While many people point to the **ROBOTIC SURGERY SYSTEM (RASS)** developed in the late 1980s and early 1990s as the first surgical robot, it wasn't used in a human surgery until **September 1997**.  That's when Dr. Jean-Louis Gauthier used the RASS to perform a laparoscopic cholecystectomy (gallbladder removal) at the Montreal General Hospital in Canada.
+
+However, there's a nuance:
+
+*   **Early Robotic Assistance (1985):** The PUMA 560, a robotic arm, was used to hold a laparoscopic camera steady during a biopsy in 1985. This is often cited as an early form of robotic surgical assistance, but it wasn't performing the surgery itself.
+*   **UroTix (1988):** The UroTix, developed by IBM, was used for prostate surgery, but it was more of a robotic guidance system than a fully autonomous robot.
+
+**Therefore, the most widely accepted answer for the first *surgical robot* used in a human surgery is 1997 with the RASS system.**
+
+It's important to note that the definition of "robot" has evolved, and there were earlier forms of robotic assistance used in surgery, but the RASS is generally considered the first true surgical robot.
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8933
+Standard LLM vs Reference Similarity: 0.7569
+Similarity Improvement: 0.1364

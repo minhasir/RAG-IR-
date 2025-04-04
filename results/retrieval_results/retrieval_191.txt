@@ -1,0 +1,32 @@
+Question: who signed the gun control act of 1968
+
+Reference Answer: The GCA was signed into law by President Lyndon B. Johnson on October 22 , 1968 , and is Title I of the U.S. federal firearms laws . The National Firearms Act of 1934 ( NFA ) is Title II . Both GCA and NFA are enforced by the Bureau of Alcohol , Tobacco , Firearms and Explosives ( ATF ) .
+
+Retrieved Documents: f38d7f9c6868bc92ab6666608a962e7f.txt, f38d7f9c6868bc92ab6666608a962e7f.txt, f38d7f9c6868bc92ab6666608a962e7f.txt
+
+Raw Retrieved Content:
+. House Resolution 17735 , known as the Gun Control Act , was signed into law by President Lyndon B. Johnson on October 22 , 1968 banning mail order sales of rifles and shotguns and prohibiting most felons , drug users and people found mentally incompetent from buying guns .
+
+Passage of the Gun Control Act was initially prompted by the assassination of U.S. President John F. Kennedy in 1963 . The President was shot and killed with a rifle purchased by mail - order from an ad in the magazine American Rifleman . Congressional hearings followed and a ban on mail - order gun sales was discussed , but no law was passed until 1968
+
+The Gun Control Act of 1968 ( GCA or GCA68 ) is a U.S. federal law that regulates the firearms industry and firearms owners . It primarily focuses on regulating interstate commerce in firearms by generally prohibiting interstate firearms transfers except among licensed manufacturers , dealers and importers .
+
+Processed Retrieved Content:
+. House Resolution 17735, known as the Gun Control Act, was signed into law by President Lyndon B. Johnson on October 22, 1968 banning mail order sales of rifles and shotguns and prohibiting most felons, drug users and people found mentally incompetent from buying guns. Passage of the Gun Control Act was initially prompted by the assassination of U.S. President John F. Kennedy in 1963. The President was shot and killed with a rifle purchased by mail - order from an ad in the magazine American Rifleman. Congressional hearings followed and a ban on mail - order gun sales was discussed, but no law was passed until 1968 The Gun Control Act of 1968 ( GCA or GCA68 ) is a U.S. federal law that regulates the firearms industry and firearms owners. It primarily focuses on regulating interstate commerce in firearms by generally prohibiting interstate firearms transfers except among licensed manufacturers, dealers and importers.
+
+RAG Answer:
+President Lyndon B. Johnson signed the Gun Control Act of 1968.
+
+Standard LLM Answer:
+This is a tricky question with a layered answer! Here's the breakdown:
+
+*   **The Gun Control Act of 1968 wasn't signed by a single person.** It was passed by the **United States Congress** (both the House of Representatives and the Senate) and then presented to **President Lyndon B. Johnson**, who then signed it into law.
+
+*   **Therefore, the key figure who formally enacted the Gun Control Act of 1968 was President Lyndon B. Johnson.** He signed the bill after it passed through both houses of Congress.
+
+**Important Note:** While President Johnson signed the bill, the legislative process involved many individuals in Congress who debated, amended, and ultimately voted on the bill.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4698
+Standard LLM vs Reference Similarity: 0.4280
+Similarity Improvement: 0.0418

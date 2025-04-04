@@ -1,0 +1,34 @@
+Question: only indian to reach 2 all england final
+
+Reference Answer: List of All England men 's singles champions - wikipedia List of All England men 's singles champions Below is the list of the winners at the All England Open Badminton Championships
+
+Retrieved Documents: 01ed484334e139f7eb5d74623f178814.txt, 4ba3e34a0c204bf8f381e06a9ca09ad9.txt, 01ed484334e139f7eb5d74623f178814.txt
+
+Raw Retrieved Content:
+. Between 2003 & 2018 either or both Lin Dan and Lee Chong Wei have contested the final with the exception of the final in 2015 , which saw Lin eliminated in the semi-finals and Lee unable to compete due to a doping ban . References ( edit ) All England Champions 1899 - 2007 BadmintonEngland.co.uk badmintoneurope.com Pat Davis : The Encyclopaedia of Badminton
+
+. After his team progressed past Poland on penalties , Ronaldo became the first player to participate in three European Championship semi-finals ; he scored the opening goal and assisted a second in a 2 -- 0 win against Wales , equaling Michel Platini as the competition 's all - time top scorer with nine goals . In the final against hosts France , Ronaldo was forced off after just 25 minutes following a challenge from Dimitri Payet
+
+. of Titles First title Last title First champion Last champion England 27 1900 1938 Sydney Howard Smith Ralph C.F. Nichols Denmark China 20 1939 1999 2018 Tage Madsen Luan Jin Peter Gade Shi Yuqi Indonesia 15 1959 1994 Tan Joe Hok Heryanto Arbi 5 Malaysia 14 1950 2017 Wong Peng Soon Lee Chong Wei 6 Ireland 7 1924 1931 Gordon ' Curly ' Mack Frank Devlin 7 India 1980 2001 Prakash Padukone Pullela Gopichand 8 Sweden United States 1947 1949 1947 1949 Conny Jepsen Dave G. Freeman Conny Jepsen Dave G
+
+Processed Retrieved Content:
+. Between 2003 & 2018 either or both Lin Dan and Lee Chong Wei have contested the final with the exception of the final in 2015, which saw Lin eliminated in the semi-finals and Lee unable to compete due to a doping ban. References ( edit ) All England Champions 1899-2007 BadmintonEngland.co.uk badmintoneurope.com Pat Davis: The Encyclopaedia of Badminton. After his team progressed past Poland on penalties, Ronaldo became the first player to participate in three European Championship semi-finals; he scored the opening goal and assisted a second in a 2 -- 0 win against Wales, equaling Michel Platini as the competition 's all - time top scorer with nine goals. In the final against hosts France, Ronaldo was forced off after just 25 minutes following a challenge from Dimitri Payet. of Titles First title Last title First champion Last champion England 27 1900 1938 Sydney Howard Smith Ralph C.F. Nichols Denmark China 20 1939 1999 2018 Tage Madsen Luan Jin Peter Gade Shi Yuqi Indonesia 15 1959 1994 Tan Joe Hok Heryanto Arbi 5 Malaysia 14 1950 2017 Wong Peng Soon Lee Chong Wei 6 Ireland 7 1924 1931 Gordon ' Curly ' Mack Frank Devlin 7 India 1980 2001 Prakash Padukone Pullela Gopichand 8 Sweden United States 1947 1949 1947 1949 Conny Jepsen Dave G. Freeman Conny Jepsen Dave G
+
+RAG Answer:
+Based on the provided information, Prakash Padukone and Pullela Gopichand are the only Indians to reach 2 All England finals.
+
+Standard LLM Answer:
+The Indian you're referring to is **Prakash Padukone**.
+
+He was the first Indian to reach the final of the All England Badminton Championships (now known as the BWF World Championships) in 1980. He lost to Liem Swie of Indonesia in the final.
+
+Therefore, he is the **only Indian to reach the final of the All England Badminton Championships (two-time finalist)**.
+
+
+
+Let me know if you'd like to know more about his career!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5093
+Standard LLM vs Reference Similarity: 0.5605
+Similarity Improvement: -0.0512

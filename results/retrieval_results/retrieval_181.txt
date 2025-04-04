@@ -1,0 +1,42 @@
+Question: the first civil service commission in india was set up on the basis of recommendation of
+
+Reference Answer: In 1922 , Indian candidates were permitted to sit the ICS examinations in Delhi ; in 1924 , the Lee Commission , chaired by Arthur Lee , 1st Viscount Lee of Fareham ( which eventually led to the foundation of the Federal Public Service Commission and Provincial Public Service Commission under the Government of India Act , 1935 ) made several recommendations : ICS officers should receive increased and more comprehensive levels of compensation , future batches of ICS officers should be composed of 40 % Europeans and 40 % Indians , with the remaining 20 % of appointments to be filled by direct promotion of Indians from the Provincial Civil Services ( PCS ) and the examinations in Delhi and London were to produce an equal number of ICS probationers
+
+Retrieved Documents: 5ca8a4946770f8797b5a21cbd29c3744.txt, 5ca8a4946770f8797b5a21cbd29c3744.txt, 5ca8a4946770f8797b5a21cbd29c3744.txt
+
+Raw Retrieved Content:
+In 1922 , Indian candidates were permitted to sit the ICS examinations in Delhi ; in 1924 , the Lee Commission , chaired by Arthur Lee , 1st Viscount Lee of Fareham ( which eventually led to the foundation of the Federal Public Service Commission and Provincial Public Service Commission under the Government of India Act , 1935 ) made several recommendations : ICS officers should receive increased and more comprehensive levels of compensation , future batches of ICS officers should be composed
+
+The Early Nationalists , also known as the Moderates , worked for several implementation of various social reforms such as the appointment of a Public Service Commission and a resolution of the House of Commons ( 1893 ) allowing for simultaneous examination for the Indian Civil Service in London and India .
+
+Queen Victoria had suggested that the civil servants in India should have an official dress uniform , as did their counterparts in the Colonial Service . However , the Council of India decided that prescribing a dress uniform would be an undue expense for their officials .
+
+Processed Retrieved Content:
+In 1922, Indian candidates were permitted to sit the ICS examinations in Delhi; in 1924, the Lee Commission, chaired by Arthur Lee, 1st Viscount Lee of Fareham ( which eventually led to the foundation of the Federal Public Service Commission and Provincial Public Service Commission under the Government of India Act, 1935 ) made several recommendations: ICS officers should receive increased and more comprehensive levels of compensation, future batches of ICS officers should be composed The Early Nationalists, also known as the Moderates, worked for several implementation of various social reforms such as the appointment of a Public Service Commission and a resolution of the House of Commons ( 1893 ) allowing for simultaneous examination for the Indian Civil Service in London and India. Queen Victoria had suggested that the civil servants in India should have an official dress uniform, as did their counterparts in the Colonial Service. However, the Council of India decided that prescribing a dress uniform would be an undue expense for their officials.
+
+RAG Answer:
+The first civil service commission in India was set up on the basis of the recommendation of the Lee Commission.
+
+Standard LLM Answer:
+You're asking a great question about the history of civil service in India! Here's a breakdown of the answer, building on your question and clarifying the key points:
+
+**The First Civil Service Commission in India**
+
+*   **Established:** 1886
+*   **Based on the Recommendations of:** The Islington Commission (also known as the Royal Commission on the Indian Civil Service).
+*   **Why was it formed?** The Islington Commission was formed in 1886 to review the Indian Civil Service (ICS). There was growing criticism of the ICS, particularly regarding its recruitment practices, training, and its perceived lack of responsiveness to Indian needs.
+*   **Key Recommendations & Impact:** The Islington Commission's report led to significant changes:
+    *   **Formal Examination:** It introduced a formal, competitive examination system in England to recruit civil servants for India. This was a shift from the previous system where most positions were filled through patronage and nomination.
+    *   **Training:** It emphasized the need for better training for civil servants, both in the UK and in India.
+    *   **Indian Representation:** While the commission didn't immediately lead to a large increase in Indian representation, it did acknowledge the need for greater inclusion in the civil service.
+
+**In essence, the first Civil Service Commission in India was a direct result of the Islington Commission's report, aiming to reform and modernize the recruitment and training of civil servants.**
+
+
+
+Let me know if you'd like to delve into any of these aspects in more detail!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6341
+Standard LLM vs Reference Similarity: 0.5738
+Similarity Improvement: 0.0604

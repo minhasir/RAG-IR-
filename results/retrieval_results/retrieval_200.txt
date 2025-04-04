@@ -1,0 +1,41 @@
+Question: when does the next season of the greenhouse come out on netflix
+
+Reference Answer: On January 18 , 2018 , the official Greenhouse Academy Instagram account announced that Season 2 would be released on Netflix on February 14 , 2018
+
+Retrieved Documents: a22d3f8c0f97fdadc2f3bac976cf3285.txt, a22d3f8c0f97fdadc2f3bac976cf3285.txt, a22d3f8c0f97fdadc2f3bac976cf3285.txt
+
+Raw Retrieved Content:
+. On January 18 , 2018 , the official Greenhouse Academy Instagram account announced that Season 2 would be released on Netflix on February 14 , 2018 .
+
+Greenhouse Academy is a tween drama television series released by Netflix . Based on the Israeli television series The Greenhouse ( Ha - Hamama ) , created by Giora Chamizer , the series was adapted for international audiences by Chamizer and Paula Yoo . The first season of the series was released on Netflix on September 8 , 2017 . The second season was released on Netflix on February 14 , 2018 .
+
+Greenhouse Academy is a Netflix original series based on the Israeli tween - drama The Greenhouse ( Ha - Hamama ) , which ran on Nickelodeon Israel . Both versions were created by Giora Chamizer and produced by Nutz Productions , a subsidiary of Ananey Communications . Two seasons consisting of a total of 24 episodes were produced . The series was filmed in summer 2016 in Tel Aviv and at other locations in Israel . The first season was released on Netflix on September 8 , 2017
+
+Processed Retrieved Content:
+. On January 18, 2018, the official Greenhouse Academy Instagram account announced that Season 2 would be released on Netflix on February 14, 2018. Greenhouse Academy is a tween drama television series released by Netflix. Based on the Israeli television series The Greenhouse ( Ha - Hamama ), created by Giora Chamizer, the series was adapted for international audiences by Chamizer and Paula Yoo. The first season of the series was released on Netflix on September 8, 2017. The second season was released on Netflix on February 14, 2018. Greenhouse Academy is a Netflix original series based on the Israeli tween - drama The Greenhouse ( Ha - Hamama ), which ran on Nickelodeon Israel. Both versions were created by Giora Chamizer and produced by Nutz Productions, a subsidiary of Ananey Communications. Two seasons consisting of a total of 24 episodes were produced. The series was filmed in summer 2016 in Tel Aviv and at other locations in Israel. The first season was released on Netflix on September 8, 2017
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The provided text details the release dates of the first two seasons, but does not mention any future seasons or release dates.
+
+Standard LLM Answer:
+Okay, let's tackle this! You're asking about the release date of the next season of "The Greenhouse" (likely referring to "The Greenhouse Academy") on Netflix.
+
+Here's the current information:
+
+*   **No new season has been announced.** As of today, June 12, 2024, Netflix has not officially announced a renewal or release date for a fourth season of "The Greenhouse Academy."
+*   **Last Season:** Season 3 was released in 2021.
+*   **Status:** The show's future is uncertain. It hasn't been canceled, but it also hasn't been renewed. Netflix's decision-making process can be unpredictable.
+
+**Where to stay updated:**
+
+*   **Netflix's official announcements:** Keep an eye on the Netflix media center ([https://press.netflix.com/](https://press.netflix.com/)) and their social media channels.
+*   **Fan communities:** Follow fan pages and forums dedicated to "The Greenhouse Academy" – they often share news and rumors.
+
+
+
+I'll keep an eye out for any updates and will let you know if there's news about a fourth season!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5148
+Standard LLM vs Reference Similarity: 0.7457
+Similarity Improvement: -0.2309

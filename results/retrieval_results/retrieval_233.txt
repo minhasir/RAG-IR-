@@ -1,0 +1,47 @@
+Question: what is different in national anthem of spain
+
+Reference Answer: Marcha Real English : Royal March 1761 sheet music National anthem of Spain Lyrics None Music Manuel de Espinosa de los Monteros , 1761 , Bartolomé Pérez Casas ( orchestration ) , Francisco Grau ( harmonization ) Adopted 1770 Audio sample Marcha Real file help The Marcha Real ( Spanish pronunciation : ( ˈmartʃa reˈal ) , `` Royal March '' ) is the national anthem of Spain
+
+Retrieved Documents: 01b4856d432e074af1b5680f24882412.txt, 01b4856d432e074af1b5680f24882412.txt, 01b4856d432e074af1b5680f24882412.txt
+
+Raw Retrieved Content:
+The Marcha Real ( Spanish pronunciation : ( ˈmartʃa reˈal ) , `` Royal March '' ) is the national anthem of Spain . It is one of only four national anthems in the world ( along with those of Bosnia and Herzegovina , Kosovo , and San Marino ) that has no official lyrics .
+
+Under the Trienio Liberal ( 1820 -- 1823 ) , the First Spanish Republic ( 1873 -- 74 ) ( when it enjoyed of a co-officiality ) and the Second Spanish Republic ( 1931 -- 1939 ) , El Himno de Riego replaced La Marcha Real as the national anthem of Spain . At the conclusion of the Spanish Civil War , however , Francisco Franco restored La Marcha Real as the country 's national anthem , under its old title of La Marcha Granadera .
+
+. Spain will triumph ! The rhythm of the anvils and wheels will sing to the sound of the ( Spanish ) anthem of faith . Let 's stand together and sing for a better life full of labour and peace . Let 's stand together and sing for a better life full of labour and peace . Long Live Spain ! Raise your arms , Sons of the Spanish Nation , which is rising once again . Long Live Spain ! Raise your arms , Sons of the Spanish Nation , which is rising once again
+
+Processed Retrieved Content:
+The Marcha Real ( Spanish pronunciation: ( ˈmartʃa reˈal ), `` Royal March '' ) is the national anthem of Spain. It is one of only four national anthems in the world ( along with those of Bosnia and Herzegovina, Kosovo, and San Marino ) that has no official lyrics. Under the Trienio Liberal ( 1820 -- 1823 ), the First Spanish Republic ( 1873 -- 74 ) ( when it enjoyed of a co-officiality ) and the Second Spanish Republic ( 1931 -- 1939 ), El Himno de Riego replaced La Marcha Real as the national anthem of Spain. At the conclusion of the Spanish Civil War, however, Francisco Franco restored La Marcha Real as the country 's national anthem, under its old title of La Marcha Granadera.. Spain will triumph! The rhythm of the anvils and wheels will sing to the sound of the ( Spanish ) anthem of faith. Let 's stand together and sing for a better life full of labour and peace. Let 's stand together and sing for a better life full of labour and peace. Long Live Spain! Raise your arms, Sons of the Spanish Nation, which is rising once again. Long Live Spain! Raise your arms, Sons of the Spanish Nation, which is rising once again
+
+RAG Answer:
+Based on the provided information, the difference in the national anthem of Spain is that it is one of only four national anthems in the world that has no official lyrics. It was also replaced by El Himno de Riego during the Trienio Liberal, the First Spanish Republic, and the Second Spanish Republic, but was restored by Francisco Franco after the Spanish Civil War.
+
+Standard LLM Answer:
+Okay, let's break down the differences in the Spanish National Anthem ("Marcha Real") compared to many other national anthems. It's quite unique!
+
+Here's a breakdown of what makes the Spanish National Anthem different, focusing on the key points that often surprise people:
+
+**1. It's Wordless:** This is the *biggest* and most striking difference. Most national anthems have lyrics. The "Marcha Real" (Royal March) has *no official words*.  There have been attempts to create lyrics over the years, but none have been officially adopted. This is incredibly rare.
+
+**2. Its Origin and History:**
+*   **Composed in 1761:** It was originally composed by Dominique Rodríguez-Simó for King Charles III's coronation. It wasn't initially intended as a national anthem.
+*   **Used Sporadically:** It has been used as a symbol of Spain on and off throughout history, sometimes falling out of favor.
+*   **Restored in 1982:** After a period of using other patriotic songs, it was officially reinstated as the national anthem in 1982, following the Spanish transition to democracy.
+
+**3. Its Musical Style:**
+*   **March:** As the name suggests ("Marcha Real" means "Royal March"), it's a military march. It has a stately, formal, and somewhat old-fashioned feel.
+*   **Simple Melody:** The melody itself is relatively simple and repetitive.
+
+**4. How it's Used Today:**
+*   **Ceremonial Occasions:** It's played at official state events, sporting events (though often alongside the playing of the national anthem of the opposing team), and other ceremonies.
+*   **Lack of Emotional Connection:** Because it has no lyrics, it can be difficult for some people to feel a strong emotional connection to it compared to anthems with words that tell a story or express national pride.
+
+
+
+**In short, the most significant difference is the absence of lyrics. This makes it a very unusual national anthem in the global context.**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5813
+Standard LLM vs Reference Similarity: 0.8195
+Similarity Improvement: -0.2382

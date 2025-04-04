@@ -1,0 +1,34 @@
+Question: who plays frank in f is for family
+
+Reference Answer: Bill Burr as Francis X . `` Frank '' Murphy -- Frank is a disillusioned , short - tempered , foul - mouthed , Irish - American , Korean War veteran and father of three who lives in the Great Lakes region of town during the mid-1970s . He is prone to angry , profane rants . As a parent , Frank often responds to his children with profanity and emotional abuse . The Murphy children often go out of their way to avoid upsetting their father . Frank works as a baggage handler at the local Mohican Airlines , and is promoted to management after his boss dies in a violent workplace accident . Frank is usually seen spending many hours in front of his television set while at home . Frank 's favorite show is an action series called Colt Luger . Luger , an overweight middle - aged character who is portrayed as an unerringly victorious hero . When facing dire situations , Luger utters the phrase `` Sometimes , a man 's got to do ... what a man does '' , much to Frank 's excitement .
+
+Retrieved Documents: cbfee29d259ebc2e170a8f8e2b3f655e.txt, cbfee29d259ebc2e170a8f8e2b3f655e.txt, 7a985cda717aaf7df9289565f7cfe296.txt
+
+Raw Retrieved Content:
+F Is for Family is an American web animated sitcom created by Bill Burr and Michael Price and produced by Gaumont International Television and Vince Vaughn 's Wild West Television .
+
+The show premiered on December 18 , 2015 to generally favorable reviews . Season 2 premiered May 30 , 2017 . On June 28 , 2017 , the show was renewed for a third season .
+
+On July 1 , 2018 , Burr confirmed season 3 for a November 2018 release at a show in Detroit .
+
+The series has received generally positive reviews . On Rotten Tomatoes the first season holds a rating of 82 % based on 17 reviews , with an average score of 6.56 / 10 . The site 's critical consensus reads , `` While the humor relies on vulgarity , the strength of F Is for Family is its substantial heart . '' On Metacritic , the first season holds a score of 75 out of 100 , based on 14 reviews , indicating `` Generally favorable reviews '' .
+
+On March 18 , 2011 , it was announced that Spacey was cast as Frank Underwood in the Netflix series House of Cards . He was nominated for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series at the 65th Primetime Emmy Awards in 2013 becoming the first lead actor to be Primetime Emmy nominated from a web television series
+
+Processed Retrieved Content:
+F Is for Family is an American web animated sitcom created by Bill Burr and Michael Price and produced by Gaumont International Television and Vince Vaughn 's Wild West Television. The show premiered on December 18, 2015 to generally favorable reviews. Season 2 premiered May 30, 2017. On June 28, 2017, the show was renewed for a third season. On July 1, 2018, Burr confirmed season 3 for a November 2018 release at a show in Detroit. The series has received generally positive reviews. On Rotten Tomatoes the first season holds a rating of 82 % based on 17 reviews, with an average score of 6.56 / 10. The site 's critical consensus reads, `` While the humor relies on vulgarity, the strength of F Is for Family is its substantial heart. '' On Metacritic, the first season holds a score of 75 out of 100, based on 14 reviews, indicating `` Generally favorable reviews ''. On March 18, 2011, it was announced that Spacey was cast as Frank Underwood in the Netflix series House of Cards. He was nominated for the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series at the 65th Primetime Emmy Awards in 2013 becoming the first lead actor to be Primetime Emmy nominated from a web television series
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The information states Kevin Spacey was cast as Frank Underwood in the Netflix series House of Cards, not F Is for Family.
+
+Standard LLM Answer:
+Frank is played by **Stephen Root** in the Canadian sitcom *F Is for Family*.
+
+
+
+He'|s a fantastic character actor, and Root brings a lot of heart and humor to the role of Frank.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3385
+Standard LLM vs Reference Similarity: 0.5565
+Similarity Improvement: -0.2180

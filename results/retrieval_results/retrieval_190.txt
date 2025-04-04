@@ -1,0 +1,32 @@
+Question: who did melanie hughes play in coronation st
+
+Reference Answer: Cooper 1964 , 1965 , 1970 , 1971 Grace Piper Ella - Grace Gregoire 2013 Christopher Pitcher Michael Dixon 2006 Allan Platt Kevin Williams 1965 Martin Platt Sean Wilson 1985 -- 2005 , 2018 Barbara Platt Barbara Young 1991 Barry Platt John Jardine Richard Conway 1991 Billy Platt Unknown Ethel Platt Julia Lang 1977 Kylie Platt Paula Lane 2010 -- 2016 Vince Plummer Garfield Morgan 1961 Patric Podevin Franck Dubosc 1987 -- 1988 Elaine Pollard Janette Beverley 1984 Tanya Pooley Eva Pope 1993 -- 1994 Ginny Portis Ashley McGuire 2011 John Potter Ian Shaw 1967 Stan Potter Noddy Holder 2000 Harry Potts Russell Dixon 1992 , 1993 , 1995 Walter Potts Christoper Sandford 1963 -- 1964 Cathy Power Theresa Brindley 1994 , 1995 Janet Powers Carol Starks 2010 , 2011 Sian Powers Sacha Parkinson 2009 -- 2011 Vinnie Powers Ian Dunn 2009 , 2010 Dawn Prescott Louise Harrison 1989 Robert Prescott James Gaddas 1989 Douglas Preston John Baddeley 1967 Joni Preston Sarah Harding 2015 Maurice Preston Seamus O'Neill
+
+Retrieved Documents: 004381db9e78df42d11c0c0387f1bb83.txt, 0659eaffa92a67b99839a5936475c274.txt, 004381db9e78df42d11c0c0387f1bb83.txt
+
+Raw Retrieved Content:
+David and her granddaughter Bethany Platt ( Emily Walton / Lucy Fallon ) by Richard and being driven into the canal by him ; her feud with Eileen Grimshaw ( Sue Cleaver ) after her son Todd ( Bruno Langley ) comes out as gay while dating Sarah ; throwing David out after he hides drugs in Bethany 's toys ; being pushed down the stairs by David after he discovers that she took Tina McIntyre ( Michelle Keegan ) to a private abortion clinic to terminate a pregnancy fathered by David , marrying Tina
+
+Pippa then gives birth to a son , Christopher ( Ashleigh Bell - Weir ) and a christening is held . Pippa and Tom later adopt Sally . When Tom suffers a heart attack and is hospitalized for several weeks , Pippa begins to feel the strain . Coral visits and offers to help out physically and financially . It soon emerges that Coral is shoplifting and she tells Pippa she misses the standard of living prior to Bert 's retirement
+
+Gail learns that David is engaged to Kylie Turner ( Paula Lane ) and is against the marriage . Once David and Kylie are married Gail later warms to the marriage and allows them both to continue living with her . Gail and Audrey bump into Audrey 's ex-boyfriend , professional con artist , Lewis Archer ( Nigel Havers ) . They report him to the police but he is not charged and returns to Weatherfield , much to Audrey 's horror . They reconcile , much to Gail 's disgust , and live happily together
+
+Processed Retrieved Content:
+David and her granddaughter Bethany Platt ( Emily Walton / Lucy Fallon ) by Richard and being driven into the canal by him; her feud with Eileen Grimshaw ( Sue Cleaver ) after her son Todd ( Bruno Langley ) comes out as gay while dating Sarah; throwing David out after he hides drugs in Bethany 's toys; being pushed down the stairs by David after he discovers that she took Tina McIntyre ( Michelle Keegan ) to a private abortion clinic to terminate a pregnancy fathered by David, marrying Tina Pippa then gives birth to a son, Christopher ( Ashleigh Bell - Weir ) and a christening is held. Pippa and Tom later adopt Sally. When Tom suffers a heart attack and is hospitalized for several weeks, Pippa begins to feel the strain. Coral visits and offers to help out physically and financially. It soon emerges that Coral is shoplifting and she tells Pippa she misses the standard of living prior to Bert 's retirement Gail learns that David is engaged to Kylie Turner ( Paula Lane ) and is against the marriage. Once David and Kylie are married Gail later warms to the marriage and allows them both to continue living with her. Gail and Audrey bump into Audrey 's ex-boyfriend, professional con artist, Lewis Archer ( Nigel Havers ). They report him to the police but he is not charged and returns to Weatherfield, much to Audrey 's horror. They reconcile, much to Gail 's disgust, and live happily together
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text does not mention Melanie Hughes or a character she played.
+
+Standard LLM Answer:
+This is a tricky one! Melanie Hughes (who is now known as Melanie Hughes-Griffiths) actually played **Geena** in Coronation Street. 
+
+Geena was a recurring character, a friend of Audrey Roberts, and appeared on and off screen between 1982 and 1986.
+
+
+
+It's easy to get confused because Melanie Hughes is a relatively minor character in the show's history, and the role isn't hugely memorable.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3164
+Standard LLM vs Reference Similarity: 0.2735
+Similarity Improvement: 0.0429

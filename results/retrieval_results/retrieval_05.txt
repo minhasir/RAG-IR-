@@ -1,0 +1,38 @@
+Question: who was the first ministry head of state in nigeria
+
+Reference Answer: 1 Governors - General 2 First Republic ( 1963 -- 1966 ) 3 Military rule ( 1966 -- 1979 ) 4 Second Republic ( 1979 -- 1983 ) 5 Military rule ( 1983 -- 1993 ) 6 Third Republic ( 1993 ) 7 Military rule ( 1993 -- 1999 ) 8 Fourth Nigerian Republic 9 Living former heads of state 10 References 11 External links Monarchs ( 1960 -- 1963 ) ( edit ) The succession to the throne was the same as the succession to the British throne
+
+Retrieved Documents: fb0e1390d786b35757737494d419e1c3.txt, fb0e1390d786b35757737494d419e1c3.txt, fb0e1390d786b35757737494d419e1c3.txt
+
+Raw Retrieved Content:
+This is a list of the heads of state of Nigeria , from independence in 1960 to the present day .
+
+From 1960 to 1963 the head of state under the Nigeria Independence Act 1960 was the Queen of Nigeria , Elizabeth II , who was also monarch of the United Kingdom and the other Commonwealth realms . The Queen was represented in Nigeria by a Governor - General . Nigeria became a federal republic under the Constitution of 1963 and the monarch and Governor - General were replaced by a ceremonial President
+
+. Since Nigeria was granted independence by the Nigeria Independence Act 1960 , rather than being first established as a semi-autonomous Dominion and later promoted to independence by the Statute of Westminster 1931 , the Governor - General was appointed solely on the advice of the Nigerian cabinet without the involvement of the British government , with the sole of exception of James Robertson , the former colonial governor , who served as Governor - General temporarily until he was replaced by
+
+Processed Retrieved Content:
+This is a list of the heads of state of Nigeria, from independence in 1960 to the present day. From 1960 to 1963 the head of state under the Nigeria Independence Act 1960 was the Queen of Nigeria, Elizabeth II, who was also monarch of the United Kingdom and the other Commonwealth realms. The Queen was represented in Nigeria by a Governor - General. Nigeria became a federal republic under the Constitution of 1963 and the monarch and Governor - General were replaced by a ceremonial President. Since Nigeria was granted independence by the Nigeria Independence Act 1960, rather than being first established as a semi-autonomous Dominion and later promoted to independence by the Statute of Westminster 1931, the Governor - General was appointed solely on the advice of the Nigerian cabinet without the involvement of the British government, with the sole of exception of James Robertson, the former colonial governor, who served as Governor - General temporarily until he was replaced by
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text details heads of state from 1960 onwards, starting with Queen Elizabeth II, but does not specify who the first "ministry head of state" was. It mentions a Governor-General representing the Queen, but doesn't clarify their role as a "ministry head of state."
+
+Standard LLM Answer:
+This is a tricky question! It depends on what you mean by "ministry head of state." Nigeria's first *Prime Minister* was **Sir Abubakar Tafawa Balewa** in 1960. However, Nigeria didn's have a President until 1963. 
+
+Here's the breakdown:
+
+*   **1960-1963:** Nigeria was a constitutional monarchy with Queen Elizabeth II as Head of State and Sir Abubakar Tafawa Balewa as Prime Minister. The Prime Minister was the head of government.
+*   **1963-1966:** Nigeria became a republic with **Dr. Nnamdi Azikiwe** as the first President. He was the Head of State, but the Prime Minister (later replaced by a Prime Minister and President) still held significant executive power.
+
+Therefore, depending on your interpretation:
+
+*   **If you mean the first head of government:** Sir Abubakar Tafawa Balewa.
+*   **If you mean the first Head of State in a Republic:** Dr. Nnamdi Azikiwe.
+
+Most sources would consider **Sir Abubakar Tafawa Balewa** as the answer to the question of the first "ministry head of state" in the context of Nigeria's early governance.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3242
+Standard LLM vs Reference Similarity: 0.6616
+Similarity Improvement: -0.3374

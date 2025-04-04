@@ -1,0 +1,51 @@
+Question: what is the capital of bulgaria on a map
+
+Reference Answer: Bulgaria ( / bʌlˈɡɛəriə , bʊl - / ( listen ) ; Bulgarian : България , tr . Bǎlgariya ) , officially the Republic of Bulgaria ( Bulgarian : Република България , tr . Republika Bǎlgariya , IPA : ( rɛˈpublikɐ bɐɫˈɡarijɐ ) ) , is a country in southeastern Europe . It is bordered by Romania to the north , Serbia and Macedonia to the west , Greece and Turkey to the south , and the Black Sea to the east . The capital and largest city is Sofia ; other major cities are Plovdiv , Varna and Burgas . With a territory of 110,994 square kilometres ( 42,855 sq mi ) , Bulgaria is Europe 's 16th - largest country .
+
+Retrieved Documents: 01a151debf2bfee8906f43f4342eb10b.txt, 01a151debf2bfee8906f43f4342eb10b.txt, 01a151debf2bfee8906f43f4342eb10b.txt
+
+Raw Retrieved Content:
+Bulgaria ( / bʌlˈɡɛəriə , bʊl - / ( listen ) ; Bulgarian : България , tr . Bǎlgariya ) , officially the Republic of Bulgaria ( Bulgarian : Република България , tr . Republika Bǎlgariya , IPA : ( rɛˈpublikɐ bɐɫˈɡarijɐ ) ) , is a country in southeastern Europe . It is bordered by Romania to the north , Serbia and Macedonia to the west , Greece and Turkey to the south , and the Black Sea to the east . The capital and largest city is Sofia ; other major cities are Plovdiv , Varna and Burgas
+
+Bulgaria occupies a portion of the eastern Balkan peninsula , bordering five countries -- Greece and Turkey to the south , Macedonia and Serbia to the west , and Romania to the north . The land borders have a total length of 1,808 kilometres ( 1,123 mi ) , and the coastline has a length of 354 kilometres ( 220 mi ) . Its total area of 110,994 square kilometres ( 42,855 sq mi ) ranks it as the world 's 105th - largest country . Bulgaria 's geographic coordinates are 43 ° N 25 ° E .
+
+Since the adoption of a democratic constitution in 1991 , Bulgaria has functioned as a unitary parliamentary republic with a high degree of political , administrative , and economic centralisation . Most commercial and administrative activities are concentrated in its capital and largest city of Sofia . The predominantly urbanised population of seven million people mainly inhabits the primary cities of the 28 provinces
+
+Processed Retrieved Content:
+Bulgaria ( / bʌlˈɡɛəriə, bʊl - / ( listen ); Bulgarian: България, tr. Bǎlgariya ), officially the Republic of Bulgaria ( Bulgarian: Република България, tr. Republika Bǎlgariya, IPA: ( rɛˈpublikɐ bɐɫˈɡarijɐ ) ), is a country in southeastern Europe. It is bordered by Romania to the north, Serbia and Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. The capital and largest city is Sofia; other major cities are Plovdiv, Varna and Burgas Bulgaria occupies a portion of the eastern Balkan peninsula, bordering five countries -- Greece and Turkey to the south, Macedonia and Serbia to the west, and Romania to the north. The land borders have a total length of 1,808 kilometres ( 1,123 mi ), and the coastline has a length of 354 kilometres ( 220 mi ). Its total area of 110,994 square kilometres ( 42,855 sq mi ) ranks it as the world 's 105th - largest country. Bulgaria 's geographic coordinates are 43 ° N 25 ° E. Since the adoption of a democratic constitution in 1991, Bulgaria has functioned as a unitary parliamentary republic with a high degree of political, administrative, and economic centralisation. Most commercial and administrative activities are concentrated in its capital and largest city of Sofia. The predominantly urbanised population of seven million people mainly inhabits the primary cities of the 28 provinces
+
+RAG Answer:
+Based on the provided information, the capital and largest city of Bulgaria is Sofia. However, the provided text does not contain any information about its location on a map.
+
+Standard LLM Answer:
+Okay, let's break this down and answer your question, which is essentially asking: "Where is Sofia, the capital of Bulgaria, on a map?"
+
+Here's the information you need:
+
+*   **Capital of Bulgaria:** Sofia
+*   **Location on a Map:**
+    *   **Continent:** Europe
+    *   **Region:** Southeastern Europe, in the Balkan Peninsula.
+    *   **Coordinates:** Approximately 42.0874° N, 23.3241° E
+    *   **Neighboring Countries:** Bulgaria borders Greece, North Macedonia, Serbia, and Romania.
+
+**How to find it on a map:**
+
+1.  **Find Europe:** Locate the continent of Europe on a world map.
+2.  **Find the Balkan Peninsula:** Look for the peninsula that juts out from the east side of the Mediterranean Sea. This is the Balkan Peninsula.
+3.  **Look for Bulgaria:** Bulgaria is a country within the Balkan Peninsula. It's roughly in the center-east of the peninsula.
+4.  **Sofia:** Sofia is located in the western part of Bulgaria, near the Serbian border. It's a major city and transportation hub.
+
+**Resources to help you visualize:**
+
+*   **Google Maps:** [https://www.google.com/maps/place/Sofia,+Sofia+City+Province,+Bulgaria/@42.0874°N,23.3241°E,11z](https://www.google.com/maps/place/Sofia,+Sofia+City+Province,+Bulgaria/@42.0874°N,23.3241°E,11z)
+*   **Wikipedia Map of Bulgaria:** [https://en.wikipedia.org/wiki/Bulgaria#/media/File:Bulgaria_location_map.svg](https://en.wikipedia.org/wiki/Bulgaria#/media/File:Bulgaria_location_map.svg)
+
+
+
+I hope this helps you find Sofia on a map!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7938
+Standard LLM vs Reference Similarity: 0.7579
+Similarity Improvement: 0.0359

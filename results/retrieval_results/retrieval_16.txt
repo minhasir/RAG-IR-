@@ -1,0 +1,31 @@
+Question: who are uncle owen and aunt beru related to
+
+Reference Answer: Star Wars : Episode II -- Attack of the Clones reveals that , in Anakin 's absence , Shmi has married Cliegg Lars , becoming the stepmother of Owen . Owen tells Anakin they are stepbrothers . Owen later marries Beru Whitesun . As a Jedi Knight , Anakin secretly marries Padmé Amidala .
+
+Retrieved Documents: b2e3d6a484e0eeca979d5b14df7f92c3.txt, 50024bbaef7407d18131c19c659b8fed.txt, b2e3d6a484e0eeca979d5b14df7f92c3.txt
+
+Raw Retrieved Content:
+Star Wars : Episode II -- Attack of the Clones reveals that , in Anakin 's absence , Shmi has married Cliegg Lars , becoming the stepmother of Owen . Owen tells Anakin they are stepbrothers . Owen later marries Beru Whitesun . As a Jedi Knight , Anakin secretly marries Padmé Amidala .
+
+Bassett : The family gardener and friend . Is the one who gets Paul into horse racing , and later becomes `` betting partners '' .
+
+Oscar Creswell : Paul 's uncle and his mother 's brother . Provided the money that Paul used to make his first win at the horse race . Signed the lawyer papers in order for Paul 's mother to receive `` one thousand pounds at a time , on the mother 's birthday , for the next five years '' . Oscar becomes partners with Paul and Bassett .
+
+In the Star Wars expanded universe , Luke , following his sister 's marriage to Han Solo and the birth of the Solo children ( Anakin , Jacen , and Jaina ) , marries Mara Jade , who has a son named Ben . A further complication in this continuity is the fact that the Return of the Jedi novelization includes a detail about Owen Lars being Obi - Wan Kenobi 's estranged brother
+
+Processed Retrieved Content:
+Star Wars: Episode II -- Attack of the Clones reveals that, in Anakin 's absence, Shmi has married Cliegg Lars, becoming the stepmother of Owen. Owen tells Anakin they are stepbrothers. Owen later marries Beru Whitesun. As a Jedi Knight, Anakin secretly marries Padmé Amidala. Bassett: The family gardener and friend. Is the one who gets Paul into horse racing, and later becomes `` betting partners ''. Oscar Creswell: Paul 's uncle and his mother 's brother. Provided the money that Paul used to make his first win at the horse race. Signed the lawyer papers in order for Paul 's mother to receive `` one thousand pounds at a time, on the mother 's birthday, for the next five years ''. Oscar becomes partners with Paul and Bassett. In the Star Wars expanded universe, Luke, following his sister 's marriage to Han Solo and the birth of the Solo children ( Anakin, Jacen, and Jaina ), marries Mara Jade, who has a son named Ben. A further complication in this continuity is the fact that the Return of the Jedi novelization includes a detail about Owen Lars being Obi - Wan Kenobi 's estranged brother
+
+RAG Answer:
+Based on the provided information, uncle Owen is related to Anakin Skywalker as stepbrothers. Aunt Beru is married to Owen. The information states Owen Lars is Obi-Wan Kenobi’s estranged brother, and that Shmi has married Cliegg Lars, becoming the stepmother of Owen. However, the exact relationship between Owen and Beru to other characters beyond Anakin and Obi-Wan is not detailed.
+
+Standard LLM Answer:
+Uncle Owen and Aunt Beru are Luke Skywalker's aunt and uncle, making them Luke's maternal aunt and uncle. They are **Luke's mother's brother and wife**. 
+
+They took Luke in after his parents died.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7357
+Standard LLM vs Reference Similarity: 0.5486
+Similarity Improvement: 0.1871

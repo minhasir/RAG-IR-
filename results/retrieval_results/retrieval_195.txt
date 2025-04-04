@@ -1,0 +1,41 @@
+Question: when does season five of the killing come out
+
+Reference Answer: AMC announced the series ' cancellation in July 2012 , but picked it up for a third season after a renegotiation with Fox Television Studios and Netflix . The Killing was again cancelled by AMC in September 2013 , but Netflix announced in November 2013 that it had ordered a fourth season consisting of six episodes to conclude the series . The complete fourth season was released on Netflix on August 1 , 2014 .
+
+Retrieved Documents: 3200e109c1c082033974bbfa2dcefbf2.txt, 3200e109c1c082033974bbfa2dcefbf2.txt, c401f4f8c91179b9adec10d56086f152.txt
+
+Raw Retrieved Content:
+AMC announced the series ' cancellation in July 2012 , but picked it up for a third season after a renegotiation with Fox Television Studios and Netflix . The Killing was again cancelled by AMC in September 2013 , but Netflix announced in November 2013 that it had ordered a fourth season consisting of six episodes to conclude the series . The complete fourth season was released on Netflix on August 1 , 2014 .
+
+AMC ultimately canceled the series after the third season in September 2013 . However , in November 2013 , two months after its cancellation , Netflix announced it had picked up The Killing for a fourth and final season consisting of six episodes . Cast members Mireille Enos and Joel Kinnaman returned , with Veena Sud as showrunner , and executive producers Dawn Prestwich and Nicole Yorkin returning as writers .
+
+In February 2017 , the season was renewed for a fifth season which aired on January 29 , 2018 . On 11 October 2017 , the fifth season was officially confirmed at Nine 's upfronts and again will include 11 couples like the previous season . During the fifth season , 11 female contestants are matched with their ' perfect ' male partner by a panel of experts . In the first episode , the first two couples ( Tracey & Dean , Sarah & Telv ) met and wed in Sydney and Melbourne
+
+Processed Retrieved Content:
+AMC announced the series ' cancellation in July 2012, but picked it up for a third season after a renegotiation with Fox Television Studios and Netflix. The Killing was again cancelled by AMC in September 2013, but Netflix announced in November 2013 that it had ordered a fourth season consisting of six episodes to conclude the series. The complete fourth season was released on Netflix on August 1, 2014. AMC ultimately canceled the series after the third season in September 2013. However, in November 2013, two months after its cancellation, Netflix announced it had picked up The Killing for a fourth and final season consisting of six episodes. Cast members Mireille Enos and Joel Kinnaman returned, with Veena Sud as showrunner, and executive producers Dawn Prestwich and Nicole Yorkin returning as writers. In February 2017, the season was renewed for a fifth season which aired on January 29, 2018. On 11 October 2017, the fifth season was officially confirmed at Nine 's upfronts and again will include 11 couples like the previous season. During the fifth season, 11 female contestants are matched with their ' perfect ' male partner by a panel of experts. In the first episode, the first two couples ( Tracey & Dean, Sarah & Telv ) met and wed in Sydney and Melbourne
+
+RAG Answer:
+Based on the provided information, season five of The Killing aired on January 29, 2018.
+
+Standard LLM Answer:
+Okay, let's break down the release information for Killing Eve Season 5, as it's a bit complicated due to production changes.
+
+**Here's the situation:**
+
+*   **Originally Planned:** Season 5 was intended to be the final season. Production was initially underway.
+*   **Production Restart & Changes:** Due to creative changes and behind-the-scenes issues, production was halted and then restarted with a new writing team. This significantly altered the direction of the final season.
+*   **Release Date:** **April 28, 2024** on AMC+ and BBC America.
+
+**Where to Watch:**
+
+*   **United States:** AMC+ and BBC America
+*   **United Kingdom:** BBC America
+
+
+
+I hope this clarifies the release details for Killing Eve Season 5!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6439
+Standard LLM vs Reference Similarity: 0.5665
+Similarity Improvement: 0.0774

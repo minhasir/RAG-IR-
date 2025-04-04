@@ -1,0 +1,46 @@
+Question: all songs of movie ajab prem ki gajab kahani
+
+Reference Answer: 5 / 5 and praised the music composer saying , `` This is Pritam 's year , delivering chartbusters by dozens all through the year , he can now look forward to another bountiful of hit songs up his sleeves with Ajab Prem Ki Ghazab Kahani
+
+Retrieved Documents: 486a72255b21af269c02c96018e54267.txt, 486a72255b21af269c02c96018e54267.txt, 486a72255b21af269c02c96018e54267.txt
+
+Raw Retrieved Content:
+The soundtrack received generally favorable reviews from critics . Samir Dave of Planet Bollywood gave it a rating of 7.5 / 10 and said , `` If you are looking for an enjoyable potpourri of different musical styles , and melody , then you will love what Pritam has served up for , `` Ajab Prem Ki Ghazab Kahani '' . It deserves to be at the top of the charts ``
+
+. It deserves to be at the top of the charts `` . Joginder Tuteja of Bollywood Hungama rated it 3.5 / 5 and praised the music composer saying , `` This is Pritam 's year , delivering chartbusters by dozens all through the year , he can now look forward to another bountiful of hit songs up his sleeves with Ajab Prem Ki Ghazab Kahani . Also , Ranbir and Katrina can enjoy a hugely popular track for themselves in the form of ' Main Tera Dhadkan Teri ' . Go , pick this one up from the shelves ! ''
+
+The soundtrack was composed by Pritam while lyrics were penned by Irshad Kamil and Ashish Pandit . The songs are remixed by DJ Suketu and arranged by Aks .
+
+Processed Retrieved Content:
+The soundtrack received generally favorable reviews from critics. Samir Dave of Planet Bollywood gave it a rating of 7.5 / 10 and said, `` If you are looking for an enjoyable potpourri of different musical styles, and melody, then you will love what Pritam has served up for, `` Ajab Prem Ki Ghazab Kahani ''. It deserves to be at the top of the charts ``. It deserves to be at the top of the charts ``. Joginder Tuteja of Bollywood Hungama rated it 3.5 / 5 and praised the music composer saying, `` This is Pritam 's year, delivering chartbusters by dozens all through the year, he can now look forward to another bountiful of hit songs up his sleeves with Ajab Prem Ki Ghazab Kahani. Also, Ranbir and Katrina can enjoy a hugely popular track for themselves in the form of ' Main Tera Dhadkan Teri '. Go, pick this one up from the shelves! '' The soundtrack was composed by Pritam while lyrics were penned by Irshad Kamil and Ashish Pandit. The songs are remixed by DJ Suketu and arranged by Aks.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The retrieved information discusses the soundtrack's reception and credits but does not list all the songs from the movie "Ajab Prem Ki Ghazab Kahani."
+
+Standard LLM Answer:
+You're referencing the Bollywood film *Ajab Prem Ki Ghazab Kahani* (A Wonderful Story of Prem and Kahani)! You're right to point out the title itself is a playful and elaborate phrase.
+
+Here' **a breakdown of the meaning and why it's significant:**
+
+*   **Ajab:** Wonderful, amazing, extraordinary.
+*   **Prem:** Love (also a character's name - the male lead).
+*   **Ki:** Of
+*   **Ghazab:** A fantastic, incredible, or even chaotic situation.
+*   **Kahani:** Story
+
+**Therefore, the full title translates to something like:** "A Wonderful Story of Love's Incredible/Chaotic Story."
+
+**Why is this title so fitting?**
+
+*   **Reflects the Plot:** The film's plot is indeed a whirlwind of misunderstandings, coincidences, and emotional twists and turns in the love story between Prem and Kahani. It's a "gajab" (incredible/chaotic) story.
+*   **Playful and Romantic:** The title is long and elaborate, mirroring the grand, romantic style often found in Bollywood films. It's a playful and memorable way to introduce the story.
+*   **Character-Driven:** It highlights the central characters, Prem and Kahani, and their journey.
+
+
+
+You're right to recognize the cleverness of the title! It's a key element of the film's identity.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4727
+Standard LLM vs Reference Similarity: 0.3168
+Similarity Improvement: 0.1559

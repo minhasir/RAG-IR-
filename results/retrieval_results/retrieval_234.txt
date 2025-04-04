@@ -1,0 +1,36 @@
+Question: who plays male lead in far from the madding crowd
+
+Reference Answer: Far from the Madding Crowd is a 2015 British romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan , Matthias Schoenaerts , Michael Sheen , Tom Sturridge and Juno Temple . It is an adaptation of the 1874 novel of the same name by Thomas Hardy , the fourth time this novel has been filmed .
+
+Retrieved Documents: 2b95122f986ac3ebd78895022e1de54f.txt, 2b95122f986ac3ebd78895022e1de54f.txt, 2b95122f986ac3ebd78895022e1de54f.txt
+
+Raw Retrieved Content:
+Far from the Madding Crowd is a 2015 British romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan , Matthias Schoenaerts , Michael Sheen , Tom Sturridge and Juno Temple . It is an adaptation of the 1874 novel of the same name by Thomas Hardy , the fourth time this novel has been filmed .
+
+The first teaser trailer debuted on 23 November 2014 . It features the song `` Let No Man Steal Your Thyme '' performed by Carey Mulligan and Michael Sheen . A teaser poster was also revealed to mark the 140th anniversary of the novel of the same name .
+
+Far from the Madding Crowd grossed $12.2 million in North America and $17.9 million in other territories for a worldwide total of $30.2 million .
+
+Far from the Madding Crowd received positive reviews from critics . On Rotten Tomatoes , the film has a rating of 86 % , based on 166 reviews , with the site 's critical consensus reading , `` Far from the Madding Crowd invites tough comparisons to Thomas Hardy 's classic novel -- and its previous adaptation -- but stands on its own thanks to strong direction and a talented cast
+
+Processed Retrieved Content:
+Far from the Madding Crowd is a 2015 British romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge and Juno Temple. It is an adaptation of the 1874 novel of the same name by Thomas Hardy, the fourth time this novel has been filmed. The first teaser trailer debuted on 23 November 2014. It features the song `` Let No Man Steal Your Thyme '' performed by Carey Mulligan and Michael Sheen. A teaser poster was also revealed to mark the 140th anniversary of the novel of the same name. Far from the Madding Crowd grossed $12.2 million in North America and $17.9 million in other territories for a worldwide total of $30.2 million. Far from the Madding Crowd received positive reviews from critics. On Rotten Tomatoes, the film has a rating of 86 %, based on 166 reviews, with the site 's critical consensus reading, `` Far from the Madding Crowd invites tough comparisons to Thomas Hardy 's classic novel -- and its previous adaptation -- but stands on its own thanks to strong direction and a talented cast
+
+RAG Answer:
+Matthias Schoenaerts and Tom Sturridge play male leads in Far from the Madding Crowd.
+
+Standard LLM Answer:
+Okay, let's break down who plays the male lead, Thomas Ashbourne, in the 2009 film "Far From the Madding Crowd."
+
+**Carey Mulligan** plays the male lead, Thomas Ashbourne.
+
+It's a bit of a trick question! While the film is based on a novel with a strong female protagonist (Bathsheba Everdene), the male lead, Thomas Ashbourne, is portrayed by **Matthew Rhys**.
+
+
+
+Let me know if you'd like to know who plays Bathsheba Everdene!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5690
+Standard LLM vs Reference Similarity: 0.6942
+Similarity Improvement: -0.1252

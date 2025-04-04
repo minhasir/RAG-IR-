@@ -1,0 +1,41 @@
+Question: is the song fight song in a movie
+
+Reference Answer: The song also appears in the 2018 live action / CGI film Peter Rabbit during a scene where Bea ( Rose Byrne ) dances and listens to the song while Thomas and Peter fight with explosives .
+
+Retrieved Documents: 2777c93002e88df268c44b7d2c19d73e.txt, 2777c93002e88df268c44b7d2c19d73e.txt, 2777c93002e88df268c44b7d2c19d73e.txt
+
+Raw Retrieved Content:
+`` Fight Song '' is a song recorded by American singer and songwriter Rachel Platten , released as a single by Columbia Records on February 19 , 2015 . It appears on her extended play ( EP ) of the same name ( 2015 ) and on her major label debut studio album , and third overall , Wildfire ( 2016 ) . Platten co-wrote the song with Dave Bassett and Jon Levine .
+
+. `` Fight Song '' also peaked at number one on the Billboard Adult Top 40 chart for 4 weeks , number one on the Billboard Adult Contemporary chart for 4 weeks , number 3 on the Billboard Digital Songs chart , number 6 on the Billboard Radio Songs chart , and number 8 on the Pop Songs chart . Elsewhere , it peaked at number 5 on the Billboard Canadian Hot 100 .
+
+`` Fight Song '' has received positive reviews from critics , agreeing that the song 's positive message and Platten 's vocals were the song 's strongest features . A review by Markos Papatados from the Digital Journal stated `` The lyrics for `` Fight Song '' are captivating and they tug at the heartstrings . It is a track from her Fight Song EP , which was released on May 15
+
+Processed Retrieved Content:
+`` Fight Song '' is a song recorded by American singer and songwriter Rachel Platten, released as a single by Columbia Records on February 19, 2015. It appears on her extended play ( EP ) of the same name ( 2015 ) and on her major label debut studio album, and third overall, Wildfire ( 2016 ). Platten co-wrote the song with Dave Bassett and Jon Levine.. `` Fight Song '' also peaked at number one on the Billboard Adult Top 40 chart for 4 weeks, number one on the Billboard Adult Contemporary chart for 4 weeks, number 3 on the Billboard Digital Songs chart, number 6 on the Billboard Radio Songs chart, and number 8 on the Pop Songs chart. Elsewhere, it peaked at number 5 on the Billboard Canadian Hot 100. `` Fight Song '' has received positive reviews from critics, agreeing that the song 's positive message and Platten 's vocals were the song 's strongest features. A review by Markos Papatados from the Digital Journal stated `` The lyrics for `` Fight Song '' are captivating and they tug at the heartstrings. It is a track from her Fight Song EP, which was released on May 15
+
+RAG Answer:
+Based on the provided information, I cannot answer this question.
+
+Standard LLM Answer:
+Okay, let's break down whether the song "Fight Song" (most likely referring to Rachel Platten's version) has been featured in a movie.
+
+**Yes, it has!**
+
+The song "Fight Song" gained significant popularity after being featured prominently in the 2014 film **"Divergent."** It was used during a pivotal scene and became closely associated with the movie.
+
+Here's a more detailed breakdown:
+
+*   **Movie:** *Divergent* (2014)
+*   **Artist:** Rachel Platten
+*   **Scene:** The song plays during a montage of Tris Prior (the main character) training and facing adversity. It's a key moment of empowerment and determination.
+*   **Impact:** The song's use in the film significantly boosted its popularity, leading to it becoming a major hit on the radio and streaming services.
+
+
+
+So, to answer your question directly: **Yes, the song "Fight Song" is in the movie "Divergent."**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.0462
+Standard LLM vs Reference Similarity: 0.4218
+Similarity Improvement: -0.3756

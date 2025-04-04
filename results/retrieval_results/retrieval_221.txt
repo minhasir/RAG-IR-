@@ -1,0 +1,54 @@
+Question: the former peterlee campus of east durham college
+
+Reference Answer: East Durham College , formerly known as East Durham & Houghall Community College , is a community college with campuses in Peterlee and Houghall , south - east of Durham .
+
+Retrieved Documents: 63f0b3edcd2d51372e2667f17ffd4d03.txt, 63f0b3edcd2d51372e2667f17ffd4d03.txt, 63f0b3edcd2d51372e2667f17ffd4d03.txt
+
+Raw Retrieved Content:
+The present college results from the merger in June 1999 of Durham College of Agriculture and Horticulture ( also known as Houghall College ) and East Durham Community College in Peterlee ( formerly known as Peterlee Tertiary College in the 1980s and Peterlee College since 1989 ) . The former campus at the town centre on Burnhope Way ( B1320 ) was originally Easington Technical College and the campus at Howletch was originally Peterlee Grammar School .
+
+East Durham College , formerly known as East Durham & Houghall Community College , is a community college with campuses in Peterlee and Houghall , south - east of Durham .
+
+The College student roll , as at the last Ofsted report , February 2014 , was 1579 full - time and 4,154 part - time students .
+
+East Durham College operates across three campuses , as well as providing work force development within individual work places across the region .
+
+The Peterlee campus is situated on Willerby Grove off the B1320 ( Burnhope Way ) in Peterlee , near the A19 . The Houghall campus is situated on the A177 ( Stockton Road ) to the south - east of Durham , near Shincliffe . The Peterlee campus includes a variety of facilities including the bistro restaurant Scene1 , two functional beauty and hair salons , recording studio , IT suites , sports centre and fitness suite , dance studio , theatre and a conference suite .
+
+Processed Retrieved Content:
+The present college results from the merger in June 1999 of Durham College of Agriculture and Horticulture ( also known as Houghall College ) and East Durham Community College in Peterlee ( formerly known as Peterlee Tertiary College in the 1980s and Peterlee College since 1989 ). The former campus at the town centre on Burnhope Way ( B1320 ) was originally Easington Technical College and the campus at Howletch was originally Peterlee Grammar School. East Durham College, formerly known as East Durham & Houghall Community College, is a community college with campuses in Peterlee and Houghall, south - east of Durham. The College student roll, as at the last Ofsted report, February 2014, was 1579 full - time and 4,154 part - time students. East Durham College operates across three campuses, as well as providing work force development within individual work places across the region. The Peterlee campus is situated on Willerby Grove off the B1320 ( Burnhope Way ) in Peterlee, near the A19. The Houghall campus is situated on the A177 ( Stockton Road ) to the south - east of Durham, near Shincliffe. The Peterlee campus includes a variety of facilities including the bistro restaurant Scene1, two functional beauty and hair salons, recording studio, IT suites, sports centre and fitness suite, dance studio, theatre and a conference suite.
+
+RAG Answer:
+Based on the provided information, the former Peterlee campus of East Durham College was situated on Burnhope Way (B1320) in Peterlee, near the A19.
+
+Standard LLM Answer:
+You've hit on a fascinating and somewhat complicated situation! Here's a breakdown of what's going on with the Peterlee campus of East Durham College (now part of the Education and Training Foundation), and why it's become a point of discussion:
+
+**The History & Changes:**
+
+*   **East Durham College (EDC):** Historically, East Durham College was a separate institution serving the Peterlee area and surrounding communities.
+*   **Merger & Transition:** In 2017, East Durham College merged with Hartlepool Sixth Form College to form **The Hartlepool Sixth Form College and East Durham College (HSEC & EDC)**. This was part of a larger restructuring of further education in the region.
+*   **Education and Training Foundation (ETF):** In 2021, HSEC & EDC was absorbed into the Education and Training Foundation (ETF), a national organization responsible for overseeing and improving the quality of further education and training across England.
+*   **Peterlee Campus Closure:**  The Peterlee campus was **closed in August 2023**. This was a significant decision and has caused considerable local concern.
+
+**Why the Controversy?**
+
+*   **Loss of Local Provision:** The closure of the Peterlee campus means students in that area no longer have a local college for further education and training. They now have to travel to Hartlepool or other locations.
+*   **Impact on the Local Economy:** The campus provided jobs and contributed to the local economy. Its closure has had an impact on employment in the area.
+*   **Communication & Consultation:** There has been criticism of the way the decision to close the campus was made, with some feeling that there was insufficient consultation with local communities, students, and staff.
+*   **Future of the Site:** There's uncertainty about what will happen to the physical site of the former Peterlee campus.  Local residents and officials are keen to see it repurposed for a beneficial use.
+
+**Key Points & Current Status:**
+
+*   **No Longer a College Campus:** The Peterlee site is no longer operating as a college campus.
+*   **ETF Responsibility:** The Education and Training Foundation is responsible for the site and its future.
+*   **Local Advocacy:** There's ongoing local advocacy and pressure on the ETF to ensure the site is used in a way that benefits the Peterlee community.
+
+
+
+You're right to identify this as a complex situation with a lot of local feeling attached to it. It highlights the challenges of restructuring further education and the importance of considering the impact on local communities.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6180
+Standard LLM vs Reference Similarity: 0.6402
+Similarity Improvement: -0.0222

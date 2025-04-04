@@ -1,0 +1,32 @@
+Question: where was the walking dead season 7 filmed
+
+Reference Answer: The Walking Dead was renewed by AMC for a 16 - episode seventh season on October 30 , 2015 . Filming for season 7 began in Georgia on May 2 , 2016 and concluded on November 18 , 2016 . Actors Jeffrey Dean Morgan , Xander Berkeley , Tom Payne , and Austin Amelio were all promoted to series regulars for the seventh season , after having recurring roles in the sixth season . The seventh season has featured several extended episodes , running longer than its usual 43 - minute running time ( without commercials ) . Extended episodes have ranged from 46 to 62 minutes in length .
+
+Retrieved Documents: 7d4cb628aeb89609ebb9b151a8adc2cb.txt, 7d4cb628aeb89609ebb9b151a8adc2cb.txt, 78a07bd0fef7cd6c483a889d21891834.txt
+
+Raw Retrieved Content:
+The Walking Dead was renewed by AMC for a 16 - episode seventh season on October 30 , 2015 . Filming for season 7 began in Georgia on May 2 , 2016 and concluded on November 18 , 2016 . Actors Jeffrey Dean Morgan , Xander Berkeley , Tom Payne , and Austin Amelio were all promoted to series regulars for the seventh season , after having recurring roles in the sixth season
+
+The seventh season of The Walking Dead , an American post-apocalyptic horror television series on AMC , premiered on October 23 , 2016 , and concluded on April 2 , 2017 , consisting of 16 episodes . Developed for television by Frank Darabont , the series is based on the eponymous series of comic books by Robert Kirkman , Tony Moore , and Charlie Adlard . The executive producers are Kirkman , David Alpert , Scott M
+
+Season 4 was also filmed in Northern Vancouver Island but included a team dynamic . Fourteen contestants , consisting of seven family - member pairs , were individually dropped off in remote areas of Northern Vancouver Island . The two members of each team chose 10 items of survival gear to be equally divided between them
+
+Processed Retrieved Content:
+The Walking Dead was renewed by AMC for a 16 - episode seventh season on October 30, 2015. Filming for season 7 began in Georgia on May 2, 2016 and concluded on November 18, 2016. Actors Jeffrey Dean Morgan, Xander Berkeley, Tom Payne, and Austin Amelio were all promoted to series regulars for the seventh season, after having recurring roles in the sixth season The seventh season of The Walking Dead, an American post-apocalyptic horror television series on AMC, premiered on October 23, 2016, and concluded on April 2, 2017, consisting of 16 episodes. Developed for television by Frank Darabont, the series is based on the eponymous series of comic books by Robert Kirkman, Tony Moore, and Charlie Adlard. The executive producers are Kirkman, David Alpert, Scott M Season 4 was also filmed in Northern Vancouver Island but included a team dynamic. Fourteen contestants, consisting of seven family - member pairs, were individually dropped off in remote areas of Northern Vancouver Island. The two members of each team chose 10 items of survival gear to be equally divided between them
+
+RAG Answer:
+Season 7 of The Walking Dead was filmed in Georgia.
+
+Standard LLM Answer:
+Season 7 of The Walking Dead was primarily filmed in **Seneca, South Carolina**.
+
+While the show has used various locations throughout its run, Seneca became a major filming hub for several seasons, including Season 1 through 7. They utilized the area's forests and industrial spaces to create the show's distinctive post-apocalyptic landscapes.
+
+
+
+Do you want to know about other filming locations for the show?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6075
+Standard LLM vs Reference Similarity: 0.6216
+Similarity Improvement: -0.0140

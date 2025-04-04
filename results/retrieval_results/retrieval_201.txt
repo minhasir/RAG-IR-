@@ -1,0 +1,36 @@
+Question: who is the band in the new twin peaks
+
+Reference Answer: On January 12 , 2015 , Kyle MacLachlan was confirmed to return to the series . In October 2015 , it was confirmed that Michael Ontkean , who portrayed Sheriff Harry S. Truman and has since retired from acting , would not return for the revival . In October 2015 , it was reported that the role of town sheriff would be filled by Robert Forster , later confirmed as playing Frank Truman , brother of Harry . Forster had been cast as Harry in the 1990 pilot , but was replaced by Ontkean due to scheduling issues . Also in October , David Duchovny teased his return as Agent Denise Bryson . In November 2015 , it was reported that Miguel Ferrer would reprise his role as Albert Rosenfield and that Richard Beymer and David Patrick Kelly would return as Benjamin Horne and Jerry Horne respectively . In December 2015 , Alicia Witt confirmed she would reprise her role as Gersten Hayward . Michael J. Anderson was asked to reprise his role as The Man from Another Place , but declined .
+
+Retrieved Documents: 35f0365773f6b82adeb3ff9b4b4e4a5b.txt, 35f0365773f6b82adeb3ff9b4b4e4a5b.txt, 35f0365773f6b82adeb3ff9b4b4e4a5b.txt
+
+Raw Retrieved Content:
+Twin Peaks , also known as Twin Peaks : The Return , is an American mystery drama television revival series created by Mark Frost and David Lynch . It is a continuation of the 1990 -- 91 ABC series of the same name . The limited series consists of 18 episodes and premiered on Showtime on May 21 , 2017 , following a world premiere on May 19 , 2017 , at The Theatre at Ace Hotel . The series was developed and written by Lynch and Frost over several years and directed by Lynch
+
+. He and Showtime came to an agreement , with Lynch confirming on May 15 , 2015 , that he would direct , and that there would be more episodes than the originally announced nine . At a Twin Peaks panel in Seattle , cast members Sherilyn Fenn and Sheryl Lee said that the new series would consist of 18 episodes and Angelo Badalamenti would return as composer .
+
+. Several tracks from Johnny Jewel 's album Windswept also appear throughout . Threnody for the Victims of Hiroshima by Krzysztof Penderecki appears in key scenes . Two soundtracks were released on September 8 , 2017 , by Rhino Records : Twin Peaks ( Music From the Limited Event Series ) and Twin Peaks ( Limited Event Series Original Soundtrack ) .
+
+Processed Retrieved Content:
+Twin Peaks, also known as Twin Peaks: The Return, is an American mystery drama television revival series created by Mark Frost and David Lynch. It is a continuation of the 1990 -- 91 ABC series of the same name. The limited series consists of 18 episodes and premiered on Showtime on May 21, 2017, following a world premiere on May 19, 2017, at The Theatre at Ace Hotel. The series was developed and written by Lynch and Frost over several years and directed by Lynch. He and Showtime came to an agreement, with Lynch confirming on May 15, 2015, that he would direct, and that there would be more episodes than the originally announced nine. At a Twin Peaks panel in Seattle, cast members Sherilyn Fenn and Sheryl Lee said that the new series would consist of 18 episodes and Angelo Badalamenti would return as composer.. Several tracks from Johnny Jewel 's album Windswept also appear throughout. Threnody for the Victims of Hiroshima by Krzysztof Penderecki appears in key scenes. Two soundtracks were released on September 8, 2017, by Rhino Records: Twin Peaks ( Music From the Limited Event Series ) and Twin Peaks ( Limited Event Series Original Soundtrack ).
+
+RAG Answer:
+Johnny Jewel's band appears throughout the new Twin Peaks.
+
+Standard LLM Answer:
+Okay, this is a fun one! The band featured in the new *Twin Peaks* (Season 3, or *Twin Peaks: The Return*) is called **Feelings**.
+
+Here's what makes it so interesting:
+
+*   **It's a real band:** The music for "Feelings" is performed by a real band, also called "Feelings." They are led by Kyle MacLachlan (who plays Agent Cooper) and feature Sheryl Surrense (who also composed music for the show).
+*   **It's within the show's reality:** The band "Feelings" exists *within* the world of *Twin Peaks*. They are a band performing in the Roadhouse.
+*   **It's a meta-layer:** The music and the band itself are a layer of art within the already surreal and layered show.
+
+
+
+So, the answer is **Feelings**.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1061
+Standard LLM vs Reference Similarity: 0.0355
+Similarity Improvement: 0.0707

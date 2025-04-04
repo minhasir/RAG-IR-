@@ -1,0 +1,32 @@
+Question: who sings the song i don't care i love it
+
+Reference Answer: The song 's lyrics describe breaking up with an older boyfriend . In its chorus , Icona Pop and Charli XCX shout in unison `` I do n't care / I love it '' . Critics compared the song 's breakup narrative to Kelly Clarkson 's 2004 single `` Since U Been Gone '' , and journalist Chuck Eddy wrote in a piece for Spin that the track 's brattiness was similar to British band Shampoo .
+
+Retrieved Documents: 5b329447bea84473a36b357bc159e628.txt, 5b329447bea84473a36b357bc159e628.txt, 5b329447bea84473a36b357bc159e628.txt
+
+Raw Retrieved Content:
+The song 's lyrics describe breaking up with an older boyfriend . In its chorus , Icona Pop and Charli XCX shout in unison `` I do n't care / I love it '' . Critics compared the song 's breakup narrative to Kelly Clarkson 's 2004 single `` Since U Been Gone '' , and journalist Chuck Eddy wrote in a piece for Spin that the track 's brattiness was similar to British band Shampoo .
+
+`` I Love It '' is a song by Swedish DJ duo Icona Pop featuring vocals from British recording artist Charli XCX . It was released in May 2012 as a digital download in Sweden , where it peaked at number two on the singles chart . The song was added to their debut studio album , Icona Pop , as well as their EP Iconic and their debut international album , This Is ... Icona Pop .
+
+`` I Love It '' was met with positive reviews from music critics . The song placed 15th on The Village Voice 's 2012 Pazz & Jop list , and it rose to eighth place the following year . Pitchfork Media labeled it `` Best New Music '' , calling the song `` delectable , empowering , infinitely repeatable '' . Pitchfork later listed the song number 50 on its `` Top 100 Tracks of 2012 '' list
+
+Processed Retrieved Content:
+The song 's lyrics describe breaking up with an older boyfriend. In its chorus, Icona Pop and Charli XCX shout in unison `` I do n't care / I love it ''. Critics compared the song 's breakup narrative to Kelly Clarkson 's 2004 single `` Since U Been Gone '', and journalist Chuck Eddy wrote in a piece for Spin that the track 's brattiness was similar to British band Shampoo. `` I Love It '' is a song by Swedish DJ duo Icona Pop featuring vocals from British recording artist Charli XCX. It was released in May 2012 as a digital download in Sweden, where it peaked at number two on the singles chart. The song was added to their debut studio album, Icona Pop, as well as their EP Iconic and their debut international album, This Is... Icona Pop. `` I Love It '' was met with positive reviews from music critics. The song placed 15th on The Village Voice 's 2012 Pazz & Jop list, and it rose to eighth place the following year. Pitchfork Media labeled it `` Best New Music '', calling the song `` delectable, empowering, infinitely repeatable ''. Pitchfork later listed the song number 50 on its `` Top 100 Tracks of 2012 '' list
+
+RAG Answer:
+Icona Pop featuring vocals from British recording artist Charli XCX sings the song “I Love It”. The lyrics include “I don’t care / I love it”.
+
+Standard LLM Answer:
+The song "I Don't Care I Love It" is sung by **Audrey Mika**! 
+
+It's a collaboration with Justin Skye, but Audrey Mika is the primary artist and vocalist.
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6560
+Standard LLM vs Reference Similarity: 0.5936
+Similarity Improvement: 0.0625

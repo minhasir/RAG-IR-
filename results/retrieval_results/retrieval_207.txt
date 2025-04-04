@@ -1,0 +1,27 @@
+Question: the cuban missile crisis began in 1962 when which country placed nuclear missiles in cuba
+
+Reference Answer: Cuban Missile Crisis Part of the Cold War Date October 16 -- 28 , 1962 ( naval blockade of Cuba ended November 20 , 1962 ) Location Cuba Result Withdrawal of the Soviet Union 's nuclear missiles from Cuba Withdrawal of American nuclear missiles from Turkey and Italy Agreement with the Soviet Union that the United States would never invade Cuba without direct provocation Creation of a nuclear hotline between the United States and the Soviet Union Belligerents Soviet Union Cuba Supported by : Warsaw Pact United States Italy Turkey Supported by : NATO Commanders and leaders Nikita Khrushchev Anastas Mikoyan Rodion Malinovsky Issa Pliyev Georgy Abashvili Fidel Castro Raúl Castro Che Guevara John F. Kennedy Robert McNamara Maxwell D. Taylor Curtis LeMay George Whelan Anderson Jr . Robert F. Kennedy Amintore Fanfani Giulio Andreotti Cemal Gürsel Casualties and losses 64 Soviet citizens dead ( statistics of the MoD of the RF for 1962 -- 1964 ) 1 U-2 spy aircraft lost 1 aircraft damaged 1 kill
+
+Retrieved Documents: 9523d5404503271c679f487f9c9f5597.txt, 9523d5404503271c679f487f9c9f5597.txt, 9523d5404503271c679f487f9c9f5597.txt
+
+Raw Retrieved Content:
+The Cuban Missile Crisis , also known as the October Crisis ( Spanish : Crisis de Octubre ) , the Caribbean Crisis ( Russian : Карибский кризис , tr . Karibsky krizis , IPA : ( kɐˈrjipskjɪj ˈkrjizjɪs ) ) , or the Missile Scare , was a 13 - day ( October 16 -- 28 , 1962 ) confrontation between the United States and the Soviet Union concerning American ballistic missile deployment in Italy and Turkey with consequent Soviet ballistic missile deployment in Cuba
+
+In early 1962 , a group of Soviet military and missile construction specialists accompanied an agricultural delegation to Havana . They obtained a meeting with Cuban leader Fidel Castro . The Cuban leadership had a strong expectation that the US would invade Cuba again and enthusiastically approved the idea of installing nuclear missiles in Cuba
+
+In May 1961 , Soviet Premier Nikita Khrushchev was persuaded by the idea of countering the US 's growing lead in developing and deploying strategic missiles by placing Soviet intermediate - range nuclear missiles in Cuba , despite the misgivings of the Soviet Ambassador in Havana , Alexandr Ivanovich Alexeyev , who argued that Castro would not accept the deployment of the missiles
+
+Processed Retrieved Content:
+The Cuban Missile Crisis, also known as the October Crisis ( Spanish: Crisis de Octubre ), the Caribbean Crisis ( Russian: Карибский кризис, tr. Karibsky krizis, IPA: ( kɐˈrjipskjɪj ˈkrjizjɪs ) ), or the Missile Scare, was a 13 - day ( October 16 -- 28, 1962 ) confrontation between the United States and the Soviet Union concerning American ballistic missile deployment in Italy and Turkey with consequent Soviet ballistic missile deployment in Cuba In early 1962, a group of Soviet military and missile construction specialists accompanied an agricultural delegation to Havana. They obtained a meeting with Cuban leader Fidel Castro. The Cuban leadership had a strong expectation that the US would invade Cuba again and enthusiastically approved the idea of installing nuclear missiles in Cuba In May 1961, Soviet Premier Nikita Khrushchev was persuaded by the idea of countering the US 's growing lead in developing and deploying strategic missiles by placing Soviet intermediate - range nuclear missiles in Cuba, despite the misgivings of the Soviet Ambassador in Havana, Alexandr Ivanovich Alexeyev, who argued that Castro would not accept the deployment of the missiles
+
+RAG Answer:
+The Cuban Missile Crisis began in 1962 when the Soviet Union placed nuclear missiles in Cuba.
+
+Standard LLM Answer:
+The Cuban Missile Crisis began in 1962 when the **Soviet Union** placed nuclear missiles in Cuba.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7617
+Standard LLM vs Reference Similarity: 0.7542
+Similarity Improvement: 0.0076

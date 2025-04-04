@@ -1,0 +1,30 @@
+Question: what is the name of spain's most famous soccer team
+
+Reference Answer: In a survey of sports habits of the Spanish population made in 2010 , football was the second most popular recreational sport practised by the population ( 17.9 % ) . A total of 75.9 % of people said they had ever bought tickets to attend a football match . In addition , a total of 67.3 % of the people said that they saw all , almost all , many , or some of the football matches broadcast on television . In another survey made in 2014 , the practice of football decreased to 14 % of the population , being overtaken by other sports , such as running , cycling and swimming for recreation . However , in this survey football was still the sport that interests the majority of Spain 's people ( 48 % ) . A total of 67 % of the population said they were fans or had sympathy for a particular club . In addition , 74.9 % said they watched , whenever possible , the matches broadcast on television regarding their favorite teams ; and 42.4 % had , flags , badges or objects of their favorite teams . Da
+
+Retrieved Documents: d0c500cfb36e75e37e3dd8caa7c662cb.txt, d0c500cfb36e75e37e3dd8caa7c662cb.txt, d0c500cfb36e75e37e3dd8caa7c662cb.txt
+
+Raw Retrieved Content:
+The most successful clubs in international competitions are Barcelona and Real Madrid . In addition , other Spanish clubs have also won titles in international tournaments , such as Atlético Madrid , Valencia , Sevilla , Real Zaragoza , Villarreal , Deportivo de La Coruña , Celta de Vigo and Málaga .
+
+Spanish football clubs hold different records in international competitions .
+
+The Spain national team , commonly referred to as La selección ( English : The selection ) or La Roja ( English : The Red one ) , made their international debut at the 1920 Olympic Games in Belgium and came away with the silver medal . Since then the Spanish national team has participated in a total of fourteen out twenty FIFA World Cup and nine out fourteen UEFA European Championship
+
+Fourteen clubs have won the title : Barcelona ( 30 ) , Athletic Bilbao ( 23 ) , Real Madrid ( 19 ) , Atlético Madrid ( 10 ) , Valencia ( 7 ) , Real Zaragoza ( 6 ) , Sevilla ( 5 ) , Espanyol ( 4 ) , Real Union ( 4 ) , Real Betis ( 2 ) , Deportivo de La Coruña ( 2 ) , Real Sociedad ( 2 ) , Arenas Club de Getxo ( 1 ) and Mallorca ( 1 ) .
+
+Processed Retrieved Content:
+The most successful clubs in international competitions are Barcelona and Real Madrid. In addition, other Spanish clubs have also won titles in international tournaments, such as Atlético Madrid, Valencia, Sevilla, Real Zaragoza, Villarreal, Deportivo de La Coruña, Celta de Vigo and Málaga. Spanish football clubs hold different records in international competitions. The Spain national team, commonly referred to as La selección ( English: The selection ) or La Roja ( English: The Red one ), made their international debut at the 1920 Olympic Games in Belgium and came away with the silver medal. Since then the Spanish national team has participated in a total of fourteen out twenty FIFA World Cup and nine out fourteen UEFA European Championship Fourteen clubs have won the title: Barcelona ( 30 ), Athletic Bilbao ( 23 ), Real Madrid ( 19 ), Atlético Madrid ( 10 ), Valencia ( 7 ), Real Zaragoza ( 6 ), Sevilla ( 5 ), Espanyol ( 4 ), Real Union ( 4 ), Real Betis ( 2 ), Deportivo de La Coruña ( 2 ), Real Sociedad ( 2 ), Arenas Club de Getxo ( 1 ) and Mallorca ( 1 ).
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. While the text mentions several successful Spanish clubs like Barcelona and Real Madrid, it does not explicitly state which one is the *most* famous.
+
+Standard LLM Answer:
+Spain's most famous soccer team is **Real Madrid**. 
+
+(Often just called Real Madrid, or sometimes "Los Blancos" - the Whites - due to their kit color.)
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4266
+Standard LLM vs Reference Similarity: 0.4785
+Similarity Improvement: -0.0519

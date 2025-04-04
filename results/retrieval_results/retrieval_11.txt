@@ -1,0 +1,35 @@
+Question: when does tom paris become a lieutenant again
+
+Reference Answer: The marooning of Voyager in the Delta Quadrant provided Paris with a new beginning . Janeway gave Paris a field commission as a Starfleet lieutenant and made him chief helmsman of Voyager . He had a rough start , however , as Starfleet and Maquis alike viewed Paris with suspicion . Paris worked hard to earn his crewmates ' respect . During this time , he became best friends with Ensign Harry Kim , a young officer on his first mission who defied his crewmates to befriend Paris . Eventually , Paris was accepted by the crew and became one of Janeway 's valued officers .
+
+Retrieved Documents: 338640f1563e77a3eb02105feeab588c.txt, 338640f1563e77a3eb02105feeab588c.txt, 338640f1563e77a3eb02105feeab588c.txt
+
+Raw Retrieved Content:
+Tom was a full lieutenant at the very beginning of the series , then a lieutenant junior grade in the first - season episode `` Faces '' .
+
+The writers planned to use the character of Nicolas Locarno as a template for Tom Paris , who was played by McNeill in the Next Generation episode `` The First Duty '' . As a result , Voyager 's writers created an entirely new character sharing many of Locarno 's attributes .
+
+Thomas Eugene `` Tom '' Paris , played by Robert Duncan McNeill , is a character in the American science fiction television series Star Trek : Voyager . Paris serves as the chief helmsman and an auxiliary medic aboard the USS Voyager . The character 's middle name , `` Eugene '' , is a tribute to Star Trek creator Gene Roddenberry .
+
+The Tom Paris character has two backstories . The original backstory , and the only one acknowledged onscreen , cast Paris as a disgraced officer dishonorably discharged from Starfleet for covering up pilot error following a shuttle accident on Caldik Prime
+
+Processed Retrieved Content:
+Tom was a full lieutenant at the very beginning of the series, then a lieutenant junior grade in the first - season episode `` Faces ''. The writers planned to use the character of Nicolas Locarno as a template for Tom Paris, who was played by McNeill in the Next Generation episode `` The First Duty ''. As a result, Voyager 's writers created an entirely new character sharing many of Locarno 's attributes. Thomas Eugene `` Tom '' Paris, played by Robert Duncan McNeill, is a character in the American science fiction television series Star Trek: Voyager. Paris serves as the chief helmsman and an auxiliary medic aboard the USS Voyager. The character 's middle name, `` Eugene '', is a tribute to Star Trek creator Gene Roddenberry. The Tom Paris character has two backstories. The original backstory, and the only one acknowledged onscreen, cast Paris as a disgraced officer dishonorably discharged from Starfleet for covering up pilot error following a shuttle accident on Caldik Prime
+
+RAG Answer:
+Based on the provided information, I cannot answer this question.
+
+Standard LLM Answer:
+This is a trick question referencing the TV show "Star Trek: Voyager". 
+
+Tom Paris was demoted to Ensign again after the episode "Zero Tolerance" due to a strict, no-tolerance policy regarding a breach of the Prime Directive. He had previously been a Lieutenant. 
+
+**He never gets back to Lieutenant.** The show ends with him still as an Ensign. 
+
+So the answer is **never**.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.0212
+Standard LLM vs Reference Similarity: 0.5394
+Similarity Improvement: -0.5182

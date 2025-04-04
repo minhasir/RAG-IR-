@@ -1,0 +1,26 @@
+Question: when did fast and furious 5 come out
+
+Reference Answer: The Fast and the Furious ( also known as Fast & Furious ) is an American franchise based on a series of action films that is largely concerned with illegal street racing , heists and espionage , and includes material in various other media that depicts characters and situations from the films . Distributed by Universal Pictures , the series was established with the 2001 film titled The Fast and the Furious ; this was followed by seven sequels , two short films that tie into the series , and as of May 2017 , it has become Universal 's biggest franchise of all time , currently the sixth - highest - grossing film series of all time with a combined gross of over $5 billion . The spin - off film is set to be released on July 26 , 2019 .
+
+Retrieved Documents: 88a08ba15058c6d4a02462535777cc42.txt, 88a08ba15058c6d4a02462535777cc42.txt, 88a08ba15058c6d4a02462535777cc42.txt
+
+Raw Retrieved Content:
+. Distributed by Universal Pictures , the series was established with the 2001 film titled The Fast and the Furious ; this was followed by seven sequels , two short films that tie into the series , and as of May 2017 , it has become Universal 's biggest franchise of all time , currently the sixth - highest - grossing film series of all time with a combined gross of over $5 billion . The spin - off film is set to be released on July 26 , 2019 .
+
+The film series has spawned several racing video games for various systems . The arcade game The Fast and the Furious ( known as Wild Speed in Japan ) was released by Raw Thrills in 2004 . In 2006 , the video game The Fast and the Furious was released for the PlayStation 2 and PlayStation Portable
+
+The Fast and the Furious ( also known as Fast & Furious ) is an American franchise based on a series of action films that is largely concerned with illegal street racing , heists and espionage , and includes material in various other media that depicts characters and situations from the films
+
+Processed Retrieved Content:
+. Distributed by Universal Pictures, the series was established with the 2001 film titled The Fast and the Furious; this was followed by seven sequels, two short films that tie into the series, and as of May 2017, it has become Universal 's biggest franchise of all time, currently the sixth - highest - grossing film series of all time with a combined gross of over $5 billion. The spin - off film is set to be released on July 26, 2019. The film series has spawned several racing video games for various systems. The arcade game The Fast and the Furious ( known as Wild Speed in Japan ) was released by Raw Thrills in 2004. In 2006, the video game The Fast and the Furious was released for the PlayStation 2 and PlayStation Portable The Fast and the Furious ( also known as Fast & Furious ) is an American franchise based on a series of action films that is largely concerned with illegal street racing, heists and espionage, and includes material in various other media that depicts characters and situations from the films
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions seven sequels to the first film, but does not specify release dates for any of them, including Fast & Furious 5.
+
+Standard LLM Answer:
+Fast Five (Fast & Furious 5) came out on **April 29, 2011** in the United States.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6322
+Standard LLM vs Reference Similarity: 0.6642
+Similarity Improvement: -0.0320

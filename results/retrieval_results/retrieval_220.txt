@@ -1,0 +1,41 @@
+Question: when is the last movie of divergent coming out
+
+Reference Answer: The Divergent Series Produced by Lucy Fisher Douglas Wick Pouya Shabazian Based on The Divergent trilogy by Veronica Roth Starring Shailene Woodley Theo James Zoë Kravitz Miles Teller Ansel Elgort Production company Red Wagon Entertainment Summit Entertainment Distributed by Summit Entertainment Lionsgate Release date 1 : March 21 , 2014 ( 2014 - 03 - 21 ) 2 : 000000002015 - 03 - 20 - 0000 March 20 , 2015 3 : 000000002016 - 03 - 18 - 0000 March 18 , 2016 4 : TBA Running time 379 minutes ( 3 films ) Country United States Language English Budget Total ( 3 films ) : $305 million Box office Total ( 3 films ) : $765,409,015
+
+Retrieved Documents: b8efc47f71707b81c3020c85546824f3.txt, b8efc47f71707b81c3020c85546824f3.txt, b8efc47f71707b81c3020c85546824f3.txt
+
+Raw Retrieved Content:
+On December 16 , 2013 , Summit Entertainment announced that the film adaptation of Allegiant would be released on March 18 , 2016 . On April 11 , 2014 , Lionsgate announced that the film adaptation would be split into two films with the first part titled , The Divergent Series : Allegiant -- Part 1 . The film was then re-titled as The Divergent Series : Allegiant .
+
+Also in December 2013 , Summit Entertainment announced that the film adaptation of Allegiant , the third and final novel in the Divergent trilogy , would be released in March 2016 , serving as the finale of the series , which at the time was planned as a trilogy , but on April 11 , 2014 , the studio decided to split the novel into a two - part film , much the like the Harry Potter , Twilight , and Hunger Games franchises did with the finales of their series
+
+. A fourth film , The Divergent Series : Ascendant was to be released theatrically , but due to Allegiant 's poor showing at the box office , it was announced it will be released as a TV movie .
+
+Processed Retrieved Content:
+On December 16, 2013, Summit Entertainment announced that the film adaptation of Allegiant would be released on March 18, 2016. On April 11, 2014, Lionsgate announced that the film adaptation would be split into two films with the first part titled, The Divergent Series: Allegiant -- Part 1. The film was then re-titled as The Divergent Series: Allegiant. Also in December 2013, Summit Entertainment announced that the film adaptation of Allegiant, the third and final novel in the Divergent trilogy, would be released in March 2016, serving as the finale of the series, which at the time was planned as a trilogy, but on April 11, 2014, the studio decided to split the novel into a two - part film, much the like the Harry Potter, Twilight, and Hunger Games franchises did with the finales of their series. A fourth film, The Divergent Series: Ascendant was to be released theatrically, but due to Allegiant 's poor showing at the box office, it was announced it will be released as a TV movie.
+
+RAG Answer:
+Based on the provided information, the last movie of Divergent, initially planned as a theatrical release titled "The Divergent Series: Ascendant," was announced to be released as a TV movie. The information does not specify a release date for this TV movie.
+
+Standard LLM Answer:
+Okay, let's break down the situation with the "Divergent" movie series. This is a bit complicated because of what happened with the planned films.
+
+**Here's the history and the current status:**
+
+1.  **"Divergent" (2014):** The first film, based on the first book, was a success.
+2.  **"Insurgent" (2015):** The second film also performed well.
+3.  **"Allegiant" (2016):** This is where things went sideways. The third book, "Allegiant," was originally planned to be split into two movies. The first part, "Allegiant," was released, but it underperformed at the box office.
+4.  **The Planned Sequel Was Canceled:** Because "Allegiant" didn't make enough money, the studio (Summit/Lionsgate) canceled the planned second part, which would have adapted the final book, "Ascendant."
+
+**Therefore, there is no "last movie" of the Divergent series that was ever released.** The story of "Divergent" remains unfinished on screen. The final book, "Ascendant," was never adapted into a film.
+
+**Is there any hope for the story to continue?**
+
+*   **Rumors and Discussions:** There have been occasional rumors and discussions about potentially revisiting the series, perhaps with a reboot or a new adaptation. However, as of today (November 16, 2023), there are no concrete plans for a new "Divergent" movie.
+
+**In short, the last movie released was "Allegiant" in 2016, and the story was left unfinished.**
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5805
+Standard LLM vs Reference Similarity: 0.5584
+Similarity Improvement: 0.0221
