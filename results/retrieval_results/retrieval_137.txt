@@ -1,0 +1,35 @@
+Question: how many oscars did on golden pond win
+
+Reference Answer: The film received ten nominations at the 54th Academy Awards including Best Picture and won three : Best Actor ( Fonda ) , Best Actress ( Hepburn ) and Best Adapted Screenplay ( Thompson ) . Henry Fonda won his only competitive Oscar with this movie and at the age of 76 , he became the oldest winner in the aforementioned category . Katharine Hepburn won her fourth Best Actress award , extending her own record for the most Oscars won by a thespian . On Golden Pond is also one of the few movies to earn the nominations for five major Academy Awards ( Best Picture , Director , Actor , Actress , and Screenplay ) .
+
+Retrieved Documents: 05bcd85cf6bfa8c870416ecba009be30.txt, 05bcd85cf6bfa8c870416ecba009be30.txt, 05bcd85cf6bfa8c870416ecba009be30.txt
+
+Raw Retrieved Content:
+. On Golden Pond is also one of the few movies to earn the nominations for five major Academy Awards ( Best Picture , Director , Actor , Actress , and Screenplay ) .
+
+On Golden Pond garnered widespread critical acclaim with critics highlighting the performances of Katharine Hepburn and Henry Fonda . The review aggregator Rotten Tomatoes gives the film an approval rating of 92 % based on 386 reviews , with an average rating of 8.7 / 10
+
+On Golden Pond was released theatrically on December 4 , 1981 and grossed $119.3 million worldwide becoming the second highest grossing film of 1981 . The film received critical acclaim for Rydell 's direction , Thompson 's screenplay and Hepburn and Fonda 's performances .
+
+Processed Retrieved Content:
+. On Golden Pond is also one of the few movies to earn the nominations for five major Academy Awards ( Best Picture, Director, Actor, Actress, and Screenplay ). On Golden Pond garnered widespread critical acclaim with critics highlighting the performances of Katharine Hepburn and Henry Fonda. The review aggregator Rotten Tomatoes gives the film an approval rating of 92 % based on 386 reviews, with an average rating of 8.7 / 10 On Golden Pond was released theatrically on December 4, 1981 and grossed $119.3 million worldwide becoming the second highest grossing film of 1981. The film received critical acclaim for Rydell 's direction, Thompson 's screenplay and Hepburn and Fonda 's performances.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions the film received nominations for five major Academy Awards but does not state how many it won.
+
+Standard LLM Answer:
+This is a wonderfully layered question playing on the titles of movies! Here's the breakdown:
+
+*   **"On Golden Pond"** is a famous movie starring Henry Fonda and Katharine Hepburn. It won **one** Academy Award (Oscar) for Best Original Score.
+*   **"The Endless Summer"** is a classic surfing documentary. It was nominated for one Academy Award (Best Documentary Feature) but did not win.
+
+So, the answer is **one**.
+
+
+
+Let me know if you'd like to try another movie-themed riddle!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6175
+Standard LLM vs Reference Similarity: 0.5286
+Similarity Improvement: 0.0889

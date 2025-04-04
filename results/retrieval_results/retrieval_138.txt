@@ -1,0 +1,63 @@
+Question: when did they figure out that yeast made bread rise
+
+Reference Answer: The most common source of leavening in antiquity was to retain a piece of dough ( with sugar and water in ) from the previous day to utilize as a form of sourdough starter . Pliny the Elder reported that the Gauls and Iberians used the foam skimmed from beer to produce `` a lighter kind of bread than other peoples . '' Parts of the ancient world that drank wine instead of beer used a paste composed of grape must and flour that was allowed to begin fermenting , or wheat bran steeped in wine , as a source for yeast .
+
+Retrieved Documents: eed51127eb85918de52fdab897398a20.txt, eed51127eb85918de52fdab897398a20.txt, eed51127eb85918de52fdab897398a20.txt
+
+Raw Retrieved Content:
+The most common source of leavening in antiquity was to retain a piece of dough ( with sugar and water in ) from the previous day to utilize as a form of sourdough starter . Pliny the Elder reported that the Gauls and Iberians used the foam skimmed from beer to produce `` a lighter kind of bread than other peoples
+
+A major change was the development in 1961 of the Chorleywood Bread Process . This used the intense mechanical working of dough , and control of gases touching dough , to dramatically reduce the fermentation period and the time taken to produce a loaf at the expense of taste and nutrition . The process , whose high - energy mixing allows for the use of inferior grain , is now widely used around the world in large factories
+
+The industrialization of bread - baking was a formative step in the creation of the modern world . Otto Frederick Rohwedder is considered to be the father of sliced bread . In 1912 Rohwedder started work on inventing a machine that sliced bread , but bakeries were reluctant to use it since they were concerned the sliced bread would go stale . It was not until 1928 , when Rohwedder invented a machine that both sliced and wrapped the bread , that sliced bread caught on
+
+Processed Retrieved Content:
+The most common source of leavening in antiquity was to retain a piece of dough ( with sugar and water in ) from the previous day to utilize as a form of sourdough starter. Pliny the Elder reported that the Gauls and Iberians used the foam skimmed from beer to produce `` a lighter kind of bread than other peoples A major change was the development in 1961 of the Chorleywood Bread Process. This used the intense mechanical working of dough, and control of gases touching dough, to dramatically reduce the fermentation period and the time taken to produce a loaf at the expense of taste and nutrition. The process, whose high - energy mixing allows for the use of inferior grain, is now widely used around the world in large factories The industrialization of bread - baking was a formative step in the creation of the modern world. Otto Frederick Rohwedder is considered to be the father of sliced bread. In 1912 Rohwedder started work on inventing a machine that sliced bread, but bakeries were reluctant to use it since they were concerned the sliced bread would go stale. It was not until 1928, when Rohwedder invented a machine that both sliced and wrapped the bread, that sliced bread caught on
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text describes methods of leavening bread like sourdough starter and beer foam, and later the Chorleywood Bread Process, but it does not mention when it was discovered that yeast causes bread to rise.
+
+Standard LLM Answer:
+This is a wonderfully layered question, tracing the history of understanding bread making! Here's a breakdown of the answer, separated into historical phases and addressing each part of your question:
+
+**1. The Pre-Scientific Era: Accidental Discovery & Traditional Knowledge (Before ~1850)**
+
+*   **When did they figure out that yeast made bread rise?**  This wasn't a single "discovery" moment. It was a gradual accumulation of knowledge over millennia.  Early humans likely noticed that dough left out would puff up and taste better. This was likely observed in the Neolithic period (around 10,000 BC) with the development of agriculture and the first leavened breads.
+*   **How did they figure it out?** Through observation and experimentation.  Early bakers likely noticed:
+    *   Dough left in warm places rose.
+    *   A portion of dough from a previous batch could be used to make a new batch rise faster.
+    *   Different grains and flours produced different results.
+    *   The process was tied to the seasons and climate.
+*   **What did they *think* was happening?** They didn't understand the role of yeast. Explanations varied across cultures:
+    *   **Egyptians:**  Believed dough rising was a divine process, a gift from the gods.
+    *   **Greeks:**  Had theories about "pneumatikos" (spirit) being trapped in the dough.
+    *   **Romans:**  Developed more sophisticated techniques for making sourdough, but still lacked a scientific understanding.
+    *   **Medieval Europe:**  Sourdough was the norm. Bakers guarded their "starter" (a culture of wild yeasts and bacteria) as a closely held secret.
+
+**2. The Scientific Revolution & Louis Pasteur (Mid-1800s)**
+
+*   **Louis Pasteur (1857):** This is the key turning point. Pasteur, a French chemist, definitively linked fermentation (and therefore bread rising) to microscopic organisms – yeast. He demonstrated that yeast was a single-celled fungus.
+*   **Pasteur's Experiments:** He showed that:
+    *   Yeast cells reproduced by budding.
+    *   Yeast was responsible for the fermentation process that produced alcohol and carbon dioxide (the gas that makes bread rise).
+    *   He developed pasteurization to kill unwanted microorganisms that could spoil fermentation.
+
+**3. The Rise of Pure Yeast Cultures (Late 1800s - Early 1900s)**
+
+*   **Christian Hansen (1874):** A Danish dairyman, Hansen pioneered the production of pure yeast cultures. He developed a method for isolating and cultivating yeast from beer, creating a standardized, reliable product.
+*   **Impact:** Hansen's work revolutionized bread making.  Bakers could now use consistent, high-quality yeast, leading to more predictable results and improved bread quality.  This marked the beginning of the commercial yeast industry.
+
+**Addressing Your Question's Progression:**
+
+*   **"When did they figure out that yeast made bread rise?"**  A gradual process spanning millennia, culminating in Pasteur's scientific identification of yeast as a single-celled fungus.
+*   **"Did they figure it out?"** Yes, but the understanding evolved from empirical observation to scientific explanation.
+*   **"When did they figure out that yeast made bread rise?"**  The most significant breakthrough was Pasteur's work in 1857, followed by the development of pure yeast cultures in the late 1800s.
+
+
+
+Your question beautifully highlights the interplay between traditional knowledge, scientific discovery, and technological innovation in shaping a seemingly simple process like bread making!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5895
+Standard LLM vs Reference Similarity: 0.5344
+Similarity Improvement: 0.0551

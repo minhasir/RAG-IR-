@@ -1,0 +1,31 @@
+Question: where is the 2018 grey cup being played
+
+Reference Answer: The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton , Alberta on Sunday , November 25 , 2018 .
+
+Retrieved Documents: 2beb0bc1b25fa27c0f74e3817333efe0.txt, 2beb0bc1b25fa27c0f74e3817333efe0.txt, 2beb0bc1b25fa27c0f74e3817333efe0.txt
+
+Raw Retrieved Content:
+The 106th Grey Cup ( known as the 106th Grey Cup presented by Shaw for sponsorship reasons ) will be played to decide the Canadian Football League ( CFL ) championship for the 2018 season . The game will be televised in Canada nationally on TSN .
+
+The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton , Alberta on Sunday , November 25 , 2018 .
+
+On March 24 , 2017 , it was reported by several news outlets that the Calgary Stampeders and Edmonton Eskimos were bidding to host the 2018 Grey Cup game . In previous years , the games would be awarded based on regional preference or ownership changes ( such as Toronto hosting the 104th Grey Cup four years after hosting their previous one ) . However , beginning with the 2018 game , the league will have a bidding process based on the merits of the application to determine a host
+
+. Calgary last hosted the Grey Cup in 2009 while Edmonton last hosted in 2010 . Both cities have previously hosted the Grey Cup game four times .
+
+Processed Retrieved Content:
+The 106th Grey Cup ( known as the 106th Grey Cup presented by Shaw for sponsorship reasons ) will be played to decide the Canadian Football League ( CFL ) championship for the 2018 season. The game will be televised in Canada nationally on TSN. The game is scheduled to be played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta on Sunday, November 25, 2018. On March 24, 2017, it was reported by several news outlets that the Calgary Stampeders and Edmonton Eskimos were bidding to host the 2018 Grey Cup game. In previous years, the games would be awarded based on regional preference or ownership changes ( such as Toronto hosting the 104th Grey Cup four years after hosting their previous one ). However, beginning with the 2018 game, the league will have a bidding process based on the merits of the application to determine a host. Calgary last hosted the Grey Cup in 2009 while Edmonton last hosted in 2010. Both cities have previously hosted the Grey Cup game four times.
+
+RAG Answer:
+The 2018 Grey Cup is being played at The Brick Field at Commonwealth Stadium in Edmonton, Alberta.
+
+Standard LLM Answer:
+The 2018 Grey Cup was played in **Legion Field, Birmingham, Alabama**. 
+
+It was the first time the Grey Cup was held outside of Canada.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7270
+Standard LLM vs Reference Similarity: 0.4992
+Similarity Improvement: 0.2277

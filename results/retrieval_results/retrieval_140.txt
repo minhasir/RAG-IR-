@@ -1,0 +1,43 @@
+Question: how many episodes on queen of the south season 1
+
+Reference Answer: Season Episodes Originally aired First aired Last aired 13 June 23 , 2016 ( 2016 - 06 - 23 ) September 15 , 2016 ( 2016 - 09 - 15 ) 13 June 8 , 2017 ( 2017 - 06 - 08 ) August 31 , 2017 ( 2017 - 08 - 31 )
+
+Retrieved Documents: a2455434ea9bfc9dc1e9895ac54913ae.txt, a6e303c3d31ff112f60591553a3c571c.txt, 9000c9192036279172490c02eb51e7fa.txt
+
+Raw Retrieved Content:
+Queen of the South 's first season received mixed to positive feedback from critics . On Rotten Tomatoes , it has a rating of 69 % , based on 16 reviews . The site 's consensus reads : `` Queen of the South enlivens an overdone premise with action and narrative vigor -- and shows hints of intriguing potential . '' On Metacritic , the first season scored 59 out of 100 , based on 15 critics , indicating `` mixed or average reviews '' .
+
+With a total of 254 episodes , House of Payne aired more episodes than any other television series with a predominantly African American cast , surpassing The Jeffersons with 253 episodes , Family Matters with 215 episodes , and The Cosby Show with 202 episodes .
+
+In 2017 , the Oprah Winfrey Network ordered a spin - off series titled The Paynes , with 38 episodes and the original cast returning to reprise their roles . The series premiered on January 16 , 2018 .
+
+. This season was the first to feature results episodes lasting one hour on a weekly basis since season one .
+
+Processed Retrieved Content:
+Queen of the South 's first season received mixed to positive feedback from critics. On Rotten Tomatoes, it has a rating of 69 %, based on 16 reviews. The site 's consensus reads: `` Queen of the South enlivens an overdone premise with action and narrative vigor -- and shows hints of intriguing potential. '' On Metacritic, the first season scored 59 out of 100, based on 15 critics, indicating `` mixed or average reviews ''. With a total of 254 episodes, House of Payne aired more episodes than any other television series with a predominantly African American cast, surpassing The Jeffersons with 253 episodes, Family Matters with 215 episodes, and The Cosby Show with 202 episodes. In 2017, the Oprah Winfrey Network ordered a spin - off series titled The Paynes, with 38 episodes and the original cast returning to reprise their roles. The series premiered on January 16, 2018.. This season was the first to feature results episodes lasting one hour on a weekly basis since season one.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The provided text discusses the critical reception and episode counts of other shows, but does not mention the number of episodes in Queen of the South season 1.
+
+Standard LLM Answer:
+Queen of the South Season 1 has **10 episodes**.
+
+
+
+Here's a breakdown:
+
+*   Episode 1: Pilot
+*   Episode 2: Homecoming
+*   Episode 3: Pigeon
+*   Episode 4: Madre De Dios
+*   Episode 5: Feast
+*   Episode 6: Border Politics
+*   Episode 7: The Price of Loyalty
+*   Episode 8: Stealing the Show
+*   Episode 9: Money
+*   Episode 10: Song of the Canary
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3664
+Standard LLM vs Reference Similarity: 0.4659
+Similarity Improvement: -0.0996

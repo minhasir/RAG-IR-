@@ -1,0 +1,63 @@
+Question: where is arkansas river located on a map
+
+Reference Answer: Arkansas River River The lower part of the Arkansas River near Little Rock , Arkansas Country United States States Colorado , Kansas , Oklahoma , Arkansas Region Great Plains Part of Mississippi River watershed Tributaries - left Fountain Creek , Pawnee River , Little Arkansas River , Walnut River , Verdigris River , Neosho River - right Cimarron River , Salt Fork Arkansas River , Canadian River , Poteau River Cities Pueblo , CO , Wichita , KS , Tulsa , OK , Muskogee , OK , Fort Smith , AR , Little Rock , AR , Pine Bluff , AR Source Confluence of East Fork Arkansas River and Tennessee Creek - location Near Leadville , Rocky Mountains , Colorado - elevation 9,728 ft ( 2,965 m ) - coordinates 39 ° 15 ′ 30 '' N 106 ° 20 ′ 38 '' W ﻿ / ﻿ 39.25833 ° N 106.34389 ° W ﻿ / 39.25833 ; - 106.34389 Mouth Mississippi River - location Franklin Township , Desha County , near Napoleon , Arkansas - elevation 108 ft ( 33 m ) - coordinates 33 ° 46 ′ 30 '' N 91 ° 04 ′ 15 '' W ﻿ / ﻿ 33.77500 ° N 91.07083 ° 
+
+Retrieved Documents: 15539cec7e148136349d081d734395a3.txt, 15539cec7e148136349d081d734395a3.txt, 15539cec7e148136349d081d734395a3.txt
+
+Raw Retrieved Content:
+The Arkansas River is a major tributary of the Mississippi River . It generally flows to the east and southeast as it traverses the U.S. states of Colorado , Kansas , Oklahoma , and Arkansas . The river 's source basin lies in the western United States in Colorado , specifically the Arkansas River Valley , where the headwaters derive from the snowpack in the Sawatch and Mosquito mountain ranges
+
+The Arkansas has three distinct sections in its long path through central North America . At its headwaters , the Arkansas runs as a steep fast - flowing mountain river through the Rockies in its narrow valley , dropping 4,600 feet ( 1.4 km ) in 120 miles ( 193 km ) . This section supports extensive whitewater rafting , including The Numbers ( near Granite , Colorado ) , Brown 's Canyon , and the Royal Gorge .
+
+. The Arkansas River 's mouth is at Napoleon , Arkansas , and its drainage basin covers nearly 170,000 sq mi ( 440,300 km2 ) . In terms of volume , the river is much smaller than the Missouri and Ohio Rivers , with a mean discharge of roughly 41,000 cubic feet per second ( 1,200 m / s ) .
+
+Processed Retrieved Content:
+The Arkansas River is a major tributary of the Mississippi River. It generally flows to the east and southeast as it traverses the U.S. states of Colorado, Kansas, Oklahoma, and Arkansas. The river 's source basin lies in the western United States in Colorado, specifically the Arkansas River Valley, where the headwaters derive from the snowpack in the Sawatch and Mosquito mountain ranges The Arkansas has three distinct sections in its long path through central North America. At its headwaters, the Arkansas runs as a steep fast - flowing mountain river through the Rockies in its narrow valley, dropping 4,600 feet ( 1.4 km ) in 120 miles ( 193 km ). This section supports extensive whitewater rafting, including The Numbers ( near Granite, Colorado ), Brown 's Canyon, and the Royal Gorge.. The Arkansas River 's mouth is at Napoleon, Arkansas, and its drainage basin covers nearly 170,000 sq mi ( 440,300 km2 ). In terms of volume, the river is much smaller than the Missouri and Ohio Rivers, with a mean discharge of roughly 41,000 cubic feet per second ( 1,200 m / s ).
+
+RAG Answer:
+The Arkansas River is located in the U.S. states of Colorado, Kansas, Oklahoma, and Arkansas. Its source basin lies in the western United States in Colorado, specifically the Arkansas River Valley. Its mouth is at Napoleon, Arkansas.
+
+Standard LLM Answer:
+Okay, let's break down the location of the Arkansas River and its relation to Arkansas. This is a common point of confusion!
+
+**1. The Arkansas River: A Long and Winding Route**
+
+*   **Headwaters:** The Arkansas River doesn't start in Arkansas! It originates in **Colorado**, in the Rocky Mountains. Specifically, it begins at the confluence of the North Fork and South Fork of the Arkansas River near Leadville.
+*   **Through Several States:** The Arkansas River flows *through* several states:
+    *   **Colorado:**  It starts here and flows eastward.
+    *   **Kansas:** A significant portion of the river flows through Kansas.
+    *   **Oklahoma:** It continues into Oklahoma.
+    *   **Arkansas:**  Finally, it enters Arkansas.
+    *   **Missouri:** It eventually empties into the Mississippi River in Missouri.
+
+**2. Arkansas and the River: Where They Meet**
+
+*   **Eastern Arkansas:** The Arkansas River forms a significant portion of the **eastern border** of Arkansas. It flows through several major cities in Arkansas, including:
+    *   **Fort Smith:** Near the Oklahoma border.
+    *   **Little Rock (State Capital):**  The river runs right through the heart of Little Rock.
+    *   **Pine Bluff**
+    *   **Stuttgart**
+
+**3. Finding it on a Map**
+
+Here's how to locate it:
+
+1.  **Start with Arkansas:** Find the state of Arkansas on a map of the United States.
+2.  **Look to the East:** The Arkansas River flows from west to east across the state.  Look along the eastern side of Arkansas.
+3.  **Major Cities:** Use the cities mentioned above (Fort Smith, Little Rock, Pine Bluff, Stuttgart) as landmarks to pinpoint the river's course.
+4. **Online Maps:** Use Google Maps or another online mapping service. Search for "Arkansas River" and you'll see its path clearly marked.
+
+**Key Points to Remember:**
+
+*   The river is named after the state, but the state is not where the river *starts*.
+*   The Arkansas River is a major waterway that flows through multiple states.
+*   It forms a significant portion of Arkansas's eastern border.
+
+
+
+I hope this clarifies the location of the Arkansas River! Do you want me to help you find a specific point on a map, or perhaps provide a link to an interactive map?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7784
+Standard LLM vs Reference Similarity: 0.7881
+Similarity Improvement: -0.0097

@@ -1,0 +1,37 @@
+Question: how far is richmond va from newport news va
+
+Reference Answer: In the 1880s , he oversaw extension of the C&O 's new Peninsula Subdivision , which extended from the Church Hill Tunnel in Richmond southeast down the peninsula through Williamsburg to Newport News , where the company developed coal piers on the harbor of Hampton Roads
+
+Retrieved Documents: d37e8b22a5a4ec716b276a85c2a6c9ed.txt, d37e8b22a5a4ec716b276a85c2a6c9ed.txt, d37e8b22a5a4ec716b276a85c2a6c9ed.txt
+
+Raw Retrieved Content:
+Newport News is located at 37 ° 4 ′ 15 '' N 76 ° 29 ′ 4 '' W ﻿ / ﻿ 37.07083 ° N 76.48444 ° W ﻿ / 37.07083 ; - 76.48444 ( 37.071046 , − 76.484557 ) . According to the United States Census Bureau , the city has a total area of 120 square miles ( 310 km ) , of which 69 square miles ( 180 km ) is land and 51 square miles ( 130 km ) ( 42.4 % ) is water .
+
+Newport News is served by three airports . Newport News / Williamsburg International Airport , in Newport News ; Norfolk International Airport , in Norfolk ; and Richmond International Airport all of which cater to passengers from Hampton Roads .
+
+Newport News is an independent city in the Commonwealth of Virginia in the United States . As of the 2010 census , the population was 180,719 . In 2013 , the population was estimated to be 183,412 , making it the fifth-most populous city in Virginia .
+
+Processed Retrieved Content:
+Newport News is located at 37 ° 4 ′ 15 '' N 76 ° 29 ′ 4 '' W ﻿ / ﻿ 37.07083 ° N 76.48444 ° W ﻿ / 37.07083; - 76.48444 ( 37.071046, − 76.484557 ). According to the United States Census Bureau, the city has a total area of 120 square miles ( 310 km ), of which 69 square miles ( 180 km ) is land and 51 square miles ( 130 km ) ( 42.4 % ) is water. Newport News is served by three airports. Newport News / Williamsburg International Airport, in Newport News; Norfolk International Airport, in Norfolk; and Richmond International Airport all of which cater to passengers from Hampton Roads. Newport News is an independent city in the Commonwealth of Virginia in the United States. As of the 2010 census, the population was 180,719. In 2013, the population was estimated to be 183,412, making it the fifth-most populous city in Virginia.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions Richmond International Airport serves passengers from Hampton Roads, but it does not provide the distance between Richmond, VA and Newport News, VA.
+
+Standard LLM Answer:
+Okay, let's figure out the distance between Richmond, VA and Newport News, VA.
+
+The driving distance between Richmond, VA and Newport News, VA is approximately **155-165 miles (250-265 kilometers)**.
+
+Here's a more detailed breakdown:
+
+*   **By Car:** The most common route is via I-64 West. The drive typically takes around **2 hours 30 minutes to 3 hours**, depending on traffic.
+*   **Straight Line (Air Distance):** The straight-line distance is closer to **135 miles (217 kilometers)**.
+
+
+
+Hope this helps!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3240
+Standard LLM vs Reference Similarity: 0.3168
+Similarity Improvement: 0.0072

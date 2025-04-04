@@ -1,0 +1,28 @@
+Question: who is the existing prime minister of pakistan
+
+Reference Answer: List of Prime Ministers of Pakistan hide Term Number Portrait Name Took office Left office Tenure Elections Political party ( Alliance ) Note ( s ) Liaquat Ali Khan 14 August 1947 16 October 1951 ( assassinated ) 4 Years , 2 Months , 2 Days , -- Muslim League Following advice given by the founding father of the nation , Governor - General Muhammad Ali Jinnah appointed and invited the Finance Minister Liaquat Ali Khan to set up and run his administration in 1947 . He was assassinated in 1951 , and Khawaja Nazimuddin took the office . Sir Khawaja Nazimuddin 17 October 1951 17 April 1953 1 Year , 6 Months , -- Muslim League Nazimuddin became Prime Minister of Pakistan after the assassination of Liaquat Ali Khan in 1951 . He left the office when Governor - General Malik Ghulam Muhammad dissolved his government in 1953 . Mohammad Ali Bogra 17 April 1953 12 August 1955 2 Years , 3 Months , 26 Days , -- Muslim League A diplomat and relatively unknown personality to Pakistani politics , Bogra 
+
+Retrieved Documents: bd90da216752a0b482e5a25b849bee1d.txt, bd90da216752a0b482e5a25b849bee1d.txt, bd90da216752a0b482e5a25b849bee1d.txt
+
+Raw Retrieved Content:
+The Prime Minister of Pakistan ( Urdu : وزِیرِ اعظم ‬ ‎ -- Wazīr - ē Aʿẓam , Urdu pronunciation : ( ʋəˈziːr - ˌeː ˈɑː. zəm ) ; Turkish lit . `` Grand Vizier '' ) , is the popularly elected politician who is the chief executive of the Government of Pakistan
+
+Since 1947 , Pakistan has had eighteen prime ministers , aside from the appointed caretaker prime ministers who were only mandated to oversee the system until the election process was finished . In Pakistan 's parliamentary system , the Prime Minister is sworn - in by the President and usually is the Chairman or / the President of the party or coalition that has a majority in the National Assembly -- the lower house of Pakistan Parliament .
+
+After the general elections held in 2002 , Zafarullah Khan Jamali was invited to form his administration as its Prime Minister . After the Supreme Court of Pakistan 's rulings to disqualified the Prime Minister Yousaf Raza Gillani in 2012 , the business of his administration was looked after by Pervez Ashraf until the caretaker administration was setup under Mir Hazar Khoso .
+
+Processed Retrieved Content:
+The Prime Minister of Pakistan ( Urdu: وزِیرِ اعظم ‬ ‎ -- Wazīr - ē Aʿẓam, Urdu pronunciation: ( ʋəˈziːr - ˌeː ˈɑː. zəm ); Turkish lit. `` Grand Vizier '' ), is the popularly elected politician who is the chief executive of the Government of Pakistan Since 1947, Pakistan has had eighteen prime ministers, aside from the appointed caretaker prime ministers who were only mandated to oversee the system until the election process was finished. In Pakistan 's parliamentary system, the Prime Minister is sworn - in by the President and usually is the Chairman or / the President of the party or coalition that has a majority in the National Assembly -- the lower house of Pakistan Parliament. After the general elections held in 2002, Zafarullah Khan Jamali was invited to form his administration as its Prime Minister. After the Supreme Court of Pakistan 's rulings to disqualified the Prime Minister Yousaf Raza Gillani in 2012, the business of his administration was looked after by Pervez Ashraf until the caretaker administration was setup under Mir Hazar Khoso.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions past prime ministers (Zafarullah Khan Jamali, Yousaf Raza Gillani, Pervaiz Ashraf, and Mir Hazer Khoso) but does not state who the current prime minister is.
+
+Standard LLM Answer:
+As of today, November 21, 2023, the Prime Minister of Pakistan is **Anwar-ul-Haq Kakar**.
+
+It's important to note that he is a caretaker Prime Minister, meaning he's in office to oversee the country until general elections can be held. He assumed office on August 14, 2023.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4301
+Standard LLM vs Reference Similarity: 0.5955
+Similarity Improvement: -0.1653

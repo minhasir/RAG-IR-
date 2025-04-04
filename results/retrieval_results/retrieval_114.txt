@@ -1,0 +1,72 @@
+Question: what goods does the us trade with canada
+
+Reference Answer: Canada has historically held a trade deficit with the United States in every year since 1985 in net trade of goods , excluding services
+
+Retrieved Documents: b3bfc6868f430f71f29e6e34261e47d4.txt, b3bfc6868f430f71f29e6e34261e47d4.txt, b3bfc6868f430f71f29e6e34261e47d4.txt
+
+Raw Retrieved Content:
+There are several disputes arising from the bilateral trade between the two nations . The United States placed Canada on its Special 301 Report intellectual property rights enforcement ( although under the mildest category of `` rebuke '' ) . Other products from Canada under dispute include softwood lumber , beef , tomatoes , and other agricultural products .
+
+The trade relationship of the United States with Canada was the second largest in the world after China and the United States . In 2016 , the goods and services trade between the two countries totaled $627.8 billion . U.S. exports were $320.1 billion , while imports were $307.6 billion . The United States had a $12.5 billion trade surplus with Canada in 2016 . Canada has historically held a trade deficit with the United States in every year since 1985 in net trade of goods , excluding services
+
+The strength of the Canada -- U.S. relationship is demonstrated by impressive bilateral trade of approximately $1.9 billion a day , along the world 's longest undefended border . Energy trade is the largest component of this cross-border commerce . Canada has the third - largest oil reserves ( after Saudi Arabia and Venezuela ) , thanks to its oil - sands resources . The United States has historically been Canada 's only foreign market for natural gas , oil , and hydropower
+
+Processed Retrieved Content:
+There are several disputes arising from the bilateral trade between the two nations. The United States placed Canada on its Special 301 Report intellectual property rights enforcement ( although under the mildest category of `` rebuke '' ). Other products from Canada under dispute include softwood lumber, beef, tomatoes, and other agricultural products. The trade relationship of the United States with Canada was the second largest in the world after China and the United States. In 2016, the goods and services trade between the two countries totaled $627.8 billion. U.S. exports were $320.1 billion, while imports were $307.6 billion. The United States had a $12.5 billion trade surplus with Canada in 2016. Canada has historically held a trade deficit with the United States in every year since 1985 in net trade of goods, excluding services The strength of the Canada -- U.S. relationship is demonstrated by impressive bilateral trade of approximately $1.9 billion a day, along the world 's longest undefended border. Energy trade is the largest component of this cross-border commerce. Canada has the third - largest oil reserves ( after Saudi Arabia and Venezuela ), thanks to its oil - sands resources. The United States has historically been Canada 's only foreign market for natural gas, oil, and hydropower
+
+RAG Answer:
+The US trades softwood lumber, beef, tomatoes, and other agricultural products with Canada. Additionally, energy trade (natural gas, oil, and hydropower) is a large component of the trade relationship.
+
+Standard LLM Answer:
+Okay, let's break down the goods the US trades with Canada. It's a *massive* trade relationship, so this will be a fairly detailed overview.
+
+**The US is Canada's largest trading partner, and Canada is the US's largest export market.**  The relationship is deeply integrated.
+
+Here's a breakdown, separated into US exports to Canada and US imports from Canada, with some key categories highlighted:
+
+**1. US Exports to Canada (What the US Sells to Canada):**
+
+*   **Machinery:** This is a *huge* category. It includes industrial machinery, computers, electrical equipment, and more.  It's a cornerstone of the trade relationship.
+*   **Vehicles:** Cars, trucks, and auto parts are a significant export.  The automotive industry is highly integrated between the two countries.
+*   **Chemicals:** A wide range of chemicals, including plastics, resins, and specialty chemicals.
+*   **Computer and Electronic Products:**  This includes semiconductors, computer components, and finished electronics.
+*   **Agricultural Products:**
+    *   **Soybeans:** A major export.
+    *   **Corn:** Another significant agricultural export.
+    *   **Wheat:**  Important for Canadian food processing.
+    *   **Meat (Beef, Pork):**  Significant trade in both directions, but the US is a net exporter.
+*   **Oil and Petroleum Products:** While Canada is a major oil producer, the US exports refined petroleum products and some crude oil.
+*   **Paper and Wood Products:**  While Canada is a major exporter of these, the US also exports some.
+*   **Pharmaceuticals:**  A growing area of trade.
+
+**2. US Imports from Canada (What the US Buys from Canada):**
+
+*   **Energy Products (Oil & Natural Gas):** This is *the* dominant import category. Canada is a major supplier of oil and natural gas to the US.
+*   **Vehicles:** Similar to exports, the automotive industry is integrated. The US imports vehicles manufactured in Canada.
+*   **Wood and Paper Products:** Canada is a major exporter of lumber, pulp, and paper.
+*   **Aluminum:** Canada is a significant supplier of aluminum to the US.
+*   **Chemicals:**  Similar to exports, a wide range of chemicals are traded.
+*   **Agricultural Products:**
+    *   **Potatoes:** A significant import.
+    *   **Canola (Rapeseed Oil):**  Important for food processing.
+*   **Minerals and Metals:**  Including iron ore, nickel, and other metals.
+*   **Pharmaceuticals:**  Canada also exports pharmaceuticals.
+
+**Key Trends & Considerations:**
+
+*   **Integrated Supply Chains:**  Many industries have highly integrated supply chains across the US and Canada.  Goods often cross the border multiple times during the manufacturing process.
+*   **USMCA (formerly NAFTA):** The US-Mexico-Canada Agreement governs trade between the three countries. It has rules of origin and other provisions that affect trade flows.
+*   **Regional Differences:** Trade patterns vary by region within both countries.
+*   **Services Trade:** While this response focuses on goods, it's important to note that services trade (tourism, financial services, etc.) is also a significant part of the US-Canada economic relationship.
+
+
+
+To give you a more precise answer, could you tell me:
+
+*   Are you interested in a specific category of goods?
+*   Are you looking for data on trade values (e.g., in dollars)?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6340
+Standard LLM vs Reference Similarity: 0.5909
+Similarity Improvement: 0.0431

@@ -1,0 +1,31 @@
+Question: who became the new boss in the office
+
+Reference Answer: ) episodes Season 1 `` Pilot '' `` Diversity Day '' `` Health Care '' `` The Alliance '' `` Basketball '' `` Hot Girl '' Season 2 `` The Dundies '' `` Sexual Harassment '' `` Office Olympics '' `` The Fire '' `` Halloween '' `` The Fight '' `` The Client '' `` Performance Review '' `` Email Surveillance '' `` Christmas Party '' `` Booze Cruise '' `` The Injury '' `` The Secret '' `` The Carpet '' `` Boys and Girls '' `` Valentine 's Day '' `` Dwight 's Speech '' `` Take Your Daughter to Work Day '' `` Michael 's Birthday '' `` Drug Testing '' `` Conflict Resolution '' `` Casino Night '' Season 3 `` Gay Witch Hunt '' `` The Convention '' `` The Coup '' `` Grief Counseling '' `` Initiation '' `` Diwali '' `` Branch Closing '' `` The Merger '' `` The Convict '' `` A Benihana Christmas '' `` Back from Vacation '' `` Traveling Salesmen '' `` The Return '' `` Ben Franklin '' `` Phyllis ' Wedding '' `` Business School '' `` Cocktails '' `` The Negotiation '' `` Safety Training '' `` Product R
+
+Retrieved Documents: 649bc0c16dfdfbebeceb5358742ba1a6.txt, e0d1a06999e9bd68210f6a8964cebb55.txt, e0d1a06999e9bd68210f6a8964cebb55.txt
+
+Raw Retrieved Content:
+Now with Rocky in a funk without Shake It Up , Chicago ! , CeCe tries helping her out . When they are out of choices , they witness how horrible and emotionless the spirit squad is , so they decide to join . Later on , the squad promotes CeCe as president and they want her to kick Rocky out when they realize how bossy and demanding she is . Meanwhile , Deuce feels bad for Tinka since Gunther left . He persuades Dina into letting her hang out with them
+
+. This vacillation between extremes meant that the episodes `` sometimes '' work . Matt Zoller Seitz of Salon considered the post-Michael Scott era of The Office `` warmer and more reflective '' . He also praised the decision of Andy as a manager , and he highlighted Ed Helms and Craig Robinson 's performances in `` Lotto '' , arguing that they represented the `` subtlest , deepest acting to date ( on The Office ) '' . He also selected `` Lotto '' as the best episode of the season
+
+The eighth season largely centers on Andy Bernard 's ( Ed Helms ) ascension to regional manager , as well as the antics of Robert California ( James Spader ) , the new CEO of Sabre , a fictional printer company that owns Dunder Mifflin . Halfway through the season , Dwight Schrute ( Rainn Wilson ) -- along with Jim Halpert ( John Krasinski ) , Stanley Hudson ( Leslie David Baker ) , Ryan Howard ( B.J
+
+Processed Retrieved Content:
+Now with Rocky in a funk without Shake It Up, Chicago!, CeCe tries helping her out. When they are out of choices, they witness how horrible and emotionless the spirit squad is, so they decide to join. Later on, the squad promotes CeCe as president and they want her to kick Rocky out when they realize how bossy and demanding she is. Meanwhile, Deuce feels bad for Tinka since Gunther left. He persuades Dina into letting her hang out with them. This vacillation between extremes meant that the episodes `` sometimes '' work. Matt Zoller Seitz of Salon considered the post-Michael Scott era of The Office `` warmer and more reflective ''. He also praised the decision of Andy as a manager, and he highlighted Ed Helms and Craig Robinson 's performances in `` Lotto '', arguing that they represented the `` subtlest, deepest acting to date ( on The Office ) ''. He also selected `` Lotto '' as the best episode of the season The eighth season largely centers on Andy Bernard 's ( Ed Helms ) ascension to regional manager, as well as the antics of Robert California ( James Spader ), the new CEO of Sabre, a fictional printer company that owns Dunder Mifflin. Halfway through the season, Dwight Schrute ( Rainn Wilson ) -- along with Jim Halpert ( John Krasinski ), Stanley Hudson ( Leslie David Baker ), Ryan Howard ( B.J
+
+RAG Answer:
+Robert California became the new CEO of Sabre, a fictional printer company that owns Dunder Mifflin.
+
+Standard LLM Answer:
+This is a trick question! The answer is **the office**. 
+
+The question is worded to make you think about a person becoming the boss. However, the phrasing "who became the new boss *in the office*" refers to the office itself taking on the role of boss. It'
+
+
+Let me know if you'd like to try another riddle! 😊
+
+Similarity Evaluation:
+RAG vs Reference Similarity: -0.0854
+Standard LLM vs Reference Similarity: -0.0026
+Similarity Improvement: -0.0828

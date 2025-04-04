@@ -1,0 +1,38 @@
+Question: who was the first president to get his picture taken
+
+Reference Answer: John Quincy Adams ( 1825 - 1829 ) ( edit ) Philip Haas took this daguerrotype of John Quincy Adams in 1843 - it is the first photograph taken of a President
+
+Retrieved Documents: 803507b3b5c51a96b3ddefd8f00dfb73.txt, 803507b3b5c51a96b3ddefd8f00dfb73.txt, 803507b3b5c51a96b3ddefd8f00dfb73.txt
+
+Raw Retrieved Content:
+John Quincy Adams ( 1825 - 1829 ) ( edit ) Philip Haas took this daguerrotype of John Quincy Adams in 1843 - it is the first photograph taken of a President . First President to be the son of another President ( He was the son of John Adams ) . First President whose father lived to see him become president ( His father , former President John Adams , was still alive when he took office , and died in 1826 )
+
+( He met the future King Edward VII in 1860 during his tour of America ) . First President to have his inauguration photographed . Abraham Lincoln ( 1861 - 1865 ) ( edit ) Abraham Lincoln was the first President to be assassinated . First President born outside of the original 13 colonies and first born in Kentucky . First President from Illinois .
+
+First President to have facial hair . ( He wore long sideburns ) . First President to have his photograph taken . First President to serve in Congress after serving in the Presidency . First President to be succeeded by a President older than him ( Both Adams and his successor Andrew Jackson were born in 1767 , but Jackson was born in March , while Adams was born in July ) .
+
+Processed Retrieved Content:
+John Quincy Adams ( 1825-1829 ) ( edit ) Philip Haas took this daguerrotype of John Quincy Adams in 1843 - it is the first photograph taken of a President. First President to be the son of another President ( He was the son of John Adams ). First President whose father lived to see him become president ( His father, former President John Adams, was still alive when he took office, and died in 1826 ) ( He met the future King Edward VII in 1860 during his tour of America ). First President to have his inauguration photographed. Abraham Lincoln ( 1861-1865 ) ( edit ) Abraham Lincoln was the first President to be assassinated. First President born outside of the original 13 colonies and first born in Kentucky. First President from Illinois. First President to have facial hair. ( He wore long sideburns ). First President to have his photograph taken. First President to serve in Congress after serving in the Presidency. First President to be succeeded by a President older than him ( Both Adams and his successor Andrew Jackson were born in 1767, but Jackson was born in March, while Adams was born in July ).
+
+RAG Answer:
+Abraham Lincoln was the first president to have his photograph taken.
+
+Standard LLM Answer:
+This is a fun historical question! Here's the breakdown:
+
+*   **The First President:** George Washington
+*   **The First President to be Photographed:** John Quincy Adams
+
+**Here's the story:**
+
+*   George Washington was president from 1789 to 1797. Photography wasn't invented yet! The first successful photograph wasn't taken until 1826, seven years after Washington's death.
+*   John Quincy Adams, who served as president from 1825 to 1829, was the first U.S. president to have his portrait taken. It was a daguerreotype (an early form of photography) taken in 1843, when he was 69 years old. He was quite pleased with the process and sat for several more photographic portraits.
+
+
+
+Let me know if you'd like to know more about the history of photography or presidential history!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4873
+Standard LLM vs Reference Similarity: 0.5719
+Similarity Improvement: -0.0846

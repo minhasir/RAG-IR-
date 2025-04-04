@@ -1,0 +1,44 @@
+Question: who does the voice of shaggy on scooby doo
+
+Reference Answer: 1980 ; his death 2014 ) Children Kerri , Julie , Mike ( with Myers ) Liberty ( with Thompson ) Signature Kemal Amin `` Casey '' Kasem ( April 27 , 1932 -- June 15 , 2014 ) was an American disc jockey , music historian , radio personality , voice actor , and actor , known for being the host of several music radio countdown programs , most notably American Top 40 , from 1970 until his retirement in 2009 , and for providing the voice of Norville `` Shaggy '' Rogers in the Scooby - Doo franchise from 1969 to 1997 , and again from 2002 until 2009
+
+Retrieved Documents: a5c60120b1258fca71ca47100bd9446e.txt, a5c60120b1258fca71ca47100bd9446e.txt, a5c60120b1258fca71ca47100bd9446e.txt
+
+Raw Retrieved Content:
+. After 40 years , Kasem retired from his role of voicing Shaggy in 2009 , although he did voice Shaggy 's father in the 2010 TV series Scooby - Doo ! Mystery Incorporated .
+
+. Although officially retired from acting , he provided the voice of Colton Rogers , Shaggy 's father , on a recurring basis for the 2010 -- 2013 series Scooby - Doo ! Mystery Incorporated , again uncredited at his request .
+
+In 2002 , Kasem reprised the role of Shaggy when it was determined the character would be a vegetarian . In 2009 , he retired from voice acting , with his final performance being the voice of Shaggy in Scooby - Doo ! and the Samurai Sword . He did voice Shaggy again for `` The Official BBC Children in Need Medley '' , but went uncredited by his request
+
+Processed Retrieved Content:
+. After 40 years, Kasem retired from his role of voicing Shaggy in 2009, although he did voice Shaggy 's father in the 2010 TV series Scooby - Doo! Mystery Incorporated.. Although officially retired from acting, he provided the voice of Colton Rogers, Shaggy 's father, on a recurring basis for the 2010 -- 2013 series Scooby - Doo! Mystery Incorporated, again uncredited at his request. In 2002, Kasem reprised the role of Shaggy when it was determined the character would be a vegetarian. In 2009, he retired from voice acting, with his final performance being the voice of Shaggy in Scooby - Doo! and the Samurai Sword. He did voice Shaggy again for `` The Official BBC Children in Need Medley '', but went uncredited by his request
+
+RAG Answer:
+Kasem voiced Shaggy for many years, retiring from the role in 2009.
+
+Standard LLM Answer:
+This is a fun one! The voice of Shaggy on Scooby-Doo has been voiced by several actors over the years.
+
+*   **Scott Innes** voiced Shaggy from 
+
+    *   1999-2002 (What's New, Scooby-Doo?)
+    *   2003-2006 (Looney Tunes: Back in Action)
+    *   2006-2009 (Scooby-Doo! Mystery Incorporated)
+    *   2010-2013 (The Looney Tunes Show)
+*   **Matthew Lillard** has also voiced Shaggy in various projects, including:
+    *   *Scooby-Doo* (2002) and *Scooby-Doo 2: Monsters Unleashed* (2004) films
+    *   *Scooby-Doo! Mystery Incorporated* (2010-2013)
+    *   *Be Cool* (2005)
+    *   *Scooby-Doo! The Mystery Begins* (2009)
+    *   *Scooby-Doo! Camp Scare* (2011)
+    *   *Scooby-Doo! Legend of the Phantosaur* (2014)
+    *   *Scooby-Doo! and Kiss: Rock and Roll Mystery* (2015)
+    *   *Scooby-Doo! Return to Zombie Island* (2019)
+
+So, depending on the specific Scooby-Doo show or movie you're watching, it could be either Scott Innes or Matthew Lillard!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5907
+Standard LLM vs Reference Similarity: 0.5468
+Similarity Improvement: 0.0439

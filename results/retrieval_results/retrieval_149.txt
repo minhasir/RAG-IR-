@@ -1,0 +1,27 @@
+Question: when did nsw last won a state of origin series
+
+Reference Answer: State of Origin series Year Winner Wins Losses Drawn Shield Holder 1982 Queensland 0 Queensland Queensland 0 Queensland 1984 Queensland 0 Queensland 1985 New South Wales 0 New South Wales 1986 New South Wales 0 0 New South Wales Queensland 0 Queensland 1988 Queensland 0 0 Queensland 1989 Queensland 0 0 Queensland 1990 New South Wales 0 New South Wales 1991 Queensland 0 Queensland 1992 New South Wales 0 New South Wales 1993 New South Wales 0 New South Wales 1994 New South Wales 0 New South Wales 1995 Queensland 0 0 Queensland New South Wales 0 0 New South Wales 1997 New South Wales 0 New South Wales 1998 Queensland 0 Queensland 1999 Draw Queensland 2000 New South Wales 0 0 New South Wales 2001 Queensland 0 Queensland 2002 Draw Queensland 2003 New South Wales 0 New South Wales New South Wales 0 New South Wales 2005 New South Wales 0 New South Wales 2006 Queensland 0 Queensland 2007 Queensland 0 Queensland 2008 Queensland 0 Queensland 2009 Queensland 0 Queensland Queensland 0 0 Queensland
+
+Retrieved Documents: 377e3e639e3ff8d9594b1eae00cd26cd.txt, 377e3e639e3ff8d9594b1eae00cd26cd.txt, 377e3e639e3ff8d9594b1eae00cd26cd.txt
+
+Raw Retrieved Content:
+In 2018 , New South Wales won their first State of Origin series in four years , defeating Queensland 22 -- 12 and 18 -- 14 in the first two games . Queensland scored a consolation victory 18 -- 12 in the final game .
+
+The Under 20s State of Origin has only had seven seasons so far ( 2012 to 2018 ) with only one game a year , instead of three . New South Wales has won six of the seven , with Queensland winning their first in 2018 . They play for the Darren Lockyer Shield .
+
+. From 1982 onwards a best - of - three match series has been played around the middle of the rugby league season for the State of Origin shield . During the early years , the results were extraordinarily even . However , since 2006 , Queensland has won every series except in 2014 and 2018 .
+
+Processed Retrieved Content:
+In 2018, New South Wales won their first State of Origin series in four years, defeating Queensland 22 -- 12 and 18 -- 14 in the first two games. Queensland scored a consolation victory 18 -- 12 in the final game. The Under 20s State of Origin has only had seven seasons so far ( 2012 to 2018 ) with only one game a year, instead of three. New South Wales has won six of the seven, with Queensland winning their first in 2018. They play for the Darren Lockyer Shield.. From 1982 onwards a best - of - three match series has been played around the middle of the rugby league season for the State of Origin shield. During the early years, the results were extraordinarily even. However, since 2006, Queensland has won every series except in 2014 and 2018.
+
+RAG Answer:
+Based on the provided information, NSW last won a State of Origin series in 2018.
+
+Standard LLM Answer:
+NSW (New South Wales) last won a State of Origin series in **2020**. They won the series 3-0.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6007
+Standard LLM vs Reference Similarity: 0.6687
+Similarity Improvement: -0.0680

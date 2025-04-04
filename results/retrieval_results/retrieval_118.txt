@@ -1,0 +1,33 @@
+Question: who plays nicholas in the princess diaries 2
+
+Reference Answer: Most of the cast returned from the first film , including Julie Andrews , Anne Hathaway , Héctor Elizondo , Heather Matarazzo , and Larry Miller . Garry Marshall returned to direct and Debra Martin Chase to produce . New characters include Viscount Mabrey ( John Rhys - Davies ) , Lord Nicholas Devereaux ( Chris Pine ) , and Andrew Jacoby ( Callum Blue ) .
+
+Retrieved Documents: 0fa4d335e3e2efcbc062ee5267ee03d6.txt, 0fa4d335e3e2efcbc062ee5267ee03d6.txt, 0fa4d335e3e2efcbc062ee5267ee03d6.txt
+
+Raw Retrieved Content:
+The Princess Diaries 2 : Royal Engagement is a 2004 American romantic comedy film and the sequel to 2001 's The Princess Diaries . Unlike the first film , this film is not based on any of the books .
+
+In March 2016 , despite the death of producer Whitney Houston in February 2012 , Garry Marshall announced that Hathaway , who was pregnant with her first child , would appear in a third Princess Diaries film after she gave birth . However , with Garry Marshall 's death in July 2016 , the project had been pulled . In August 2016 , Hector Elizondo discussed a possibility that the third installment would still be produced
+
+Most of the cast returned from the first film , including Julie Andrews , Anne Hathaway , Héctor Elizondo , Heather Matarazzo , and Larry Miller . Garry Marshall returned to direct and Debra Martin Chase to produce . New characters include Viscount Mabrey ( John Rhys - Davies ) , Lord Nicholas Devereaux ( Chris Pine ) , and Andrew Jacoby ( Callum Blue ) .
+
+Despite generally negative reviews from critics , the film had a worldwide box office of $122 million .
+
+Processed Retrieved Content:
+The Princess Diaries 2: Royal Engagement is a 2004 American romantic comedy film and the sequel to 2001 's The Princess Diaries. Unlike the first film, this film is not based on any of the books. In March 2016, despite the death of producer Whitney Houston in February 2012, Garry Marshall announced that Hathaway, who was pregnant with her first child, would appear in a third Princess Diaries film after she gave birth. However, with Garry Marshall 's death in July 2016, the project had been pulled. In August 2016, Hector Elizondo discussed a possibility that the third installment would still be produced Most of the cast returned from the first film, including Julie Andrews, Anne Hathaway, Héctor Elizondo, Heather Matarazzo, and Larry Miller. Garry Marshall returned to direct and Debra Martin Chase to produce. New characters include Viscount Mabrey ( John Rhys - Davies ), Lord Nicholas Devereaux ( Chris Pine ), and Andrew Jacoby ( Callum Blue ). Despite generally negative reviews from critics, the film had a worldwide box office of $122 million.
+
+RAG Answer:
+Chris Pine plays Lord Nicholas Devereaux in The Princess Diaries 2.
+
+Standard LLM Answer:
+This is a tricky one! You're asking about two different characters.
+
+*   **Nicholas in *The Princess Diaries 2*** is played by **Jonathan Tesser**.
+*   **Nicholas Devereaux in *The Princess Diaries 3*** is played by **Robert Schwartzman**.
+
+It'|s easy to get them mixed up because they are both named Nicholas and appear in the same series!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4849
+Standard LLM vs Reference Similarity: 0.3491
+Similarity Improvement: 0.1358

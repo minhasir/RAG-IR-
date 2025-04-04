@@ -1,0 +1,40 @@
+Question: what is the orange stuff on my sushi
+
+Reference Answer: The eggs are small , ranging from 0.5 to 0.8 mm . For comparison , tobiko is larger than masago ( capelin roe ) , but smaller than ikura ( salmon roe ) . Natural tobiko has a red - orange color , a mild smoky or salty taste , and a crunchy texture .
+
+Retrieved Documents: 6086550a378a2a3d5120f91a7e48fd86.txt, 6086550a378a2a3d5120f91a7e48fd86.txt, 9d5116a2451bc98c2b46b93acbc1b4f0.txt
+
+Raw Retrieved Content:
+Sometimes tobiko is colored to change its appearance , other natural ingredients are used to accomplish the change , such as squid ink to make it black , yuzu to make it pale orange ( almost yellow ) , or even wasabi to make it green and spicy . Sometimes a serving of tobiko contains several pieces , each having a different color .
+
+Tobiko ( と びこ ) is the Japanese word for flying fish roe . It is most widely known for its use in creating certain types of sushi .
+
+The eggs are small , ranging from 0.5 to 0.8 mm . For comparison , tobiko is larger than masago ( capelin roe ) , but smaller than ikura ( salmon roe ) . Natural tobiko has a red - orange color , a mild smoky or salty taste , and a crunchy texture .
+
+Rice , pasta , and potato - based foods ( french fries and mashed potato ) also make up part of Zimbabwean cuisine . A local favourite is rice cooked with peanut butter , which is taken with thick gravy , mixed vegetables and meat . A potpourri of peanuts known as nzungu , boiled and sundried maize , black - eyed peas known as nyemba , and bambara groundnuts known as nyimo makes a traditional dish called mutakura . Mutakura can also be the above ingredients cooked individually
+
+Processed Retrieved Content:
+Sometimes tobiko is colored to change its appearance, other natural ingredients are used to accomplish the change, such as squid ink to make it black, yuzu to make it pale orange ( almost yellow ), or even wasabi to make it green and spicy. Sometimes a serving of tobiko contains several pieces, each having a different color. Tobiko ( と びこ ) is the Japanese word for flying fish roe. It is most widely known for its use in creating certain types of sushi. The eggs are small, ranging from 0.5 to 0.8 mm. For comparison, tobiko is larger than masago ( capelin roe ), but smaller than ikura ( salmon roe ). Natural tobiko has a red - orange color, a mild smoky or salty taste, and a crunchy texture. Rice, pasta, and potato - based foods ( french fries and mashed potato ) also make up part of Zimbabwean cuisine. A local favourite is rice cooked with peanut butter, which is taken with thick gravy, mixed vegetables and meat. A potpourri of peanuts known as nzungu, boiled and sundried maize, black - eyed peas known as nyemba, and bambara groundnuts known as nyimo makes a traditional dish called mutakura. Mutakura can also be the above ingredients cooked individually
+
+RAG Answer:
+Based on the provided information, the orange stuff on your sushi could be tobiko (flying fish roe). Natural tobiko has a red-orange color. It's also possible it's tobiko that has been colored with yuzu, which makes it a pale orange (almost yellow).
+
+Standard LLM Answer:
+The orange stuff on your sushi is most likely **salmon roe**, also known as **ikura**. 
+
+Here's a breakdown:
+
+*   **What it is:** Ikura are the eggs of the salmon fish. They're a delicacy in many cultures, especially in Japanese cuisine.
+*   **Taste:** They have a salty, slightly briny, and often a subtly sweet taste. The texture is usually a "pop" when you bite into them.
+*   **Why it's on sushi:** It's a popular topping for sushi, adding both flavor and visual appeal.
+
+While less common, it *could* be another type of fish roe, but salmon roe (ikura) is by far the most likely.
+
+
+
+Do you want to know more about sushi or different types of fish roe?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4800
+Standard LLM vs Reference Similarity: 0.5018
+Similarity Improvement: -0.0218

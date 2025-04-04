@@ -1,0 +1,68 @@
+Question: when does life is strange before the storm part 2
+
+Reference Answer: Life Is Strange : Before the Storm Developer ( s ) Deck Nine Publisher ( s ) Square Enix Director ( s ) Webb Pickersgill Chris Floyd Producer ( s ) David Lawrence Hein Zoe Brown Designer ( s ) William Beacham Programmer ( s ) Mark Lyons Danielle Cheah Artist ( s ) Andrew Weatherl Writer ( s ) Zak Garriss Composer ( s ) Daughter Engine Unity Platform ( s ) Microsoft Windows PlayStation 4 Xbox One Release Episode 1 WW : 31 August 2017 Episode 2 WW : 19 October 2017 Episode 3 WW : 20 December 2017 Genre ( s ) Graphic adventure Mode ( s ) Single - player
+
+Retrieved Documents: 2223f96b2be4c72f04f97eaed85adb02.txt, 2223f96b2be4c72f04f97eaed85adb02.txt, 2223f96b2be4c72f04f97eaed85adb02.txt
+
+Raw Retrieved Content:
+Prior to its official announcement , images had leaked online indicating that a prequel to Life Is Strange was in development . Square Enix revealed Life Is Strange : Before the Storm on 11 June during E3 2017 , stating that it would be released over three chapters starting on 31 August for Microsoft Windows , PlayStation 4 and Xbox One
+
+Life Is Strange : Before the Storm is an episodic graphic adventure video game developed by Deck Nine and published by Square Enix . The three episodes were released for Microsoft Windows , PlayStation 4 , and Xbox One between August and December 2017 . It is the second entry in the Life Is Strange series , set as a prequel to the first game , focusing on sixteen - year - old Chloe Price and her relationship with schoolmate Rachel Amber
+
+Following E3 2017 , Life Is Strange : Before the Storm received one of GamesRadar 's Best of E3 awards and was nominated for Hardcore Gamer 's Adventure Game award . It was nominated in the Games for Impact category at The Game Awards 2017 . At the 2017 Golden Joystick Awards , it was nominated for Best Audio .
+
+Processed Retrieved Content:
+Prior to its official announcement, images had leaked online indicating that a prequel to Life Is Strange was in development. Square Enix revealed Life Is Strange: Before the Storm on 11 June during E3 2017, stating that it would be released over three chapters starting on 31 August for Microsoft Windows, PlayStation 4 and Xbox One Life Is Strange: Before the Storm is an episodic graphic adventure video game developed by Deck Nine and published by Square Enix. The three episodes were released for Microsoft Windows, PlayStation 4, and Xbox One between August and December 2017. It is the second entry in the Life Is Strange series, set as a prequel to the first game, focusing on sixteen - year - old Chloe Price and her relationship with schoolmate Rachel Amber Following E3 2017, Life Is Strange: Before the Storm received one of GamesRadar 's Best of E3 awards and was nominated for Hardcore Gamer 's Adventure Game award. It was nominated in the Games for Impact category at The Game Awards 2017. At the 2017 Golden Joystick Awards, it was nominated for Best Audio.
+
+RAG Answer:
+Based on the provided information, the first episode of Life Is Strange: Before the Storm was released on August 31, 2017. The three episodes were released between August and December 2017. The information does not specify the release date for part 2.
+
+Standard LLM Answer:
+Okay, let's break down the "Life is Strange: Before the Storm" timeline and what happens before "Before the Storm Part 2." This is tricky because the game is episodic, and each episode has its own build-up. Here's a comprehensive overview, focusing on the events leading *directly* into Part 2:
+
+**Overall Context: The Timeline**
+
+*   **Life is Strange (2015):** This is the original game. It establishes Max's powers and the events surrounding Chloe's death. "Before the Storm" is a prequel, taking place three years *before* the events of the original game.
+*   **Life is Strange: Before the Storm (2017):** This is the prequel, focusing on Chloe's perspective and her relationship with Max. It's divided into three episodes.
+
+**Events Leading Directly into "Before the Storm Part 2" (The End of Part 2's Cliffhanger):**
+
+1.  **Episode 1: "How Did We Get Here?"**
+    *   Chloe is struggling after the death of her father, William Price. She's angry, rebellious, and feeling isolated.
+    *   She's been skipping school and getting into trouble.
+    *   She's trying to reconnect with Max Caulfield, who has moved back to Arcadia Bay with her father, Joshua. Their relationship is strained due to past misunderstandings and Chloe's behavior.
+    *   Chloe discovers a mysterious note hinting at a secret involving her father and a group called the Lighthouse Club.
+
+2.  **The Bridge Scene (End of Episode 1):**
+    *   Chloe and Max are arguing near the old bridge. Chloe is upset about Max's perceived judgment of her.
+    *   Chloe impulsively jumps off the bridge.
+    *   Chloe's powers (which are different from Max's in this timeline - more about emotional resonance and influencing conversations) activate for the first time, and she uses them to save herself.
+    *   This is a pivotal moment, revealing Chloe's latent abilities and setting the stage for the rest of the game.
+
+3.  **Episode 2: "Partners in Crime"**
+    *   Chloe and Max decide to investigate the Lighthouse Club and the secrets surrounding William Price's involvement.
+    *   They use Chloe's powers to manipulate situations and gather information, often getting into trouble along the way.
+    *   They encounter various characters connected to the Lighthouse Club, including Robert "Buzz" Dixon, and delve deeper into the club's activities.
+    *   They discover that the Lighthouse Club is involved in illegal activities and that William Price was deeply entangled in their operations.
+
+4.  **The Confrontation with Buzz (End of Episode 2):**
+    *   Chloe and Max confront Buzz Dixon, a key figure in the Lighthouse Club, who is threatening Chloe.
+    *   Chloe uses her powers to outsmart Buzz and escape, but the encounter leaves her shaken and reveals the dangerous nature of the situation.
+    *   Buzz makes a veiled threat, implying that he knows more about William Price's secrets than they do.
+
+**Therefore, as we enter "Before the Storm Part 2," the key things to remember are:**
+
+*   Chloe and Max are actively investigating the Lighthouse Club.
+*   Chloe's powers are newly discovered and being explored.
+*   They're facing increasing danger from the Lighthouse Club and its members.
+*   The mystery surrounding William Price's involvement in the club is deepening.
+*   Chloe and Max's relationship is being tested by the challenges they face.
+
+
+
+Do you want me to elaborate on any of these points, or perhaps discuss what happens *in* Part 2?
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6447
+Standard LLM vs Reference Similarity: 0.5273
+Similarity Improvement: 0.1175

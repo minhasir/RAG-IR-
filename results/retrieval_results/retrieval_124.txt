@@ -1,0 +1,34 @@
+Question: music that centers around one main note of the major or minor scale is called
+
+Reference Answer: Notes and chords within a key generally come from the major or minor scale associated with the tonic triad , but may also include borrowed chords , altered chords , secondary dominants , and the like
+
+Retrieved Documents: e9404a7e73acdc7fa2ec9bc8e070ea43.txt, e9404a7e73acdc7fa2ec9bc8e070ea43.txt, e9404a7e73acdc7fa2ec9bc8e070ea43.txt
+
+Raw Retrieved Content:
+Pieces in modes not corresponding to major or minor keys may sometimes be referred to as being in the key of the tonic . A piece using some other type of harmony , resolving e.g. to A , might be described as `` in A '' to indicate that A is the tonal center of the piece .
+
+The key usually identifies the tonic note and / or chord : the note and / or major or minor triad that represents the final point of rest for a piece , or the focal point of a section . Though the key of a piece may be named in the title ( e.g
+
+Certain musical instruments play in a certain key , or have their music written in a certain key . Instruments that do not play in the key of C are known as transposing instruments . The most common kind of clarinet , for example , is said to play in the key of B ♭ . This means that a scale written in C major in sheet music actually sounds as a B ♭ major scale when played on the B - flat clarinet -- that is , notes sound a whole tone lower than written
+
+Processed Retrieved Content:
+Pieces in modes not corresponding to major or minor keys may sometimes be referred to as being in the key of the tonic. A piece using some other type of harmony, resolving e.g. to A, might be described as `` in A '' to indicate that A is the tonal center of the piece. The key usually identifies the tonic note and / or chord: the note and / or major or minor triad that represents the final point of rest for a piece, or the focal point of a section. Though the key of a piece may be named in the title ( e.g Certain musical instruments play in a certain key, or have their music written in a certain key. Instruments that do not play in the key of C are known as transposing instruments. The most common kind of clarinet, for example, is said to play in the key of B ♭. This means that a scale written in C major in sheet music actually sounds as a B ♭ major scale when played on the B - flat clarinet -- that is, notes sound a whole tone lower than written
+
+RAG Answer:
+Based on the provided information, music that centers around one main note of the major or minor scale is called the key.
+
+Standard LLM Answer:
+Music that centers around one main note of the major or minor scale is called **monophony**.
+
+Here' ors a breakdown:
+
+*   **Monophony:** This is the simplest form of musical texture. It features a single melodic line without any harmony or counterpoint. Think of a single person singing a melody unaccompanied.
+
+
+
+Let me know if you'd like to learn about other musical textures!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6106
+Standard LLM vs Reference Similarity: 0.3817
+Similarity Improvement: 0.2288

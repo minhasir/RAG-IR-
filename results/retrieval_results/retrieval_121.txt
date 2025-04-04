@@ -1,0 +1,67 @@
+Question: where is krishna river located on a map
+
+Reference Answer: The Krishna river originates in the western ghats near Mahabaleshwar at an elevation of about 1,300 metres , in the state of Maharashtra in central India . It is one of the longest rivers in India . The Krishna river is around 1,300 km in length . The Krishna river 's source is at Mahabaleswar near the Jor village in the extreme north of Wai Taluka , Satara District , Maharashtra in the west and empties into the Bay of Bengal at Hamasaladeevi ( near Koduru ) in Andhra Pradesh , on the east coast . It flows through the state of Karnataka before entering Telangana State . The delta of this river is one of the most fertile regions in India and was the home to ancient Satavahana and Ikshvaku Sun Dynasty kings . Vijayawada is the largest city on the River Krishna .
+
+Retrieved Documents: 792db66b33ef1aa503cc31bf51521083.txt, 792db66b33ef1aa503cc31bf51521083.txt, 792db66b33ef1aa503cc31bf51521083.txt
+
+Raw Retrieved Content:
+The Krishna river originates in the western ghats near Mahabaleshwar at an elevation of about 1,300 metres , in the state of Maharashtra in central India . It is one of the longest rivers in India . The Krishna river is around 1,300 km in length
+
+The Krishna River is the fourth - biggest river in terms of water inflows and river basin area in India , after the Ganga , Godavari and Brahmaputra . The river is almost 1,300 kilometres ( 810 mi ) long . The river is also called Krishnaveni . It is a major source of irrigation for Maharashtra , Karnataka , Telangana and Andhra Pradesh .
+
+. The Krishna river is around 1,300 km in length . The Krishna river 's source is at Mahabaleswar near the Jor village in the extreme north of Wai Taluka , Satara District , Maharashtra in the west and empties into the Bay of Bengal at Hamasaladeevi ( near Koduru ) in Andhra Pradesh , on the east coast . It flows through the state of Karnataka before entering Telangana State
+
+Processed Retrieved Content:
+The Krishna river originates in the western ghats near Mahabaleshwar at an elevation of about 1,300 metres, in the state of Maharashtra in central India. It is one of the longest rivers in India. The Krishna river is around 1,300 km in length The Krishna River is the fourth - biggest river in terms of water inflows and river basin area in India, after the Ganga, Godavari and Brahmaputra. The river is almost 1,300 kilometres ( 810 mi ) long. The river is also called Krishnaveni. It is a major source of irrigation for Maharashtra, Karnataka, Telangana and Andhra Pradesh.. The Krishna river is around 1,300 km in length. The Krishna river 's source is at Mahabaleswar near the Jor village in the extreme north of Wai Taluka, Satara District, Maharashtra in the west and empties into the Bay of Bengal at Hamasaladeevi ( near Koduru ) in Andhra Pradesh, on the east coast. It flows through the state of Karnataka before entering Telangana State
+
+RAG Answer:
+Based on the provided information, the Krishna river is located in western India, flowing through Maharashtra, Karnataka, Telangana, and Andhra Pradesh. It originates near Mahabaleshwar in Maharashtra and empties into the Bay of Bengal in Andhra Pradesh.
+
+Standard LLM Answer:
+Okay, let's pinpoint the Krishna River on a map and provide some context.
+
+**1. Where is the Krishna River Located?**
+
+The Krishna River flows primarily through **South India**, specifically through the states of:
+
+*   **Maharashtra:** A small portion of its upper reaches.
+*   **Karnataka:** A significant portion of its course.
+*   **Andhra Pradesh:** The river flows through a large part of Andhra Pradesh.
+*   **Telangana:** A smaller portion of its course.
+
+**2. Coordinates (Approximate):**
+
+*   **Source (Mahabaleshwar, Maharashtra):** Approximately 18.5° N, 73.5° E
+*   **Mouth (Bay of Bengal):** Approximately 13.7° N, 81.5° E
+
+**3. Visualizing on a Map:**
+
+Here's how to find it on a map (using Google Maps or similar):
+
+1.  **Zoom into India:** Start by zooming into the Indian subcontinent.
+2.  **Locate South India:** Look for the southern part of India, a roughly triangular shape.
+3.  **Find the Deccan Plateau:** The Krishna River flows across the Deccan Plateau, a large, elevated region in South India.
+4.  **Look for a Large River Flowing Eastward:** The Krishna River is a major river flowing eastward across the Deccan Plateau, eventually emptying into the Bay of Bengal. It's a prominent feature on most maps of India.
+
+**4. Key Cities Along the Krishna River:**
+
+*   **Mahabaleshwar:** Source of the river.
+*   **Pune:** (Maharashtra) - Near the upper reaches.
+*   **Vijayawada:** (Andhra Pradesh) - A major city on the riverbank.
+*   **Guntur:** (Andhra Pradesh) - Another important city.
+*   **Krishna (District):** A district named after the river in Andhra Pradesh.
+*   **Hanamkonda:** (Telangana) - Located near the river.
+
+**5. Resources for Maps:**
+
+*   **Google Maps:** [https://www.google.com/maps](https://www.google.com/maps) (Search for "Krishna River, India")
+*   **Wikipedia:** [https://en.wikipedia.org/wiki/Krishna_River](https://en.wikipedia.org/wiki/Krishna_River) (Has a map)
+
+
+
+I hope this helps you locate the Krishna River on a map!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8288
+Standard LLM vs Reference Similarity: 0.7894
+Similarity Improvement: 0.0394

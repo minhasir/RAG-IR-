@@ -1,0 +1,32 @@
+Question: what college did they film 22 jump street
+
+Reference Answer: He became chairman of Relativity Media 's film division , Relativity Studios , on January 6 , 2016 after Relativity acquired his production company Trigger Street Productions
+
+Retrieved Documents: 895e6327ede8c478744fc35a2c902915.txt, 48e04ff21505148f1eef6b94f3b15f17.txt, 2cb41fa6a56c89609bb782124fafd224.txt
+
+Raw Retrieved Content:
+Georgetown University would not permit filming on campus , administrators citing questionable content such as premarital sex . As a result , the university seen on film is The University of Maryland located 10 miles away in College Park , Maryland .
+
+David Denby called Schumacher `` brutally untalented '' and said that `` nobody over the moral age of fifteen '' will like the work of the Brat Pack actors in the film :
+
+The movie was filmed at the New Mexico State Penitentiary on Route 14 , Santa Fe , New Mexico . The football game at the end of the film was filmed at Murdock Stadium at the El Camino College in Torrance , California . The car chase scene was filmed whereabouts in Long Beach , California . Other parts of the film were filmed in Los Angeles and New Mexico . The golf course scene was filmed at Lost Canyons Golf Club in Simi Valley , California .
+
+Throughout his senior year , James and the Fighting Irish traveled around the country to play a number of nationally ranked teams , including a game against Oak Hill Academy that was nationally televised on ESPN2 . Time Warner Cable , looking to capitalize on James 's popularity , offered St. Vincent - St. Mary 's games to subscribers on a pay - per - view basis throughout the season
+
+Processed Retrieved Content:
+Georgetown University would not permit filming on campus, administrators citing questionable content such as premarital sex. As a result, the university seen on film is The University of Maryland located 10 miles away in College Park, Maryland. David Denby called Schumacher `` brutally untalented '' and said that `` nobody over the moral age of fifteen '' will like the work of the Brat Pack actors in the film: The movie was filmed at the New Mexico State Penitentiary on Route 14, Santa Fe, New Mexico. The football game at the end of the film was filmed at Murdock Stadium at the El Camino College in Torrance, California. The car chase scene was filmed whereabouts in Long Beach, California. Other parts of the film were filmed in Los Angeles and New Mexico. The golf course scene was filmed at Lost Canyons Golf Club in Simi Valley, California. Throughout his senior year, James and the Fighting Irish traveled around the country to play a number of nationally ranked teams, including a game against Oak Hill Academy that was nationally televised on ESPN2. Time Warner Cable, looking to capitalize on James 's popularity, offered St. Vincent - St. Mary 's games to subscribers on a pay - per - view basis throughout the season
+
+RAG Answer:
+Georgetown University would not permit filming on campus, administrators citing questionable content. As a result, the university seen on film is The University of Maryland located 10 miles away in College Park, Maryland.
+
+Standard LLM Answer:
+The movie "22 Jump Street" was filmed at **Columbia University** in New York City.
+
+
+
+It'd be a fun fact to know that the filmmakers got permission to film on campus, and even incorporated some real students into the movie!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.1669
+Standard LLM vs Reference Similarity: 0.2931
+Similarity Improvement: -0.1262

@@ -1,0 +1,80 @@
+Question: how many district in punjab and also write its name
+
+Reference Answer: Many modern day cities in Indian Punjab and Pakistani Punjab are still named from that period like Lahore , Jalandhar , Chandigarh and so on
+
+Retrieved Documents: 0b79bb452966eefb28c124b281f7ed4f.txt, 0b79bb452966eefb28c124b281f7ed4f.txt, 0b79bb452966eefb28c124b281f7ed4f.txt
+
+Raw Retrieved Content:
+Punjab state law and order is maintained by Punjab Police . Punjab police is headed by its DGP , Suresh Arora , and has 70,000 employees . It manages state affairs through 22 district heads known as SSP .
+
+Punjab has 22 districts which are geographically classified into Majha , Malwa , Doaba and Poadh regions . They are officially divided among 5 divisions : Patiala , Rupnagar , Jalandhar , Faridkot and Firozepur .
+
+. Sikhs form a majority in 18 districts out of the 22 . Hindus constitute the majority in 4 districts : complete majority in Jalandhar , Hoshiarpur , Nawanshahr districts and a marginal majority in the Gurdaspur District . Malerkotla is the only city in Punjab with a Muslim majority .
+
+The original Punjab region is now divided into several units : West Punjab ( now in Pakistan ) , portions of Khyber - Pakhtunkhwa such as the Gandharar region , the Indian states of Punjab , Haryana and Himachal Pradesh and the Indian Union territory of Chandigarh . The regions of Pakistan Occupied Kashmir and Jammu have also been historically associated with the Punjab .
+
+The Punjab is the ' Sapta Sindhu ' region mentioned in the Rig Veda , the seven rivers are :
+
+Processed Retrieved Content:
+Punjab state law and order is maintained by Punjab Police. Punjab police is headed by its DGP, Suresh Arora, and has 70,000 employees. It manages state affairs through 22 district heads known as SSP. Punjab has 22 districts which are geographically classified into Majha, Malwa, Doaba and Poadh regions. They are officially divided among 5 divisions: Patiala, Rupnagar, Jalandhar, Faridkot and Firozepur.. Sikhs form a majority in 18 districts out of the 22. Hindus constitute the majority in 4 districts: complete majority in Jalandhar, Hoshiarpur, Nawanshahr districts and a marginal majority in the Gurdaspur District. Malerkotla is the only city in Punjab with a Muslim majority. The original Punjab region is now divided into several units: West Punjab ( now in Pakistan ), portions of Khyber - Pakhtunkhwa such as the Gandharar region, the Indian states of Punjab, Haryana and Himachal Pradesh and the Indian Union territory of Chandigarh. The regions of Pakistan Occupied Kashmir and Jammu have also been historically associated with the Punjab. The Punjab is the ' Sapta Sindhu ' region mentioned in the Rig Veda, the seven rivers are:
+
+RAG Answer:
+There are 22 districts in Punjab. They are managed through 22 district heads known as SSP. The regions are geographically classified into Majha, Malwa, Doaba and Poadh. The 5 divisions are Patiala, Rupnagar, Jalandhar, Faridkot and Firozepur.
+
+Standard LLM Answer:
+Okay, let's break down the districts of Punjab, India.
+
+**How Many Districts are There in Punjab?**
+
+As of 2024, there are **23 districts** in Punjab.  The number has changed over time as new districts have been created.
+
+**List of Districts in Punjab (with some key information):**
+
+Here's a list of the districts, generally grouped by region (though some overlap exists):
+
+**I. Majha Region (Central Punjab - Historically Significant):**
+
+1.  **Amritsar:** (Major City, Golden Temple) - Known for its historical significance, the Golden Temple (Harmandir Sahib), and vibrant culture.
+2.  **Gurdaspur:** (Border District) - Located near the border with Pakistan, known for its agricultural produce and historical sites.
+3.  **Pathankot:** (Strategic Location) - Important for its railway junction and proximity to the border.
+4.  **Batala:** (Industrial Town) - Known for its engineering and manufacturing industries.
+
+**II. Doaba Region (Between the Beas and Sutlej Rivers - Fertile Plains):**
+
+5.  **Jalandhar:** (Major City, Industrial Hub) - A major city and industrial center, known for its agricultural produce and sports goods.
+6.  **Nawanshahr (Shahpur):** (Historical Significance) - Known for its historical sites and agricultural lands.
+7.  **Hoshiarpur:** (Forests & Industry) - Known for its forests, wood products, and small-scale industries.
+8.  **Kapurthala:** (Palaces & Industry) - Known for its historical palaces (Jagjit Villa) and industrial units.
+9.  **Jalandhar (Rural):** A rural district carved out of Jalandhar city.
+10. **SBS Nagar (Nabha):** (Historical Town) - Named after Nabha, a historical princely state.
+
+**III. Malwa Region (Southern Punjab - Largest Region):**
+
+11. **Ludhiana:** (Major City, Industrial Hub) - A major city and industrial center, known as the "Manchester of Punjab" for its textile industry.
+12. **Sangrur:** (Agricultural Region) - Primarily an agricultural district.
+13. **Barnala:** (Agricultural Region) - Known for its agricultural produce.
+14. **Patiala:** (Historical City, Royal Heritage) - A historical city with a rich royal heritage, known for its Qila Mubarak complex.
+15. **Faridkot:** (Historical Sites) - Known for its historical sites, including the Takh-e-Babian (Summer Palace of the Nawabs of Faridkot).
+16. **Ferozepur:** (Border District) - Located near the border with Pakistan.
+17. **Moga:** (Agricultural Region) - Primarily an agricultural district.
+18. **Muktsar:** (Historical Significance) - Known for its historical sites and agricultural lands.
+19. **Fazilka:** (Border District) - Located near the border with Pakistan.
+20. **Bathinda:** (Oil & Gas, Agriculture) - An important center for oil and gas exploration and production, as well as agriculture.
+21. **Sri Muktsar Sahib:** (Religious Significance) - Important Sikh pilgrimage site.
+22. **Tarn Taran:** (Religious Significance) - Another important Sikh pilgrimage site.
+23. **Rupnagar:** (Historical Significance) - Known for its historical sites and agricultural lands.
+
+**Important Notes:**
+
+*   **District Boundaries Change:**  The number and boundaries of districts can change over time due to administrative decisions.
+*   **Regional Divisions:** The terms "Majha," "Doaba," and "Malwa" are traditional regional divisions of Punjab, based on geography and history.
+*   **Official Sources:** For the most up-to-date and official information, always refer to the official website of the Punjab Government or the District Administration websites.
+
+
+
+I hope this comprehensive list and explanation are helpful!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4560
+Standard LLM vs Reference Similarity: 0.5369
+Similarity Improvement: -0.0809

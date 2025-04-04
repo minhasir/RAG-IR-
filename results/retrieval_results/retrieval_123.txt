@@ -1,0 +1,27 @@
+Question: when did star trek the next generation first air
+
+Reference Answer: Season Episodes Originally aired First aired Last aired 26 September 28 , 1987 ( 1987 - 09 - 28 ) May 16 , 1988 ( 1988 - 05 - 16 ) 22 November 21 , 1988 ( 1988 - 11 - 21 ) July 17 , 1989 ( 1989 - 07 - 17 ) 26 September 25 , 1989 ( 1989 - 09 - 25 ) June 18 , 1990 ( 1990 - 06 - 18 ) 26 September 24 , 1990 ( 1990 - 09 - 24 ) June 17 , 1991 ( 1991 - 06 - 17 ) 5 26 September 23 , 1991 ( 1991 - 09 - 23 ) June 15 , 1992 ( 1992 - 06 - 15 ) 6 26 September 21 , 1992 ( 1992 - 09 - 21 ) June 21 , 1993 ( 1993 - 06 - 21 ) 7 26 September 20 , 1993 ( 1993 - 09 - 20 ) May 23 , 1994 ( 1994 - 05 - 23 )
+
+Retrieved Documents: d59d2976d43ac0acdb73e1d895574cbd.txt, d59d2976d43ac0acdb73e1d895574cbd.txt, d59d2976d43ac0acdb73e1d895574cbd.txt
+
+Raw Retrieved Content:
+Star Trek : The Next Generation ( abbreviated as TNG and ST : TNG ) is an American science - fiction television series in the Star Trek franchise created by Gene Roddenberry that ran from 1987 to 1994 . Roddenberry , Maurice Hurley , Rick Berman , Michael Piller , and Jeri Taylor served as executive producers at different times throughout its production .
+
+. Paramount executives worried that a new show could hurt the demand for the films , but decided that it would increase their appeal on videocassette and cable , and that a show with unknown actors would be more profitable than paying the films ' actors ' large salaries . Roddenberry initially declined to be involved , but came on board as creator after being unhappy with early conceptual work . Star Trek : The Next Generation was announced on October 10 , 1986 , and its cast in May 1987 .
+
+The series ( 1987 -- 94 ) was broadcast in first - run syndication with dates and times varying among individual television stations . Further Star Trek spin - offs followed The Next Generation : Star Trek : Deep Space Nine ( 1993 -- 99 ) , Star Trek : Voyager ( 1995 -- 2001 ) , Star Trek : Enterprise ( 2001 -- 2005 ) , and Star Trek : Discovery ( 2017 -- present )
+
+Processed Retrieved Content:
+Star Trek: The Next Generation ( abbreviated as TNG and ST: TNG ) is an American science - fiction television series in the Star Trek franchise created by Gene Roddenberry that ran from 1987 to 1994. Roddenberry, Maurice Hurley, Rick Berman, Michael Piller, and Jeri Taylor served as executive producers at different times throughout its production.. Paramount executives worried that a new show could hurt the demand for the films, but decided that it would increase their appeal on videocassette and cable, and that a show with unknown actors would be more profitable than paying the films ' actors ' large salaries. Roddenberry initially declined to be involved, but came on board as creator after being unhappy with early conceptual work. Star Trek: The Next Generation was announced on October 10, 1986, and its cast in May 1987. The series ( 1987 -- 94 ) was broadcast in first - run syndication with dates and times varying among individual television stations. Further Star Trek spin - offs followed The Next Generation: Star Trek: Deep Space Nine ( 1993 -- 99 ), Star Trek: Voyager ( 1995 -- 2001 ), Star Trek: Enterprise ( 2001 -- 2005 ), and Star Trek: Discovery ( 2017 -- present )
+
+RAG Answer:
+The series (1987 -- 94) was broadcast in first-run syndication.
+
+Standard LLM Answer:
+Star Trek: The Next Generation first aired on **September 28, 1987**.
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.4338
+Standard LLM vs Reference Similarity: 0.4337
+Similarity Improvement: 0.0001

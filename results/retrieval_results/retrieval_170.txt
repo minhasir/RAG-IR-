@@ -1,0 +1,80 @@
+Question: what is the champions league quarter final draw
+
+Reference Answer: Each tie in the knockout phase , apart from the final , is played over two legs , with each team playing one leg at home . The team that scores more goals on aggregate over the two legs advance to the next round . If the aggregate score is level , the away goals rule is applied , i.e. the team that scored more goals away from home over the two legs advances . If away goals are also equal , then thirty minutes of extra time is played . The away goals rule is again applied after extra time , i.e. if there are goals scored during extra time and the aggregate score is still level , the visiting team advances by virtue of more away goals scored . If no goals are scored during extra time , the tie is decided by penalty shoot - out . In the final , which is played as a single match , if scores are level at the end of normal time , extra time is played , followed by penalty shoot - out if scores remain tied .
+
+Retrieved Documents: 237c445821406e08d92bfda1f2ae7744.txt, 237c445821406e08d92bfda1f2ae7744.txt, de115209dad0a4b60d95a51f5b35fedd.txt
+
+Raw Retrieved Content:
+The mechanism of the draws for each round is as follows :
+
+The draw for the round of 16 was held on 11 December 2017 , 12 : 00 CET .
+
+With five English teams in the round of 16 , this was the first time five teams from one association qualified for the Champions League knockout phase .
+
+The first legs were played on 13 , 14 , 20 and 21 February , and the second legs were played on 6 , 7 , 13 and 14 March 2018 .
+
+The draw for the quarter - finals was held on 16 March 2018 , 12 : 00 CET .
+
+The first legs were played on 3 and 4 April , and the second legs were played on 10 and 11 April 2018 .
+
+The draw for the semi-finals was held on 13 April 2018 , 13 : 00 CEST .
+
+For the first time since the 2009 -- 10 UEFA Champions League , all the four teams at this stage represent different national associations .
+
+The first legs will be played on 24 and 25 April , and the second legs will be played on 1 and 2 May 2018 .
+
+. A 1 -- 1 draw in the first leg meant Liverpool would progress to the semi-finals if they did not concede a goal in the second leg at Anfield . However , Celtic scored before half - time and again in the second half to win 3 -- 1 on aggregate .
+
+Processed Retrieved Content:
+The mechanism of the draws for each round is as follows: The draw for the round of 16 was held on 11 December 2017, 12: 00 CET. With five English teams in the round of 16, this was the first time five teams from one association qualified for the Champions League knockout phase. The first legs were played on 13, 14, 20 and 21 February, and the second legs were played on 6, 7, 13 and 14 March 2018. The draw for the quarter - finals was held on 16 March 2018, 12: 00 CET. The first legs were played on 3 and 4 April, and the second legs were played on 10 and 11 April 2018. The draw for the semi-finals was held on 13 April 2018, 13: 00 CEST. For the first time since the 2009 -- 10 UEFA Champions League, all the four teams at this stage represent different national associations. The first legs will be played on 24 and 25 April, and the second legs will be played on 1 and 2 May 2018.. A 1 -- 1 draw in the first leg meant Liverpool would progress to the semi-finals if they did not concede a goal in the second leg at Anfield. However, Celtic scored before half - time and again in the second half to win 3 -- 1 on aggregate.
+
+RAG Answer:
+The draw for the quarter-finals was held on 16 March 2018, 12:00 CET.
+
+Standard LLM Answer:
+Okay, let's break down the Champions League Quarter Final Draw. Here's what you need to know:
+
+**When was it?**
+
+The draw took place on **Friday, March 15, 2024**, in Nyon, Switzerland.
+
+**Who are the Teams Involved?**
+
+The teams that qualified for the Quarter Finals are:
+
+*   **Manchester City (England)** - Defending Champions
+*   **Arsenal (England)**
+*   **Bayern Munich (Germany)**
+*   **Real Madrid (Spain)**
+*   **Barcelona (Spain)**
+*   **Paris Saint-Germain (France)**
+*   **Inter Milan (Italy)**
+*   **Atlético Madrid (Spain)**
+
+**The Draw Results:**
+
+Here are the Quarter-Final matchups:
+
+*   **Manchester City vs. Copenhagen**
+*   **Arsenal vs. Porto**
+*   **Barcelona vs. Paris Saint-Germain**
+*   **Atlético Madrid vs. Borussia Dortmund**
+
+**Key Rules of the Draw (that affected the results):**
+
+*   **No teams from the same country could be drawn against each other.** This is a major rule.
+*   **Teams that were in the same group stage could not be drawn against each other.**
+
+**When are the Quarter Final Matches?**
+
+*   **First Leg:** April 10-11, 2024
+*   **Second Leg:** April 17-18, 2024
+
+
+
+I hope this gives you a complete picture of the Champions League Quarter Final Draw!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.3627
+Standard LLM vs Reference Similarity: 0.4504
+Similarity Improvement: -0.0877

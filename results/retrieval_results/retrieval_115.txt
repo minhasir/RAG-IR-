@@ -1,0 +1,51 @@
+Question: how old do you have to be to get a tattoo in utah
+
+Reference Answer: Legal status of Tattooing in the United states - wikipedia Legal status of Tattooing in the United states Jump to : navigation , search In the United States , there is no federal law regulating the practice of tattooing
+
+Retrieved Documents: bc672a79f98f7d715d487357581a4edf.txt, bc672a79f98f7d715d487357581a4edf.txt, bc672a79f98f7d715d487357581a4edf.txt
+
+Raw Retrieved Content:
+In the United States , there is no federal law regulating the practice of tattooing . However , all 50 states and the District of Columbia have statutory laws requiring a person receiving a tattoo be 18 years of age or older . This is partially based on the legal principle that a minor can not enter into a legal contract or otherwise render informed consent for a procedure
+
+. Most states permit a person under the age of 18 to receive a tattoo with permission of a parent or guardian , but some states outright prohibit tattooing under a certain age regardless of permission , with the exception of medical necessity ( such as markings placed for radiation therapy ) .
+
+Individual tattoo artists , piercers , etc. require a permit .
+
+State Board of Health rules on Body Art Practices and Facilities .
+
+Tattooing may only be performed by physicians , or by registered nurses & technicians working under the supervision of a physician .
+
+Fla . Stat. § 381.0775 et seq . Fla . Stat . § 381.075
+
+Minors may be body pierced with written parental consent
+
+Processed Retrieved Content:
+In the United States, there is no federal law regulating the practice of tattooing. However, all 50 states and the District of Columbia have statutory laws requiring a person receiving a tattoo be 18 years of age or older. This is partially based on the legal principle that a minor can not enter into a legal contract or otherwise render informed consent for a procedure. Most states permit a person under the age of 18 to receive a tattoo with permission of a parent or guardian, but some states outright prohibit tattooing under a certain age regardless of permission, with the exception of medical necessity ( such as markings placed for radiation therapy ). Individual tattoo artists, piercers, etc. require a permit. State Board of Health rules on Body Art Practices and Facilities. Tattooing may only be performed by physicians, or by registered nurses & technicians working under the supervision of a physician. Fla. Stat. § 381.0775 et seq. Fla. Stat. § 381.075 Minors may be body pierced with written parental consent
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The retrieved information states that all 50 states and the District of Columbia have laws requiring a person receiving a tattoo to be 18 years of age or older, but it does not specify the laws of Utah.
+
+Standard LLM Answer:
+Okay, let's break down the tattoo laws in Utah. Here's the information you need, focusing on the age requirement:
+
+**Utah Tattoo Age Law:**
+
+*   **Minimum Age:** You must be **18 years old** to get a tattoo in Utah.
+    *   **No Exceptions:** There are **no exceptions** for parental consent. Even with a parent's permission, you must be 18 to legally get a tattoo in Utah.
+*   **Legal Consequences:** Tattoo artists who violate this law (by tattooing someone under 18) can face fines.
+
+**Important Notes:**
+
+*   **Body Art Regulations:** Utah has regulations regarding body art establishments, including licensing and sanitation requirements.
+*   **Enforcement:** Tattoo artists are responsible for verifying the age of their clients. They typically require a valid photo ID.
+
+
+
+**Disclaimer:** *I am an AI chatbot and cannot provide legal advice. This information is for general informational purposes only. Laws can change, so it's always a good idea to consult with a legal professional or refer to the official Utah state statutes for the most up-to-date information.*
+
+You can find more information on the Utah Department of Health website or by searching for "Utah body art laws."
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5584
+Standard LLM vs Reference Similarity: 0.5176
+Similarity Improvement: 0.0408

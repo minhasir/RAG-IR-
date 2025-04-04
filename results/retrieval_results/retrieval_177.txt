@@ -1,0 +1,49 @@
+Question: when did the hornets move to new orleans
+
+Reference Answer: The Pelicans were established as the New Orleans Hornets in the 2002 -- 03 season when then - owner of the Charlotte Hornets , George Shinn , relocated the franchise to New Orleans . Due to the damage caused by Hurricane Katrina in 2005 , the franchise temporarily relocated to Oklahoma City , where they spent two seasons officially known as the New Orleans / Oklahoma City Hornets . The team returned to New Orleans full - time for the 2007 -- 08 season . On January 24 , 2013 , the franchise announced it would rename itself the Pelicans , effective after the conclusion of the 2012 -- 13 season . The Charlotte Hornets name , history and records from 1988 to 2002 were returned to its original city to be used by the then -- Charlotte Bobcats franchise , which subsequently became the Charlotte Hornets , starting May 20 , 2014 .
+
+Retrieved Documents: b4ceef4481f4aafec992aba22f7b716c.txt, b4ceef4481f4aafec992aba22f7b716c.txt, b4ceef4481f4aafec992aba22f7b716c.txt
+
+Raw Retrieved Content:
+Because of the catastrophic devastation brought by Hurricane Katrina upon the communities of southeastern Louisiana , the Hornets franchise temporarily relocated its base of operations to Oklahoma City , Oklahoma , in 2005 -- 06 and 2006 -- 07 , posting records of 38 -- 44 and 39 -- 43 respectively . During this time , the franchise was known as the New Orleans / Oklahoma City Hornets
+
+To restate and clarify a confusing series of events : after the 2002 season , the original Hornets moved to New Orleans . In 2004 , Charlotte was granted a new franchise , the Bobcats . After the 2013 -- 14 season , the Bobcats changed their name to the Hornets and reclaimed the history and records of the 1988 -- 2002 Hornets . As a result , the Hornets are now reckoned as having suspended operations from 2002 to 2004 , while the Pelicans are now reckoned as having joined the league in 2002 .
+
+The Pelicans were established as the New Orleans Hornets in the 2002 -- 03 season when then - owner of the Charlotte Hornets , George Shinn , relocated the franchise to New Orleans . Due to the damage caused by Hurricane Katrina in 2005 , the franchise temporarily relocated to Oklahoma City , where they spent two seasons officially known as the New Orleans / Oklahoma City Hornets . The team returned to New Orleans full - time for the 2007 -- 08 season
+
+Processed Retrieved Content:
+Because of the catastrophic devastation brought by Hurricane Katrina upon the communities of southeastern Louisiana, the Hornets franchise temporarily relocated its base of operations to Oklahoma City, Oklahoma, in 2005 -- 06 and 2006 -- 07, posting records of 38 -- 44 and 39 -- 43 respectively. During this time, the franchise was known as the New Orleans / Oklahoma City Hornets To restate and clarify a confusing series of events: after the 2002 season, the original Hornets moved to New Orleans. In 2004, Charlotte was granted a new franchise, the Bobcats. After the 2013 -- 14 season, the Bobcats changed their name to the Hornets and reclaimed the history and records of the 1988 -- 2002 Hornets. As a result, the Hornets are now reckoned as having suspended operations from 2002 to 2004, while the Pelicans are now reckoned as having joined the league in 2002. The Pelicans were established as the New Orleans Hornets in the 2002 -- 03 season when then - owner of the Charlotte Hornets, George Shinn, relocated the franchise to New Orleans. Due to the damage caused by Hurricane Katrina in 2005, the franchise temporarily relocated to Oklahoma City, where they spent two seasons officially known as the New Orleans / Oklahoma City Hornets. The team returned to New Orleans full - time for the 2007 -- 08 season
+
+RAG Answer:
+After the 2002 season, the original Hornets moved to New Orleans.
+
+Standard LLM Answer:
+This is a tricky and fascinating question rooted in the history of professional sports! Here's the breakdown of when the "Hornets" moved to New Orleans, and the layers of teams involved:
+
+**1. The Original Charlotte Hornets (1988-2002):**
+
+*   **Founded:** The Charlotte Hornets were an expansion team in the NBA, starting play in the 1988-89 season. They were originally owned by George Shinn.
+*   **Move to New Orleans (2002):** In 2002, George Shinn moved the Charlotte Hornets to New Orleans. This was a controversial move, and the team was renamed the **New Orleans Hornets**.
+
+**2. The "Bobcats" Era (2004-2014):**
+
+*   **Charlotte Bobcats:** After the move to New Orleans, George Shinn sold the Charlotte Hornets franchise to Robert Luffman, who promptly renamed the team the **Charlotte Bobcats**. This was done to avoid confusion with the New Orleans Hornets.
+*   **Return of the Hornets (2014):** In 2014, Michael Jordan purchased the Charlotte Bobcats and *re-established* the Charlotte Hornets name. This is considered a new franchise, though it carries the history and branding of the original Charlotte Hornets.
+
+**3. The Current New Orleans Pelicans (2013-Present):**
+
+*   **Name Change (2013):** In 2013, the New Orleans Hornets franchise was renamed the **New Orleans Pelicans**. This was a rebranding effort to create a fresh identity for the team.
+
+**Therefore, to answer your question directly:**
+
+*   **The team that is now the New Orleans Pelicans *moved* to New Orleans in 2002.** They were originally the Charlotte Hornets.
+*   The Charlotte Hornets name returned to Charlotte in 2014 when Michael Jordan bought the Bobcats and rebranded them.
+
+
+
+It's a complicated history, but hopefully, this clarifies the timeline of the Hornets and Pelicans!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7594
+Standard LLM vs Reference Similarity: 0.8292
+Similarity Improvement: -0.0698

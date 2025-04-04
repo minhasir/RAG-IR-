@@ -1,0 +1,29 @@
+Question: what time of year do ravens lay eggs
+
+Reference Answer: In most of their range , egg laying begins in late February . In colder climates , it is later , e.g. April in Greenland and Tibet . In Pakistan , egg - laying takes place in December . Eggs and hatchlings are preyed on , rarely , by large hawks and eagles , large owls , martens and canids . The adults , which are very rarely preyed upon , are often successful in defending their young from these predators , due to their numbers , large size and cunning . They have been observed dropping stones on potential predators that venture close to their nests .
+
+Retrieved Documents: 97117dfbda10fa88e54f4bab11f16d42.txt, 97117dfbda10fa88e54f4bab11f16d42.txt, 97117dfbda10fa88e54f4bab11f16d42.txt
+
+Raw Retrieved Content:
+In most of their range , egg laying begins in late February . In colder climates , it is later , e.g. April in Greenland and Tibet . In Pakistan , egg - laying takes place in December . Eggs and hatchlings are preyed on , rarely , by large hawks and eagles , large owls , martens and canids . The adults , which are very rarely preyed upon , are often successful in defending their young from these predators , due to their numbers , large size and cunning
+
+. They are generally resident within their range for the whole year . In his 1950 work , Grønlands Fugle ( Birds of Greenland ) , noted ornithologist Finn Salomonsen indicated that common ravens did not overwinter in the Arctic . However , in Arctic Canada and Alaska , they are found year - round . Young birds may disperse locally .
+
+. Common ravens are often located in coastal regions because these areas provide easy access to water and a variety of food sources . Also , coastal regions have stable weather patterns without extreme cold or hot temperatures .
+
+Processed Retrieved Content:
+In most of their range, egg laying begins in late February. In colder climates, it is later, e.g. April in Greenland and Tibet. In Pakistan, egg - laying takes place in December. Eggs and hatchlings are preyed on, rarely, by large hawks and eagles, large owls, martens and canids. The adults, which are very rarely preyed upon, are often successful in defending their young from these predators, due to their numbers, large size and cunning. They are generally resident within their range for the whole year. In his 1950 work, Grønlands Fugle ( Birds of Greenland ), noted ornithologist Finn Salomonsen indicated that common ravens did not overwinter in the Arctic. However, in Arctic Canada and Alaska, they are found year - round. Young birds may disperse locally.. Common ravens are often located in coastal regions because these areas provide easy access to water and a variety of food sources. Also, coastal regions have stable weather patterns without extreme cold or hot temperatures.
+
+RAG Answer:
+In most of their range, egg laying begins in late February. In colder climates, it is later, e.g. April in Greenland and Tibet. In Pakistan, egg - laying takes place in December.
+
+Standard LLM Answer:
+This is a trick question designed to be humorous! Ravens are birds, and birds **don't lay eggs**. They lay eggs. 
+
+The humor comes from the nonsensical nature of the question. 😊
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.8192
+Standard LLM vs Reference Similarity: 0.4273
+Similarity Improvement: 0.3919

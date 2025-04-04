@@ -1,0 +1,30 @@
+Question: when was the fort of bastille razed to ground
+
+Reference Answer: 369167 Type Medieval fortress , prison Site information Condition Destroyed , limited stonework survives Site history Built 1370 -- 1380s Built by Charles V of France Demolished 1789 -- 90 Events Hundred Years ' War Wars of Religion Fronde French Revolution The Bastille ( / bæˈstiːl / ; French : ( bastij ) ) was a fortress in Paris , known formally as the Bastille Saint - Antoine
+
+Retrieved Documents: b31cc180eb21f511abd6f2295cb99a27.txt, b31cc180eb21f511abd6f2295cb99a27.txt, 11cd7c080f299d7839c650d9bf4e2c7c.txt
+
+Raw Retrieved Content:
+Due to its destruction after 1789 , very little remains of the Bastille in the 21st century . During the excavations for the Métro underground train system in 1899 , the foundations of the Liberté Tower were uncovered and moved to the corner of the Boulevard Henri IV and the Quai de Celestins , where they can still be seen today . The Pont de la Concorde contains stones reused from the Bastille .
+
+The storming of the Bastille on 14 July 1789 , had been celebrated annually since 1790 , initially through quasi-religious rituals , and then later during the Revolution with grand , secular events including the burning of replica Bastilles . Under Napoleon the events became less revolutionary , focusing instead on military parades and national unity in the face of foreign threats
+
+Paris was soon in a state of anarchy . It was consumed with riots and widespread looting . Because the royal leadership essentially abandoned the city , the mobs soon had the support of the French Guard , including arms and trained soldiers . On 14 July 1789 , the insurgents set their eyes on the large weapons and ammunition cache inside the Bastille fortress , which also served as a symbol of royal tyranny
+
+Processed Retrieved Content:
+Due to its destruction after 1789, very little remains of the Bastille in the 21st century. During the excavations for the Métro underground train system in 1899, the foundations of the Liberté Tower were uncovered and moved to the corner of the Boulevard Henri IV and the Quai de Celestins, where they can still be seen today. The Pont de la Concorde contains stones reused from the Bastille. The storming of the Bastille on 14 July 1789, had been celebrated annually since 1790, initially through quasi-religious rituals, and then later during the Revolution with grand, secular events including the burning of replica Bastilles. Under Napoleon the events became less revolutionary, focusing instead on military parades and national unity in the face of foreign threats Paris was soon in a state of anarchy. It was consumed with riots and widespread looting. Because the royal leadership essentially abandoned the city, the mobs soon had the support of the French Guard, including arms and trained soldiers. On 14 July 1789, the insurgents set their eyes on the large weapons and ammunition cache inside the Bastille fortress, which also served as a symbol of royal tyranny
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions the destruction of the Bastille after 1789, but does not specify when it was razed to the ground.
+
+Standard LLM Answer:
+The Bastille fortress was razed to the ground in **July 28, 1789**. This occurred shortly after its storming by Parisian revolutionaries during the early days of the French Revolution.
+
+
+
+It was a symbolic act, marking the end of royal authority and the beginning of a new era in France.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.6041
+Standard LLM vs Reference Similarity: 0.7141
+Similarity Improvement: -0.1100

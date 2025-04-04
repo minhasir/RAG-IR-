@@ -1,0 +1,48 @@
+Question: how many goals scored ronaldo in his career
+
+Reference Answer: Cristiano Ronaldo dos Santos Aveiro GOIH ComM ( European Portuguese : ( kɾiʃˈtjɐnu ʁoˈnaɫdu ) ; born 5 February 1985 ) is a Portuguese professional footballer who plays as a forward for Italian club Juventus and the Portugal national team . Often considered the best player in the world and regarded by many as one of the greatest players of all time , Ronaldo has a record - tying five Ballon d'Or awards , the most for a European player , and is the first player to win four European Golden Shoes . He has won 26 trophies in his career , including five league titles , five UEFA Champions League titles and one UEFA European Championship . A prolific goalscorer , Ronaldo holds the records for most official goals scored in Europe 's top - five leagues ( 395 ) , the UEFA Champions League ( 120 ) , the UEFA European Championship ( 9 ) , as well as those for most assists in the UEFA Champions League ( 34 ) and the UEFA European Championship ( 6 ) . He has scored over 670 senior career goals for 
+
+Retrieved Documents: 4ba3e34a0c204bf8f381e06a9ca09ad9.txt, 4ba3e34a0c204bf8f381e06a9ca09ad9.txt, 4ba3e34a0c204bf8f381e06a9ca09ad9.txt
+
+Raw Retrieved Content:
+. He has won 26 trophies in his career , including five league titles , five UEFA Champions League titles and one UEFA European Championship . A prolific goalscorer , Ronaldo holds the records for most official goals scored in Europe 's top - five leagues ( 395 ) , the UEFA Champions League ( 120 ) , the UEFA European Championship ( 9 ) , as well as those for most assists in the UEFA Champions League ( 34 ) and the UEFA European Championship ( 6 )
+
+. After enjoying a strong goalscoring run during the first half of the campaign , Ronaldo suggested that he was in the best form of his career . By late November , he had scored 32 goals from 22 matches played for both club and country , including hat - tricks against Galatasaray , Sevilla , Real Sociedad , Northern Ireland , and Sweden . He ended 2013 with a total of 69 goals in 59 appearances , his highest year - end goal tally
+
+In Madrid , Ronaldo won 15 trophies , including two La Liga titles , two Copas del Rey , four UEFA Champions League titles , two UEFA Super Cups , and three FIFA Club World Cups. Real Madrid 's all - time top goalscorer , Ronaldo scored a record 34 La Liga hat - tricks , including a record - tying eight hat - tricks in the 2014 -- 15 season and is the only player to reach 30 goals in six consecutive La Liga seasons
+
+Processed Retrieved Content:
+. He has won 26 trophies in his career, including five league titles, five UEFA Champions League titles and one UEFA European Championship. A prolific goalscorer, Ronaldo holds the records for most official goals scored in Europe 's top - five leagues ( 395 ), the UEFA Champions League ( 120 ), the UEFA European Championship ( 9 ), as well as those for most assists in the UEFA Champions League ( 34 ) and the UEFA European Championship ( 6 ). After enjoying a strong goalscoring run during the first half of the campaign, Ronaldo suggested that he was in the best form of his career. By late November, he had scored 32 goals from 22 matches played for both club and country, including hat - tricks against Galatasaray, Sevilla, Real Sociedad, Northern Ireland, and Sweden. He ended 2013 with a total of 69 goals in 59 appearances, his highest year - end goal tally In Madrid, Ronaldo won 15 trophies, including two La Liga titles, two Copas del Rey, four UEFA Champions League titles, two UEFA Super Cups, and three FIFA Club World Cups. Real Madrid 's all - time top goalscorer, Ronaldo scored a record 34 La Liga hat - tricks, including a record - tying eight hat - tricks in the 2014 -- 15 season and is the only player to reach 30 goals in six consecutive La Liga seasons
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. While the text provides numerous goal records (395 in Europe's top-five leagues, 120 in the UEFA Champions League, etc.), it does not state his total career goals.
+
+Standard LLM Answer:
+Okay, let's break down the goal count for Cristiano Ronaldo's career. It's a constantly evolving number, but here's a comprehensive update as of **May 12, 2024**:
+
+**Total Goals (across all competitions - club and international): 895**
+
+Here's a breakdown by category:
+
+*   **Club Goals:** 815
+    *   Sporting CP: 5
+    *   Manchester United: 130
+    *   Real Madrid: 450
+    *   Juventus: 101
+    *   Al Nassr: 76
+*   **International Goals (Portugal):** 128 (All-time leading international goalscorer)
+*   **Other Goals (Friendlies, etc.):** 52
+
+**Important Notes:**
+
+*   **Official vs. Unofficial:** The 895 figure is generally considered the most comprehensive, including goals in competitive matches, friendlies, and other official games. Some sources might only count competitive goals, which would be a lower number.
+*   **Constantly Changing:** Ronaldo is still actively playing, so this number will continue to increase.
+
+
+
+I hope this detailed breakdown is helpful!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.5975
+Standard LLM vs Reference Similarity: 0.7345
+Similarity Improvement: -0.1370

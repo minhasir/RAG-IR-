@@ -1,0 +1,53 @@
+Question: match each animal with the best description of their migratory behavior
+
+Reference Answer: Fisheries science and wild fisheries Fisheries science Population dynamics of fisheries Shifting baseline Fish stock Fish mortality Condition index Stock assessment Fish measurement Standard weight in fish Fish counter Data storage tag Catch per unit effort Otolith microchemical analysis Biomass Fisheries acoustics Acoustic tag Coded wire tag GIS and aquatic science Pop - up satellite archival tag EcoSCOPE Age class structure Trophic level Trophic cascades Match / mismatch hypothesis Fisheries and climate change Marine biology Aquatic ecosystems Bioeconomics EconMult Ecopath FishBase Census of Marine Life OSTM Fisheries databases Institutes Fisheries scientists Wild fisheries Ocean fisheries Diversity of fish Coastal fish Coral reef fish Demersal fish Forage fish Pelagic fish Cod fisheries Crab fisheries Eel fisheries Krill fisheries Kelp fisheries Lobster fisheries Shrimp fishery Eel ladder Fish ladder Fish screen Migration Salmon run Sardine run Shoaling and schooling Marine habitats
+
+Retrieved Documents: e67f50b9a93f34eb1fa42789af01d4dd.txt, e67f50b9a93f34eb1fa42789af01d4dd.txt, e67f50b9a93f34eb1fa42789af01d4dd.txt
+
+Raw Retrieved Content:
+For years scientists have been tracking animals and the ways they migrate . One of the many goals of animal migration research has been to determine where the animals are going ; however , researchers also want to know why they are going `` there ''
+
+. Researchers not only look at the animals ' migration but also what is between point a and point b to determine if a species is moving to new locations based on food density , a change in water temperature , and the animal 's ability to adapt to these changes .
+
+Electronic tags are giving scientists a complete , accurate picture of migration patterns . For example , when scientists used radio transmitters to track one herd of caribou , they learned two important things . First , they learned that the herd moves much more than previously thought . Second , they learned that each year the herd returns to about the same place to give birth . This information would have been difficult or impossible to obtain with `` low tech '' tags .
+
+Processed Retrieved Content:
+For years scientists have been tracking animals and the ways they migrate. One of the many goals of animal migration research has been to determine where the animals are going; however, researchers also want to know why they are going `` there ''. Researchers not only look at the animals ' migration but also what is between point a and point b to determine if a species is moving to new locations based on food density, a change in water temperature, and the animal 's ability to adapt to these changes. Electronic tags are giving scientists a complete, accurate picture of migration patterns. For example, when scientists used radio transmitters to track one herd of caribou, they learned two important things. First, they learned that the herd moves much more than previously thought. Second, they learned that each year the herd returns to about the same place to give birth. This information would have been difficult or impossible to obtain with `` low tech '' tags.
+
+RAG Answer:
+Based on the provided information, I cannot answer this question. The text mentions "caribou" as an example, but it doesn't list other animals or their specific migratory behaviors. It only describes general findings about animal migration and the use of tracking technology.
+
+Standard LLM Answer:
+Okay, this is a fun challenge! Let's break down how to approach matching animals with their migratory behaviors. I'll need some animals and descriptions to work with. **Please provide me with a list of animals and a list of descriptions.**
+
+Here's the kind of information I'm looking for, as an example:
+
+**Animals:**
+
+*   Monarch Butterfly
+*   Gray Whale
+*   Arctic Tern
+*   Salmon
+*   Caribou
+
+**Descriptions:**
+
+*   Travels thousands of miles between breeding and feeding grounds, often across multiple oceans.
+*   Undergoes a multi-generational migration, with each generation completing a portion of the overall journey.
+*   Migrates long distances to warmer breeding waters, following seasonal food sources.
+*   Returns to its birthplace to spawn, completing a complex river journey.
+*   Moves in large herds, following seasonal changes in vegetation and climate.
+
+**Once you provide the lists, I will:**
+
+1.  **Analyze each description:** I'll look for key phrases and details that indicate the type of migration.
+2.  **Match the descriptions to the animals:** I'll use my knowledge of animal behavior and migration patterns to find the best fit.
+3.  **Provide the matches:** I'll give you a clear list of which animal corresponds to which description.
+
+**I'm ready when you are! Just give me the lists.**
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.2922
+Standard LLM vs Reference Similarity: 0.4919
+Similarity Improvement: -0.1997

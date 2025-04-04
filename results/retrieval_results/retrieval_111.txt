@@ -1,0 +1,43 @@
+Question: when did now thats what i call music come out
+
+Reference Answer: Now That 's What I Call Music ( also simply titled Now or Now 1 ) is the first album from the popular Now ! series that was released in the United Kingdom on 28 November 1983 . Initial pressings were released on vinyl and audio cassette . To celebrate the 25th anniversary of the album and series , the album was re-released on CD for the first time in 2009 . However , alternative longer mixes of Only For Love , Double Dutch and Candy Girl were included in place of the original shorter single mixes from 1983 . A double vinyl re-release followed for Record Store Day on 18 April 2015 . In July 2018 , the album was newly remastered and re-released on CD , vinyl and cassette to commemorate the release of the 100th volume of the series .
+
+Retrieved Documents: c4236b4f57baf16bf40a1f4f4c20f2cd.txt, 8c4477b67ad39b61262582306b60b4c4.txt, 8c4477b67ad39b61262582306b60b4c4.txt
+
+Raw Retrieved Content:
+Now That 's What I Call Music ( also simply titled Now or Now 1 ) is the first album from the popular Now ! series that was released in the United Kingdom on 28 November 1983 . Initial pressings were released on vinyl and audio cassette . To celebrate the 25th anniversary of the album and series , the album was re-released on CD for the first time in 2009
+
+Now That 's What I Call Music 17 or Now 17 is the 17th edition of the Now ! series in the United Kingdom and was released in April 1990 on vinyl , audio cassette , compact disc and VHS .
+
+Now That 's What I Call Music 17 Compilation album by various artists Released 23 April 1990 Genre Pop Length 2 : 05 : 00 Label Virgin / EMI / Polygram Series chronology Now That 's What I Call Music 16 ( 1989 ) Now That 's What I Call Music 17 ( 1990 ) Now ! That 's What I Call Music 18 ( 1990 ) Now That 's What I Call Music 17 or Now 17 is the 17th edition of the Now ! series in the United Kingdom and was released in April 1990 on vinyl , audio cassette , compact disc and VHS
+
+Processed Retrieved Content:
+Now That 's What I Call Music ( also simply titled Now or Now 1 ) is the first album from the popular Now! series that was released in the United Kingdom on 28 November 1983. Initial pressings were released on vinyl and audio cassette. To celebrate the 25th anniversary of the album and series, the album was re-released on CD for the first time in 2009 Now That 's What I Call Music 17 or Now 17 is the 17th edition of the Now! series in the United Kingdom and was released in April 1990 on vinyl, audio cassette, compact disc and VHS. Now That 's What I Call Music 17 Compilation album by various artists Released 23 April 1990 Genre Pop Length 2: 05: 00 Label Virgin / EMI / Polygram Series chronology Now That 's What I Call Music 16 ( 1989 ) Now That 's What I Call Music 17 ( 1990 ) Now! That 's What I Call Music 18 ( 1990 ) Now That 's What I Call Music 17 or Now 17 is the 17th edition of the Now! series in the United Kingdom and was released in April 1990 on vinyl, audio cassette, compact disc and VHS
+
+RAG Answer:
+Now That's What I Call Music (also simply titled Now or Now 1) was released on 28 November 1983.
+
+Standard LLM Answer:
+Okay, let's break down the history of "Now That's What I Call Music!" to answer your question.
+
+**The Origin - UK First!**
+
+*   **First Release:** The very first "Now That's What I Call Music!" album was released in the **United Kingdom on November 19, 1983.** It featured hits from artists like Culture Club, Stevie Wonder, and Duran Duran.
+
+**The US Version**
+
+*   **First US Release:** The series made its way to the United States in **1988**. The first US volume was released on **August 16, 1988.** It was a joint venture between CBS Records (later Columbia) and PolyGram.
+
+**Therefore, to answer your question directly:**
+
+*   **Globally (UK):** November 19, 1983
+*   **In the United States:** August 16, 1988
+
+
+
+Hopefully, that clarifies the history of this iconic music compilation series!
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7640
+Standard LLM vs Reference Similarity: 0.7947
+Similarity Improvement: -0.0308

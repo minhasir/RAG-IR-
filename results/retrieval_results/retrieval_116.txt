@@ -1,0 +1,38 @@
+Question: where did the band bastille get their name
+
+Reference Answer: Bastille ( stylised as BΔSTILLE ) are a British rock band formed in 2010 . The group began as a solo project by lead vocalist Dan Smith , but later expanded to include keyboardist Kyle Simmons , bassist and guitarist Will Farquarson , and drummer Chris Wood . The name of the band derives from Bastille Day , which is celebrated on 14 July , the date of Smith 's birthday .
+
+Retrieved Documents: 2673fe40ce9fc0099d8e30adc23283df.txt, b31cc180eb21f511abd6f2295cb99a27.txt, 2673fe40ce9fc0099d8e30adc23283df.txt
+
+Raw Retrieved Content:
+Bastille ( stylised as BΔSTILLE ) are a British rock band formed in 2010 . The group began as a solo project by lead vocalist Dan Smith , but later expanded to include keyboardist Kyle Simmons , bassist and guitarist Will Farquarson , and drummer Chris Wood . The name of the band derives from Bastille Day , which is celebrated on 14 July , the date of Smith 's birthday .
+
+The Bastille ( / bæˈstiːl / ; French : ( bastij ) ) was a fortress in Paris , known formally as the Bastille Saint - Antoine . It played an important role in the internal conflicts of France and for most of its history was used as a state prison by the kings of France . It was stormed by a crowd on 14 July 1789 , in the French Revolution , becoming an important symbol for the French Republican movement , and was later demolished and replaced by the Place de la Bastille .
+
+Bastille debuted in July 2010 with their limited edition 7 '' single that featured the two tracks `` Flaws '' and `` Icarus '' . Released through London - based independent record label Young & Lost Club , only 300 copies were pressed . One of the copies found its way into the hands of Alex Baker , presenter of the unsigned / independent artists radio show on Kerrang ! Radio . Baker started to support Bastille on air , and the band began to find an audience
+
+Processed Retrieved Content:
+Bastille ( stylised as BΔSTILLE ) are a British rock band formed in 2010. The group began as a solo project by lead vocalist Dan Smith, but later expanded to include keyboardist Kyle Simmons, bassist and guitarist Will Farquarson, and drummer Chris Wood. The name of the band derives from Bastille Day, which is celebrated on 14 July, the date of Smith 's birthday. The Bastille ( / bæˈstiːl /; French: ( bastij ) ) was a fortress in Paris, known formally as the Bastille Saint - Antoine. It played an important role in the internal conflicts of France and for most of its history was used as a state prison by the kings of France. It was stormed by a crowd on 14 July 1789, in the French Revolution, becoming an important symbol for the French Republican movement, and was later demolished and replaced by the Place de la Bastille. Bastille debuted in July 2010 with their limited edition 7 '' single that featured the two tracks `` Flaws '' and `` Icarus ''. Released through London - based independent record label Young & Lost Club, only 300 copies were pressed. One of the copies found its way into the hands of Alex Baker, presenter of the unsigned / independent artists radio show on Kerrang! Radio. Baker started to support Bastille on air, and the band began to find an audience
+
+RAG Answer:
+The name of the band derives from Bastille Day, which is celebrated on 14 July, the date of Smith's birthday.
+
+Standard LLM Answer:
+This is a fun one! The band Bastille got their name from the **Rue de la Bastille** in Paris, France.
+
+Here's the story:
+
+*   **Dan Smith**, the lead singer of Bastille, lived in a flat on that street for a while.
+*   He was inspired by the name of the street, which itself refers to the **Bastille**, a medieval fortress and prison in Paris. The storming of the Bastille on July 14, 1789, was a pivotal event in the French Revolution.
+*   Smith felt the name "Bastille" had a strong, evocative quality and felt it would be a good name for a band.
+
+So, it's a connection to a specific place in Paris and, indirectly, to a significant historical event.
+
+
+
+
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7598
+Standard LLM vs Reference Similarity: 0.7391
+Similarity Improvement: 0.0207

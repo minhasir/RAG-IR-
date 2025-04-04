@@ -1,0 +1,61 @@
+Question: who are muckrakers and what did they do
+
+Reference Answer: While the muckrakers continued the investigative exposures and sensational traditions of yellow journalism , they wrote to change society
+
+Retrieved Documents: 01134691941f3f519528c6f9db485585.txt, 01134691941f3f519528c6f9db485585.txt, 01134691941f3f519528c6f9db485585.txt
+
+Raw Retrieved Content:
+The muckrakers played a highly visible role during the Progressive Era period , 1890s -- 1920s . Muckraking magazines -- notably McClure 's of the publisher S.S. McClure -- took on corporate monopolies and political machines while trying to raise public awareness and anger at urban poverty , unsafe working conditions , prostitution , and child labor .
+
+. In British English the term muckraker is more likely to mean a journalist ( often on a tabloid newspaper ) who specialises in scandal and malicious gossip about celebrities or well - known personalities and is generally used in a derogatory sense .
+
+The term eventually came to be used in reference to investigative journalists who reported about and exposed such issues as crime , fraud , waste , public health and safety , graft , illegal financial practices . A muckraker 's reporting may span businesses and government .
+
+Some of the key documents that came to define the work of the muckrakers were :
+
+Processed Retrieved Content:
+The muckrakers played a highly visible role during the Progressive Era period, 1890s -- 1920s. Muckraking magazines -- notably McClure 's of the publisher S.S. McClure -- took on corporate monopolies and political machines while trying to raise public awareness and anger at urban poverty, unsafe working conditions, prostitution, and child labor.. In British English the term muckraker is more likely to mean a journalist ( often on a tabloid newspaper ) who specialises in scandal and malicious gossip about celebrities or well - known personalities and is generally used in a derogatory sense. The term eventually came to be used in reference to investigative journalists who reported about and exposed such issues as crime, fraud, waste, public health and safety, graft, illegal financial practices. A muckraker 's reporting may span businesses and government. Some of the key documents that came to define the work of the muckrakers were:
+
+RAG Answer:
+Muckrakers are investigative journalists who reported about and exposed issues such as crime, fraud, waste, public health and safety, graft, and illegal financial practices. Their reporting could span businesses and government. During the Progressive Era (1890s-1920s), muckraking magazines, notably McClure's, took on corporate monopolies and political machines while trying to raise public awareness and anger at urban poverty, unsafe working conditions, prostitution, and child labor. In British English, the term is more likely to refer to a journalist who specializes in scandal and malicious gossip about celebrities.
+
+Standard LLM Answer:
+Okay, let's break down the term "muckrakers" and their historical significance.
+
+**Who were Muckrakers?**
+
+"Muckraker" is a term that originated in the early 1900s in the United States. It refers to investigative journalists who exposed corruption and social problems. The name comes from a line in a speech given by President Theodore Roosevelt in 1906. He used the term from Shakespeare's *The Winter's Tale*, where the character of a "muckraker" is someone who digs in the dirt, literally and figuratively. Roosevelt used it to criticize journalists he felt were sensationalizing and focusing solely on the negative, rather than contributing to constructive reform.  However, the term stuck and became associated with those journalists who *were* actively exposing wrongdoing.
+
+**What did they do?**
+
+Muckrakers investigated and wrote about a wide range of issues, including:
+
+*   **Political Corruption:** They exposed bribery, kickbacks, and other forms of corruption in government at all levels (local, state, and federal).
+*   **Business Practices:** They investigated monopolies, unfair labor practices, unsafe working conditions, and deceptive advertising.
+*   **Social Problems:** They brought attention to poverty, child labor, unsafe food and drugs, and other social ills.
+
+**Key Muckrakers and Their Work:**
+
+Here are some of the most famous muckrakers and their significant contributions:
+
+*   **Ida Tarbell:**  Her series of articles in *McClure's Magazine* (1902-1904) exposed the unethical and monopolistic practices of the Standard Oil Company, contributing to the breakup of the trust under the Sherman Antitrust Act.
+*   **Upton Sinclair:**  His novel *The Jungle* (1906) was intended to expose the harsh conditions faced by meatpacking workers. While it did that, it also shocked the public with its descriptions of unsanitary conditions in the meatpacking industry, leading to the passage of the Pure Food and Drug Act and the Meat Inspection Act.
+*   **Lincoln Steffens:**  He wrote a series of articles called "Tweed Days in Gotham" and "The Shame of the Cities," exposing corruption in city governments across the country.
+*   **Jacob Riis:**  A photographer and writer, Riis's book *How the Other Half Lives* (1890) used photographs and vivid descriptions to expose the poverty and squalor of New York City's slums.  It helped spur reforms in housing and sanitation.
+*   **Nellie Bly:**  A pioneering investigative journalist, Bly famously went undercover to expose the horrific conditions in a mental institution in New York City, writing about her experiences in a series of articles.
+
+**Impact and Legacy:**
+
+*   **Progressive Era Reforms:** Muckrakers played a significant role in the Progressive Era (roughly 1890s-1920s), a period of widespread social and political reform in the United States. Their work helped create public awareness and demand for change.
+*   **Legislation:** Their investigations directly led to the passage of important legislation, such as the Pure Food and Drug Act, the Meat Inspection Act, and various labor laws.
+*   **Rise of Investigative Journalism:** They helped establish the tradition of investigative journalism, which continues to be an important part of modern journalism.
+*   **Public Awareness:** They raised public awareness of social problems and helped to create a more informed and engaged citizenry.
+
+
+
+In essence, muckrakers were journalists who fearlessly dug into the dirt to expose wrongdoing and advocate for a more just and equitable society.
+
+Similarity Evaluation:
+RAG vs Reference Similarity: 0.7534
+Standard LLM vs Reference Similarity: 0.7284
+Similarity Improvement: 0.0250
